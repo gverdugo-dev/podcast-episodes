@@ -64,3 +64,20 @@ Spotify no tiene API de subida: se le da la URL del feed **una sola vez** (Spoti
 verificación por código al `email` del feed) y después sondea el feed varias veces por hora. El
 diseño completo, incluidas las decisiones sobre contenido generado por IA y cómo se añadirán
 otras plataformas, está en `docs/features/publishing.md` del agregador.
+
+## Agent skills
+
+### Issue tracker
+
+Las issues de este repo viven en GitHub Issues de `gverdugo-dev/podcast-episodes` y se gestionan
+con el CLI `gh` (cuenta `gverdugo-dev`). Ver `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Se usan las cinco etiquetas de triaje por defecto, cada una con su nombre canónico: `needs-triage`,
+`needs-info`, `ready-for-agent`, `ready-for-human` y `wontfix`. Ver `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: un `CONTEXT.md` y un `docs/adr/` en la raíz del repo, creados solo cuando haga
+falta. Ver `docs/agents/domain.md`.
