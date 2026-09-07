@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "createdAt": "2026-09-07T14:19:27.437Z",
+        "reason": "Matches the podcast cover art typeface (cover generated with Montserrat Black style); user asked the site to follow the cover styling"
+      }
+    ]
+  }
+}
