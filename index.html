@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3 minutos</title>
+  <meta name="description" content="Boletines diarios de tres minutos escritos y locutados con inteligencia artificial: noticias, tecnología, deporte.">
+  <link rel="icon" href="noticias/cover.jpg">
+  <meta property="og:title" content="3 minutos">
+  <meta property="og:description" content="Boletines diarios de tres minutos escritos y locutados con inteligencia artificial.">
+  <meta property="og:image" content="noticias/cover.jpg">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --navy: #1b2a4e;
+      --navy-soft: rgba(27, 42, 78, 0.72);
+      --teal: #7fcfc4;
+      --teal-dark: #2f9d8f;
+      --aqua: #d9f5ef;
+      --sky: #cfe6fb;
+      --mint: #d4f2e0;
+      --card: rgba(255, 255, 255, 0.72);
+      --line: rgba(27, 42, 78, 0.12);
+      --radius: 18px;
+      --max: 880px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Montserrat", "Segoe UI", system-ui, -apple-system, sans-serif;
+      font-weight: 500;
+      color: var(--navy);
+      background: linear-gradient(135deg, var(--aqua) 0%, #eaf8f4 35%, var(--mint) 60%, var(--sky) 100%) fixed;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+    a { color: var(--teal-dark); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 20px; }
+
+    header.hero { padding: 56px 0 36px; }
+    .kicker {
+      font-size: 13px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--navy-soft); margin: 0 0 8px;
+    }
+    h1 { font-size: clamp(34px, 6vw, 52px); font-weight: 800; line-height: 1.05; margin: 0 0 12px; letter-spacing: -0.01em; }
+    .lead { font-size: 17px; margin: 0; max-width: 560px; }
+
+    main { padding: 8px 0 64px; }
+    .section-title { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 16px; }
+    .section-title h2 { font-size: 13px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; margin: 0; color: var(--navy-soft); }
+    .programmes { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+    .programme {
+      background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 18px; display: grid; grid-template-columns: 120px 1fr; gap: 18px;
+      backdrop-filter: blur(6px);
+    }
+    .programme img {
+      width: 120px; height: 120px; border-radius: 18px; object-fit: cover; display: block;
+      box-shadow: 0 12px 28px rgba(27, 42, 78, 0.16);
+    }
+    .programme h3 { font-size: 22px; font-weight: 800; line-height: 1.2; margin: 0 0 8px; }
+    .programme p { margin: 0 0 12px; font-size: 15px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 8px 14px; border-radius: 999px; font-size: 13px; font-weight: 800;
+      background: var(--navy); color: #fff; border: 2px solid var(--navy);
+    }
+    .btn:hover { text-decoration: none; background: #26386a; border-color: #26386a; }
+    .btn.ghost { background: transparent; color: var(--navy); }
+    .btn.ghost:hover { background: rgba(255, 255, 255, 0.5); }
+    .btn svg { width: 16px; height: 16px; }
+    .status { text-align: center; color: var(--navy-soft); padding: 32px 0; font-size: 14px; }
+
+    .about {
+      margin-top: 40px; padding: 24px; border-radius: var(--radius);
+      background: var(--card); border: 1px solid var(--line); backdrop-filter: blur(6px);
+    }
+    .about h2 { font-size: 20px; font-weight: 800; margin: 0 0 8px; }
+    .about p { margin: 0 0 10px; font-size: 15px; }
+    .about p:last-child { margin: 0; }
+    footer { text-align: center; font-size: 13px; color: var(--navy-soft); padding: 0 20px 40px; }
+
+    @media (max-width: 640px) {
+      header.hero { padding: 36px 0 24px; }
+      .programme { grid-template-columns: 88px 1fr; gap: 14px; padding: 14px; }
+      .programme img { width: 88px; height: 88px; border-radius: 14px; }
+      .programme h3 { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="kicker">Micropodcasts diarios</p>
+      <h1>3 minutos</h1>
+      <p class="lead">Boletines de tres minutos, uno por tema, escritos y locutados cada noche con inteligencia artificial a partir de la prensa española.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="section-title">
+      <h2>Programas</h2>
+    </div>
+    <ul class="programmes" id="programmes"></ul>
+    <p class="status" id="status">Cargando programas…</p>
+
+    <section class="about" id="about">
+      <h2>Qué es esto</h2>
+      <p>Un experimento de <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">Gonzalo Verdugo</a>: un sistema que cada noche recoge las noticias de la prensa española, elige las más relevantes de cada tema sin repetir las de días anteriores, escribe un guion de tres minutos por programa y lo locuta. No hay nadie detrás del micrófono: el guion lo escribe un modelo de lenguaje y la voz es sintética, y cada programa lo dice en cada episodio.</p>
+      <p>Cada programa se publica por RSS, de donde lo recogen Spotify y el resto de directorios de podcasts. Cómo funciona por dentro, en <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">gonzaloverdugo.com</a>.</p>
+    </section>
+  </main>
+
+  <footer>3 minutos · <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">gonzaloverdugo.com</a></footer>
+
+  <script>
+    (async function () {
+      const list = document.getElementById("programmes");
+      const status = document.getElementById("status");
+
+      function el(tag, attrs, children) {
+        const node = document.createElement(tag);
+        for (const [k, v] of Object.entries(attrs || {})) {
+          if (k === "text") node.textContent = v; else node.setAttribute(k, v);
+        }
+        for (const child of children || []) node.appendChild(child);
+        return node;
+      }
+      function rssIcon() {
+        const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svg.setAttribute("viewBox", "0 0 24 24");
+        svg.setAttribute("fill", "currentColor");
+        svg.setAttribute("aria-hidden", "true");
+        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path.setAttribute("d", "M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7V4zm0 6a10 10 0 0 1 10 10h-3a7 7 0 0 0-7-7v-3zm0 7a3 3 0 1 1 0 6 3 3 0 0 1 0-6z");
+        svg.appendChild(path);
+        return svg;
+      }
+
+      try {
+        const res = await fetch("programmes.json", { cache: "no-cache" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const programmes = await res.json();
+        if (!programmes.length) { status.textContent = "Todavía no hay programas."; return; }
+
+        for (const p of programmes) {
+          const home = p.slug + "/";
+          const feedBtn = el("a", { class: "btn", href: p.feed }, [rssIcon()]);
+          feedBtn.appendChild(document.createTextNode("Feed RSS"));
+          const body = el("div", {}, [
+            el("h3", {}, [el("a", { href: home, text: p.name })]),
+            el("p", { text: p.description }),
+            el("div", { class: "actions" }, [
+              el("a", { class: "btn ghost", href: home, text: "Episodios" }),
+              feedBtn,
+            ]),
+          ]);
+          const art = el("a", { href: home }, [el("img", { src: p.cover, alt: "Portada de " + p.name, width: 120, height: 120 })]);
+          list.appendChild(el("li", { class: "programme", id: p.slug }, [art, body]));
+        }
+        status.hidden = true;
+      } catch (err) {
+        status.textContent = "No se han podido cargar los programas. El de noticias está en noticias/.";
+      }
+    })();
+  </script>
+</body>
+</html>

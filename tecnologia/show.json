@@ -1,0 +1,16 @@
+{
+  "title": "3 minutos de tecnología",
+  "description": "La tecnología del día contada en tres minutos cada mañana: inteligencia artificial, empresas, productos y lo que cambia para quien los usa. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica en castellano: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.",
+  "base_url": "https://gverdugo-dev.github.io/podcast-episodes/tecnologia/",
+  "link": "https://gonzaloverdugo.com/",
+  "language": "es",
+  "author": "Gonzalo Verdugo",
+  "email": "verdugogarridogonzalo@gmail.com",
+  "image": "https://gverdugo-dev.github.io/podcast-episodes/tecnologia/cover.jpg",
+  "category": "Technology",
+  "subcategory": "Tech News",
+  "explicit": false,
+  "copyright": "Gonzalo Verdugo",
+  "ai_notice": "Guion y voz generados con inteligencia artificial.",
+  "voice": "Danny"
+}

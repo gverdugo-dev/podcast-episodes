@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "noticias",
+    "name": "3 minutos de noticias",
+    "description": "Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín escrito y locutado con inteligencia artificial.",
+    "cover": "noticias/cover.jpg",
+    "feed": "noticias/feed.xml"
+  },
+  {
+    "slug": "tecnologia",
+    "name": "3 minutos de tecnología",
+    "description": "La tecnología del día contada en tres minutos cada mañana: inteligencia artificial, empresas, productos y lo que cambia para quien los usa.",
+    "cover": "tecnologia/cover.jpg",
+    "feed": "tecnologia/feed.xml"
+  },
+  {
+    "slug": "deportes",
+    "name": "3 minutos de deporte",
+    "description": "El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo.",
+    "cover": "deportes/cover.jpg",
+    "feed": "deportes/feed.xml"
+  }
+]

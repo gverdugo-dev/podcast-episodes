@@ -4,24 +4,27 @@
 
 # podcast-episodes
 
-Audios, guiones y feed RSS de **3 minutos de noticias**, el micropodcast diario en castellano
-que escribe y locuta cada noche, con inteligencia artificial, la routine del
+Audios, guiones y feeds RSS de los programas **3 minutos** ("3 minutos de noticias" hoy;
+tecnología y deporte después), los micropodcasts diarios en castellano que escribe y locuta
+cada noche, con inteligencia artificial, la routine del
 [agregador de noticias](https://github.com/gverdugo-dev/news-aggregator).
 
 | | |
 |---|---|
-| **Qué es** | Repo de datos servido por GitHub Pages: un MP3, un guion y una imagen por día, más el feed |
+| **Qué es** | Repo de datos servido por GitHub Pages: una carpeta por programa con un MP3, un guion y una imagen por día, más su feed |
 | **Estado** | Activo; escribe la routine, un commit por episodio |
-| **Stack** | Ficheros estáticos, `feed.xml` RSS con las etiquetas de iTunes y Podcasting 2.0, `index.html` |
+| **Stack** | Ficheros estáticos, un `feed.xml` RSS por programa con las etiquetas de iTunes y Podcasting 2.0, `index.html` |
 | **Repo** | `gverdugo-dev/podcast-episodes`, público |
 | **Forma parte de** | `personal-public-resources`, el contenedor de recursos personales |
 
 ## Qué hace
 
-- Feed: `https://gverdugo-dev.github.io/podcast-episodes/feed.xml`
-- Web: `https://gverdugo-dev.github.io/podcast-episodes/`
+- Portada de los programas: `https://gverdugo-dev.github.io/podcast-episodes/`
+- Feed de "3 minutos de noticias": `https://gverdugo-dev.github.io/podcast-episodes/noticias/feed.xml`
+- Web de "3 minutos de noticias": `https://gverdugo-dev.github.io/podcast-episodes/noticias/`
 
-Cada episodio ocupa hasta tres ficheros en `episodes/`, nombrados por su fecha en hora de Madrid:
+Cada programa tiene su carpeta, con el slug que tiene en el agregador, y cada episodio ocupa
+hasta tres ficheros en `<slug>/episodes/`, nombrados por su fecha en hora de Madrid:
 
 | Fichero | Qué es |
 |---------|--------|
@@ -35,22 +38,26 @@ sintética. El programa lo dice en cada episodio y el feed lo declara con
 
 ## Cómo se usa
 
-Aquí no hay código que ejecutar. Para escuchar el programa basta con dar la URL del feed a
-cualquier aplicación de podcasts. La única entrada manual es `show.json` (nombre, descripción,
-autor, email, portada, URL base); tras cambiarlo se regenera el feed desde el plugin y se
-commitean los dos. Los ficheros de `episodes/` y `feed.xml` no se editan a mano: un episodio
-malo se regenera desde el agregador.
+Aquí no hay código que ejecutar. Para escuchar un programa basta con dar la URL de su feed a
+cualquier aplicación de podcasts. Las únicas entradas manuales son `programmes.json` (la lista
+de programas de la portada) y el `show.json` de cada programa (nombre, descripción, autor,
+email, portada, URL base, voz); tras cambiar un `show.json` se regenera su feed desde el plugin
+y se commitean los dos. Los ficheros de `<slug>/episodes/` y `<slug>/feed.xml` no se editan a
+mano: un episodio malo se regenera desde el agregador.
 
 ## Estructura
 
 ```
-docs/              # esta cabecera
-episodes/          # un MP3, un guion y una imagen por día
-show.json          # metadatos del programa
-cover.jpg          # portada del programa y referencia de estilo de las imágenes de episodio
-feed.xml           # el feed RSS, un item por episodio
-index.html         # la web: lista de episodios leída del feed en el navegador
-.nojekyll          # Pages sirve los ficheros tal cual
+docs/                  # esta cabecera
+index.html             # la portada: lista de programas leída de programmes.json
+programmes.json        # los programas publicados: slug, nombre, descripción, portada y feed
+noticias/              # un programa, con su slug del agregador
+  episodes/            # un MP3, un guion y una imagen por día
+  show.json            # metadatos del programa, incluida la voz
+  cover.jpg            # portada del programa y referencia de estilo de las imágenes de episodio
+  feed.xml             # el feed RSS del programa, un item por episodio
+  index.html           # la web del programa: lista de episodios leída del feed en el navegador
+.nojekyll              # Pages sirve los ficheros tal cual
 ```
 
 ## Cómo encaja

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/feed.xml" rel="self" type="application/rss+xml" />
+    <title>3 minutos de tecnología</title>
+    <link>https://gonzaloverdugo.com/</link>
+    <description>La tecnología del día contada en tres minutos cada mañana: inteligencia artificial, empresas, productos y lo que cambia para quien los usa. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica en castellano: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
+    <language>es</language>
+    <copyright>Gonzalo Verdugo</copyright>
+    <lastBuildDate>Mon, 07 Sep 2026 19:07:27 +0200</lastBuildDate>
+    <generator>feed.py (news-aggregator plugin)</generator>
+    <itunes:author>Gonzalo Verdugo</itunes:author>
+    <itunes:summary>La tecnología del día contada en tres minutos cada mañana: inteligencia artificial, empresas, productos y lo que cambia para quien los usa. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica en castellano: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Gonzalo Verdugo</itunes:name>
+      <itunes:email>verdugogarridogonzalo@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/cover.jpg" />
+    <image>
+      <url>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/cover.jpg</url>
+      <title>3 minutos de tecnología</title>
+      <link>https://gonzaloverdugo.com/</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <podcast:txt purpose="ai-content">true</podcast:txt>
+  </channel>
+</rss>
