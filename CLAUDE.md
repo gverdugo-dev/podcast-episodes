@@ -69,8 +69,11 @@ otras plataformas, está en `docs/features/publishing.md` del agregador.
 
 ### Issue tracker
 
-Las issues de este repo viven en GitHub Issues de `gverdugo-dev/podcast-episodes` y se gestionan
-con el CLI `gh` (cuenta `gverdugo-dev`). Ver `docs/agents/issue-tracker.md`.
+Las issues y specs de este recurso **no viven en este repo**: viven en las GitHub Issues del
+contenedor privado `gverdugo-dev/personal-public-resources`, con la label `resource:podcast-episodes`,
+y se gestionan con la CLI `gh` (cuenta `gverdugo-dev`) pasando siempre
+`-R gverdugo-dev/personal-public-resources`. Las PRs sí son de este repo. Ver
+`docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
