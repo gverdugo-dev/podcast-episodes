@@ -11,6 +11,7 @@ y locuta cada noche, con inteligencia artificial, la routine del
 |---------|--------|
 | `YYYY-MM-DD.mp3` | El audio, MP3 44,1 kHz a 128 kbps, generado con ElevenLabs |
 | `YYYY-MM-DD.txt` | El guion tal como se locutó |
+| `YYYY-MM-DD.jpg` | La imagen del episodio, generada con Nano Banana a partir de la portada (puede faltar) |
 
 Los metadatos del programa están en `show.json`; los de cada episodio (título, resumen, fecha,
 duración) viven en `feed.xml`. Aquí no hay código: quien escribe es la skill `generate-audio`

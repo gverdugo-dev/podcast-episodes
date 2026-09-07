@@ -13,8 +13,10 @@ de **datos**, no de código: aquí no hay nada que compilar ni que probar.
   Submódulo del contenedor `personal-public-resources`.
 - Quien escribe es una **Claude routine**: cada noche, tras escribir el guion, la skill
   `generate-audio` del plugin `news-aggregator` (repo `plugins-lab`) genera el audio con
-  ElevenLabs, deja los dos ficheros del día en `episodes/`, añade el episodio a `feed.xml` con
-  `scripts/feed.py` y hace **un commit y un push por episodio**.
+  ElevenLabs y la imagen del episodio con Nano Banana (a partir de `cover.jpg`, con la maqueta
+  fija del estilo `3mn-episode-cover` del plugin `multimedia`), deja los ficheros del día en
+  `episodes/`, añade el episodio a `feed.xml` con `scripts/feed.py` y hace **un commit y un
+  push por episodio**.
 - El agregador (`news-aggregator`) guarda en su tabla `episodes` la URL pública del audio y su
   duración (`audio_url`, `audio_seconds`), apuntando aquí. Es la fuente de verdad de todo lo
   demás (guion, resumen, keywords, items): en este repo solo está lo que se publica.
@@ -27,10 +29,12 @@ podcast-episodes/
 ├── README.md
 ├── .nojekyll          # Pages sirve los ficheros tal cual, sin pasar por Jekyll
 ├── show.json          # metadatos del programa: nombre, descripción, autor, email, portada, URL base
+├── cover.jpg          # portada del programa; también la referencia de estilo de las imágenes de episodio
 ├── feed.xml           # el feed RSS, lo mantiene feed.py; un item por episodio
 └── episodes/
     ├── 2026-09-07.mp3     # audio, MP3 44,1 kHz 128 kbps
-    └── 2026-09-07.txt     # guion locutado (enlazado desde el feed como transcripción)
+    ├── 2026-09-07.txt     # guion locutado (enlazado desde el feed como transcripción)
+    └── 2026-09-07.jpg     # imagen del episodio (itunes:image del item); puede faltar
 ```
 
 La fecha del nombre es la del episodio en hora de **Europe/Madrid**, la misma que usa la skill
