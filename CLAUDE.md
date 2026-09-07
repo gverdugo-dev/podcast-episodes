@@ -4,16 +4,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Qué es este repo
 
-Almacén de los **episodios de "3 minutos de noticias"**: el audio, el guion y los metadatos de
-cada día. Es un repo de **datos**, no de código: aquí no hay nada que compilar ni que probar.
+Almacén y **feed público** de los episodios de "3 minutos de noticias": el audio y el guion de
+cada día, más el `feed.xml` que leen Spotify y el resto de directorios de podcasts. Es un repo
+de **datos**, no de código: aquí no hay nada que compilar ni que probar.
 
-- Repo privado bajo `gverdugo-dev`. Submódulo del contenedor `personal-public-resources`.
+- Repo **público** bajo `gverdugo-dev`, servido por **GitHub Pages** desde la raíz de `main`
+  (`https://gverdugo-dev.github.io/podcast-episodes/`, o el dominio propio que se configure).
+  Submódulo del contenedor `personal-public-resources`.
 - Quien escribe es una **Claude routine**: cada noche, tras escribir el guion, la skill
   `generate-audio` del plugin `news-aggregator` (repo `plugins-lab`) genera el audio con
-  ElevenLabs, deja los tres ficheros del día en `episodes/` y hace **un commit y un push por
-  episodio**.
-- El agregador (`news-aggregator`) guarda en su tabla `episodes` la URL del audio y su duración
-  (`audio_url`, `audio_seconds`), apuntando a este repo.
+  ElevenLabs, deja los dos ficheros del día en `episodes/`, añade el episodio a `feed.xml` con
+  `scripts/feed.py` y hace **un commit y un push por episodio**.
+- El agregador (`news-aggregator`) guarda en su tabla `episodes` la URL pública del audio y su
+  duración (`audio_url`, `audio_seconds`), apuntando aquí. Es la fuente de verdad de todo lo
+  demás (guion, resumen, keywords, items): en este repo solo está lo que se publica.
 
 ## Estructura
 
@@ -21,27 +25,37 @@ cada día. Es un repo de **datos**, no de código: aquí no hay nada que compila
 podcast-episodes/
 ├── CLAUDE.md
 ├── README.md
+├── .nojekyll          # Pages sirve los ficheros tal cual, sin pasar por Jekyll
+├── show.json          # metadatos del programa: nombre, descripción, autor, email, portada, URL base
+├── feed.xml           # el feed RSS, lo mantiene feed.py; un item por episodio
 └── episodes/
     ├── 2026-09-07.mp3     # audio, MP3 44,1 kHz 128 kbps
-    ├── 2026-09-07.txt     # guion locutado
-    └── 2026-09-07.json    # metadatos del episodio
+    └── 2026-09-07.txt     # guion locutado (enlazado desde el feed como transcripción)
 ```
 
 La fecha del nombre es la del episodio en hora de **Europe/Madrid**, la misma que usa la skill
-`write-episode` para decidir si ya hay episodio de hoy.
+`write-episode` para decidir si ya hay episodio de hoy, y es el `guid` del item en el feed.
 
 ## Reglas
 
-- **No editar a mano** los ficheros de `episodes/`: son la salida de la routine. Un episodio
-  malo se regenera desde el agregador (`write-episode` con `force=1` y después `generate-audio`),
-  no se retoca aquí.
-- **Nunca** guardar aquí la clave de ElevenLabs ni la del agregador. Viven en el entorno de la
-  routine (`ELEVENLABS_API_KEY`, `NEWS_AGGREGATOR_API_KEY`).
+- **No editar a mano** los ficheros de `episodes/` ni `feed.xml`: son la salida de la routine.
+  Un episodio malo se regenera desde el agregador (`write-episode` con `force=1` y después
+  `generate-audio`), no se retoca aquí. Para corregir el audio de un día hay que cambiar el
+  nombre del fichero: Spotify no vuelve a descargar un MP3 cuya URL no cambia.
+- **`show.json` sí se edita a mano** (es la única entrada manual). Tras cambiarlo, regenerar
+  el feed con `feed.py rebuild --repo .` desde el plugin y commitear los dos. El `email` es el
+  que recibe el código de verificación de Spotify y queda público en el XML; `base_url` es la
+  URL desde la que se sirven feed y audios, y cambiarla reescribe todas las URLs del feed.
+- **Nada del agregador que no se publique**: ni ids, ni keywords, ni items usados, ni claves.
+  Este repo es público y su historia también. Las claves (`ELEVENLABS_API_KEY`,
+  `NEWS_AGGREGATOR_API_KEY`) viven en el entorno de la routine.
 - Mensajes de commit en inglés, con la forma `Episode YYYY-MM-DD: <título>`.
 - Tamaño: unos 3 MB por día. Si el repo crece demasiado, la salida es mover los audios a un
-  almacenamiento de objetos y dejar aquí solo guion y metadatos, no borrar historia.
+  almacenamiento de objetos y cambiar `base_url`, no borrar historia.
 
-## Lo que vendrá
+## Publicación
 
-La publicación en Spotify necesita un feed RSS con URLs públicas de los audios. Si este repo se
-hace público, GitHub Pages puede servir el feed y los mp3 desde aquí mismo.
+Spotify no tiene API de subida: se le da la URL del feed **una sola vez** (Spotify for Creators,
+verificación por código al `email` del feed) y después sondea el feed varias veces por hora. El
+diseño completo, incluidas las decisiones sobre contenido generado por IA y cómo se añadirán
+otras plataformas, está en `docs/features/publishing.md` del agregador.

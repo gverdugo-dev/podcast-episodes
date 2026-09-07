@@ -1,0 +1,15 @@
+{
+  "title": "3 minutos de noticias",
+  "description": "Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.",
+  "base_url": "https://gverdugo-dev.github.io/podcast-episodes/",
+  "link": "https://gonzaloverdugo.com/",
+  "language": "es",
+  "author": "Gonzalo Verdugo",
+  "email": "PENDIENTE@example.com",
+  "image": "",
+  "category": "News",
+  "subcategory": "Daily News",
+  "explicit": false,
+  "copyright": "Gonzalo Verdugo",
+  "ai_notice": "Guion y voz generados con inteligencia artificial."
+}
