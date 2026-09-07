@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3 minutos de noticias</title>
+  <meta name="description" content="Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Boletín diario escrito y locutado con inteligencia artificial.">
+  <link rel="icon" href="cover.jpg">
+  <link rel="alternate" type="application/rss+xml" title="3 minutos de noticias" href="feed.xml">
+  <meta property="og:title" content="3 minutos de noticias">
+  <meta property="og:description" content="Las noticias del día en tres minutos, cada mañana. Escrito y locutado con inteligencia artificial.">
+  <meta property="og:image" content="cover.jpg">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --navy: #1b2a4e;
+      --navy-soft: rgba(27, 42, 78, 0.72);
+      --teal: #7fcfc4;
+      --teal-dark: #2f9d8f;
+      --aqua: #d9f5ef;
+      --sky: #cfe6fb;
+      --mint: #d4f2e0;
+      --card: rgba(255, 255, 255, 0.72);
+      --line: rgba(27, 42, 78, 0.12);
+      --radius: 18px;
+      --max: 880px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: "Montserrat", "Segoe UI", system-ui, -apple-system, sans-serif;
+      font-weight: 500;
+      color: var(--navy);
+      background: linear-gradient(135deg, var(--aqua) 0%, #eaf8f4 35%, var(--mint) 60%, var(--sky) 100%) fixed;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--teal-dark); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 20px; }
+
+    /* Hero */
+    header.hero { padding: 56px 0 36px; }
+    .hero-inner { display: flex; gap: 32px; align-items: center; }
+    .hero-inner > div { min-width: 0; flex: 1 1 auto; }
+    body { overflow-x: hidden; }
+    .hero img {
+      width: 168px; height: 168px; border-radius: 24px; flex: none;
+      box-shadow: 0 18px 40px rgba(27, 42, 78, 0.18);
+    }
+    .kicker {
+      font-size: 13px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--navy-soft); margin: 0 0 8px;
+    }
+    h1 { font-size: clamp(34px, 6vw, 52px); font-weight: 800; line-height: 1.05; margin: 0 0 12px; letter-spacing: -0.01em; }
+    .lead { font-size: 17px; margin: 0 0 18px; max-width: 560px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 16px; border-radius: 999px; font-size: 14px; font-weight: 800;
+      background: var(--navy); color: #fff; border: 2px solid var(--navy);
+    }
+    .btn:hover { text-decoration: none; background: #26386a; border-color: #26386a; }
+    .btn.ghost { background: transparent; color: var(--navy); }
+    .btn.ghost:hover { background: rgba(255, 255, 255, 0.5); }
+    .btn svg { width: 16px; height: 16px; }
+    .note { font-size: 13px; color: var(--navy-soft); margin: 14px 0 0; }
+
+    /* List */
+    main { padding: 8px 0 64px; }
+    .section-title { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 16px; }
+    .section-title h2 { font-size: 13px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; margin: 0; color: var(--navy-soft); }
+    .section-title span { font-size: 13px; color: var(--navy-soft); }
+    .episodes { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+    .episode {
+      background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 18px; display: grid; grid-template-columns: 96px 1fr; gap: 18px;
+      backdrop-filter: blur(6px);
+    }
+    .episode img, .episode .art-fallback {
+      width: 96px; height: 96px; border-radius: 14px; object-fit: cover; display: block;
+      background: linear-gradient(135deg, var(--aqua), var(--sky));
+    }
+    .episode .art-fallback { display: grid; place-items: center; font-weight: 800; font-size: 22px; letter-spacing: -0.02em; }
+    .episode .date { font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--navy-soft); margin: 0 0 4px; }
+    .episode h3 { font-size: 20px; font-weight: 800; line-height: 1.2; margin: 0 0 8px; }
+    .episode .meta { font-size: 13px; color: var(--navy-soft); margin: 0 0 10px; display: flex; flex-wrap: wrap; gap: 6px 14px; }
+    .episode audio { width: 100%; height: 36px; display: block; margin: 0 0 8px; }
+    .episode details { font-size: 14px; }
+    .episode summary { cursor: pointer; font-weight: 800; font-size: 13px; color: var(--teal-dark); list-style: none; }
+    .episode summary::-webkit-details-marker { display: none; }
+    .episode summary::after { content: " +"; }
+    .episode details[open] summary::after { content: " \2212"; }
+    .episode details p { margin: 8px 0 0; white-space: pre-line; }
+    .episode .links { margin-top: 8px; font-size: 13px; }
+    .status { text-align: center; color: var(--navy-soft); padding: 32px 0; font-size: 14px; }
+
+    /* About */
+    .about {
+      margin-top: 40px; padding: 24px; border-radius: var(--radius);
+      background: var(--card); border: 1px solid var(--line); backdrop-filter: blur(6px);
+    }
+    .about h2 { font-size: 20px; font-weight: 800; margin: 0 0 8px; }
+    .about p { margin: 0 0 10px; font-size: 15px; }
+    .about p:last-child { margin: 0; }
+    footer { text-align: center; font-size: 13px; color: var(--navy-soft); padding: 0 20px 40px; }
+
+    @media (max-width: 640px) {
+      header.hero { padding: 36px 0 24px; }
+      .hero-inner { flex-direction: column; align-items: stretch; gap: 20px; }
+      .hero-inner > div { width: 100%; }
+      .hero img { width: 120px; height: 120px; border-radius: 18px; }
+      .episode { grid-template-columns: 72px 1fr; gap: 14px; padding: 14px; }
+      .episode img, .episode .art-fallback { width: 72px; height: 72px; border-radius: 12px; }
+      .episode h3 { font-size: 17px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <img src="cover.jpg" alt="Portada de 3 minutos de noticias" width="168" height="168">
+      <div>
+        <p class="kicker">Micropodcast diario</p>
+        <h1>3 minutos de noticias</h1>
+        <p class="lead">Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín escrito y locutado con inteligencia artificial.</p>
+        <div class="actions">
+          <a class="btn" href="feed.xml">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7V4zm0 6a10 10 0 0 1 10 10h-3a7 7 0 0 0-7-7v-3zm0 7a3 3 0 1 1 0 6 3 3 0 0 1 0-6z"/></svg>
+            Feed RSS
+          </a>
+          <a class="btn ghost" href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">Sobre el proyecto</a>
+        </div>
+        <p class="note">Guion generado por un modelo de lenguaje a partir de la prensa española y voz sintética de ElevenLabs.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="section-title">
+      <h2>Episodios</h2>
+      <span id="count"></span>
+    </div>
+    <ul class="episodes" id="episodes"></ul>
+    <p class="status" id="status">Cargando episodios…</p>
+
+    <section class="about" id="about">
+      <h2>Qué es esto</h2>
+      <p>Un experimento de <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">Gonzalo Verdugo</a>: un sistema que cada noche recoge las noticias de la prensa española, elige las más relevantes sin repetir las de días anteriores, escribe un guion de tres minutos y lo locuta. No hay nadie detrás del micrófono: el guion lo escribe un modelo de lenguaje y la voz es sintética, y el programa lo dice en cada episodio.</p>
+      <p>Los episodios se publican por <a href="feed.xml">RSS</a>, de donde los recogen Spotify y el resto de directorios de podcasts. Cómo funciona por dentro, en <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">gonzaloverdugo.com</a>.</p>
+    </section>
+  </main>
+
+  <footer>3 minutos de noticias · <a href="https://gonzaloverdugo.com/" target="_blank" rel="noopener">gonzaloverdugo.com</a></footer>
+
+  <script>
+    (async function () {
+      const list = document.getElementById("episodes");
+      const status = document.getElementById("status");
+      const count = document.getElementById("count");
+      const ITUNES = "http://www.itunes.com/dtds/podcast-1.0.dtd";
+      const PODCAST = "https://podcastindex.org/namespace/1.0";
+      const months = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
+      const days = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+
+      function text(node, name) {
+        const el = node.getElementsByTagName(name)[0];
+        return el ? el.textContent.trim() : "";
+      }
+      function nsAttr(node, ns, name, attr) {
+        const el = node.getElementsByTagNameNS(ns, name)[0];
+        return el ? el.getAttribute(attr) : "";
+      }
+      function nsText(node, ns, name) {
+        const el = node.getElementsByTagNameNS(ns, name)[0];
+        return el ? el.textContent.trim() : "";
+      }
+      function fmtDate(guid, pubDate) {
+        const d = /^\d{4}-\d{2}-\d{2}$/.test(guid) ? new Date(guid + "T12:00:00") : new Date(pubDate);
+        if (isNaN(d)) return guid;
+        return `${days[d.getDay()]} ${d.getDate()} de ${months[d.getMonth()]} de ${d.getFullYear()}`;
+      }
+      function fmtDuration(seconds) {
+        const s = parseInt(seconds, 10);
+        if (!s) return "";
+        return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")} min`;
+      }
+      function el(tag, attrs, children) {
+        const node = document.createElement(tag);
+        for (const [k, v] of Object.entries(attrs || {})) {
+          if (k === "text") node.textContent = v; else node.setAttribute(k, v);
+        }
+        for (const child of children || []) node.appendChild(child);
+        return node;
+      }
+
+      try {
+        const res = await fetch("feed.xml", { cache: "no-cache" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const xml = new DOMParser().parseFromString(await res.text(), "application/xml");
+        const items = Array.from(xml.getElementsByTagName("item"));
+        if (!items.length) { status.textContent = "Todavía no hay episodios."; return; }
+
+        for (const item of items) {
+          const guid = text(item, "guid");
+          const title = text(item, "title");
+          const description = text(item, "description");
+          const enclosure = item.getElementsByTagName("enclosure")[0];
+          const audio = enclosure ? enclosure.getAttribute("url") : "";
+          const art = nsAttr(item, ITUNES, "image", "href");
+          const duration = nsText(item, ITUNES, "duration");
+          const transcript = nsAttr(item, PODCAST, "transcript", "url");
+          const headline = title.includes(":") ? title.split(":").slice(1).join(":").trim() : title;
+
+          const artNode = art
+            ? el("img", { src: art, alt: "", loading: "lazy", width: 96, height: 96 })
+            : el("div", { class: "art-fallback", text: "3MN" });
+          const body = el("div", {}, [
+            el("p", { class: "date", text: fmtDate(guid, text(item, "pubDate")) }),
+            el("h3", { text: headline.charAt(0).toUpperCase() + headline.slice(1) }),
+            el("p", { class: "meta" }, [el("span", { text: fmtDuration(duration) }), el("span", { text: "Episodio " + (items.length - items.indexOf(item)) })]),
+          ]);
+          if (audio) body.appendChild(el("audio", { controls: "", preload: "none", src: audio }));
+          if (description) {
+            body.appendChild(el("details", {}, [
+              el("summary", { text: "De qué va" }),
+              el("p", { text: description }),
+            ]));
+          }
+          const links = el("p", { class: "links" });
+          if (audio) links.appendChild(el("a", { href: audio, text: "Descargar MP3" }));
+          if (transcript) { links.appendChild(document.createTextNode(" · ")); links.appendChild(el("a", { href: transcript, text: "Guion" })); }
+          body.appendChild(links);
+
+          list.appendChild(el("li", { class: "episode", id: guid }, [artNode, body]));
+        }
+        count.textContent = items.length === 1 ? "1 episodio" : `${items.length} episodios`;
+        status.hidden = true;
+      } catch (err) {
+        status.textContent = "No se han podido cargar los episodios. El feed sigue disponible en feed.xml.";
+      }
+    })();
+  </script>
+</body>
+</html>

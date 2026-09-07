@@ -28,6 +28,7 @@ podcast-episodes/
 ├── CLAUDE.md
 ├── README.md
 ├── .nojekyll          # Pages sirve los ficheros tal cual, sin pasar por Jekyll
+├── index.html         # la web: hero, lista de episodios (lee feed.xml en el navegador) y enlace a gonzaloverdugo.com
 ├── show.json          # metadatos del programa: nombre, descripción, autor, email, portada, URL base
 ├── cover.jpg          # portada del programa; también la referencia de estilo de las imágenes de episodio
 ├── feed.xml           # el feed RSS, lo mantiene feed.py; un item por episodio
