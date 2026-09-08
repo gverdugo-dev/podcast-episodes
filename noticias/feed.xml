@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 18:56:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:51:25 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 8 de septiembre: Ceuta, caso de Estado</title>
+      <description>Apertura con Ceuta: la jueza María Tardón asume en la Audiencia Nacional la causa por la entrada masiva del 30 y 31 de julio, la califica de plan coordinado con gestión favorecedora de Marruecos e investiga cuatro delitos, entre ellos los homicidios imprudentes de las 83 personas ahogadas; el Gobierno se personará y ABC revela que mandos policiales se negaron a firmar un informe exculpatorio de Marruecos pedido por Interior. Vuelta al cole: 16.070 alumnos regresan hoy a las aulas de Ceuta con un vigilante privado por centro y familias que anuncian absentismo, mientras en Cataluña el curso arranca en huelga con 1,6 millones de alumnos afectados. Además, Begoña Gómez acude esta tarde a la audiencia preliminar ante el juez Peinado antes del jurado popular (Hazte Oír pide 13 años, la Fiscalía la absolución); Airbus pausa la huelga en Cádiz, Tablada e Illescas pero Getafe la mantiene a la espera del referéndum sobre el preacuerdo del 7,95%; y Von der Leyen anuncia en Nuuk 200 millones para Groenlandia el mismo día en que Trump publica un mapa con la bandera de EEUU sobre la isla, Islandia, Canadá y México. Cierre con Bernie Ecclestone, retenido a los 95 años en el aeródromo de Tires con una escopeta sin documentación.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 04:48:39 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-08.mp3" length="2549595" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-08.mp3</link>
+      <itunes:duration>159</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-08.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-08.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 7 de septiembre: noche de fuego en Ceuta</title>
       <description>Apertura con Ceuta: peor noche de vandalismo desde el 30 de julio (tres coches y tres contenedores quemados, un guardia civil herido de una pedrada), el Consejo de Ministros desclasifica el martes los informes de inteligencia previos a la entrada de unas 70.000 personas para publicarlos el miércoles, y el PP arropa en Madrid a Juan Jesús Vivas mientras Feijóo acusa a Marruecos de buscar una cesión. Fuera de España, AfD gana Sajonia-Anhalt con el 44% y deja al partido de Friedrich Merz en el 17% sin ningún distrito, y un Boeing 767 de carga de Amazon se sale de la pista en Miami con cinco muertos y cinco heridos. En clave nacional, Julio Martínez Sola admite ante el juez Calama que Plus Ultra pagó unos 530.000 euros (el 1% del rescate de 53 millones) por la mediación del grupo Zapatero, y Pedro Sánchez estrena el portal de Casa 47 con 800 viviendas de alquiler en once provincias, adjudicadas por sorteo ante notario; cierre con el primer día de la princesa Leonor en Ciencias Políticas en la Universidad Carlos III de Getafe.
