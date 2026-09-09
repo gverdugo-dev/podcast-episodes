@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:51:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:33:20 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 9 de septiembre: España se hunde en PISA</title>
+      <description>Apertura con PISA 2025: España firma su peor resultado histórico en las tres competencias (451 en lectura, 23 puntos menos que en 2022; 457 en matemáticas y 477 en ciencias), uno de cada tres alumnos no alcanza el nivel mínimo en lectura, la OCDE culpa a las pantallas y la ministra Milagros Tolón descarta que la causa sea la ley Celaá. El Tribunal Supremo suspende cautelarmente por cinco votos contra uno el derecho al voto de los nacionalizados por la ley de nietos salvo exilio acreditado en consulado, tras la petición de Vox e Iustitia Europa: 306.000 ya inscritos y Bolaños pide sentencia antes de 2027. Seguimiento de Ceuta: el primer control al Gobierno en el Senado se convierte en monográfico, el PP llama invasores a los migrantes, Óscar Puente acusa de deslealtad permanente a Juan Jesús Vivas, Interior cifra en 1.100 los adultos censados y Felipe VI se reunió el lunes con Margarita Robles y la cúpula militar. Además, los sindicatos pausan hoy la huelga de Airbus pese a que la plantilla votó seguir por 67 votos (51%), con referéndum del preacuerdo este mes; y Trump telefonea a Putin para pedirle el fin de la guerra de Ucrania dentro de su mandato mientras Kiev sufre cinco muertos. Cierre en la Mostra de Venecia con Penélope Cruz y Javier Bardem presentando Búnker, de Florian Zeller.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 06:30:50 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-09.mp3" length="2471854" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-09.mp3</link>
+      <itunes:duration>154</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-09.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-09.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 8 de septiembre: Ceuta, caso de Estado</title>
       <description>Apertura con Ceuta: la jueza María Tardón asume en la Audiencia Nacional la causa por la entrada masiva del 30 y 31 de julio, la califica de plan coordinado con gestión favorecedora de Marruecos e investiga cuatro delitos, entre ellos los homicidios imprudentes de las 83 personas ahogadas; el Gobierno se personará y ABC revela que mandos policiales se negaron a firmar un informe exculpatorio de Marruecos pedido por Interior. Vuelta al cole: 16.070 alumnos regresan hoy a las aulas de Ceuta con un vigilante privado por centro y familias que anuncian absentismo, mientras en Cataluña el curso arranca en huelga con 1,6 millones de alumnos afectados. Además, Begoña Gómez acude esta tarde a la audiencia preliminar ante el juez Peinado antes del jurado popular (Hazte Oír pide 13 años, la Fiscalía la absolución); Airbus pausa la huelga en Cádiz, Tablada e Illescas pero Getafe la mantiene a la espera del referéndum sobre el preacuerdo del 7,95%; y Von der Leyen anuncia en Nuuk 200 millones para Groenlandia el mismo día en que Trump publica un mapa con la bandera de EEUU sobre la isla, Islandia, Canadá y México. Cierre con Bernie Ecclestone, retenido a los 95 años en el aeródromo de Tires con una escopeta sin documentación.
