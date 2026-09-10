@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 06:33:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:33:34 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 10 de septiembre: los papeles del CNI</title>
+      <description>Apertura con los informes desclasificados de Ceuta: prueban que el CNI avisó el 29 de julio a las 13:52 por WhatsApp a la Delegación del Gobierno de un llamamiento en redes (dos grupos con 180.000 seguidores) para asaltar la valla, y alertó también a Marruecos; la Delegación respondió «sus rilas» y su delegado, Miguel Ángel Pérez Triano, no lo explicó; entraron más de 80.000 personas en 48 horas, Sánchez mantiene que nadie podía anticiparlo, Moncloa reprocha al CNI un aviso a un cargo menor y Marlaska había negado en el Congreso que hubiera informes. El pulso por Ormuz se convierte en guerra de petroleros (EEUU destruye cinco barcos iraníes tras misiles de la Guardia Revolucionaria contra un portaaviones): el Brent cierra sobre 101 dólares, primera vez desde el 24 de julio, y el Ibex cae un 1,51% hasta 19.695 puntos. El temporal mediterráneo mata a una mujer de 63 años en Felanitx (Mallorca), con 119 incidencias en Baleares, rachas de 109 km/h en Capdepera, clases suspendidas en cinco comarcas catalanas y unos 30 vuelos cancelados en El Prat. Además, el Gobierno vasco concede el tercer grado a Henri Parot, 39 asesinatos y 35 años de cárcel, con otra treintena de etarras en camino y el rechazo de Covite y la AVT; y Josep Lluís Trapero dimite como director general de los Mossos, sustituido por Ferran López, con Junts y ERC pidiendo la comparecencia de Núria Parlon. Cierre con el estudio de la Universidad Griffith en Célebes: arecolina en dientes de hace 25.000 años, el consumo de drogas más antiguo documentado.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 06:30:22 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-10.mp3" length="3295652" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-10.mp3</link>
+      <itunes:duration>206</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-10.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-10.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 9 de septiembre: España se hunde en PISA</title>
       <description>Apertura con PISA 2025: España firma su peor resultado histórico en las tres competencias (451 en lectura, 23 puntos menos que en 2022; 457 en matemáticas y 477 en ciencias), uno de cada tres alumnos no alcanza el nivel mínimo en lectura, la OCDE culpa a las pantallas y la ministra Milagros Tolón descarta que la causa sea la ley Celaá. El Tribunal Supremo suspende cautelarmente por cinco votos contra uno el derecho al voto de los nacionalizados por la ley de nietos salvo exilio acreditado en consulado, tras la petición de Vox e Iustitia Europa: 306.000 ya inscritos y Bolaños pide sentencia antes de 2027. Seguimiento de Ceuta: el primer control al Gobierno en el Senado se convierte en monográfico, el PP llama invasores a los migrantes, Óscar Puente acusa de deslealtad permanente a Juan Jesús Vivas, Interior cifra en 1.100 los adultos censados y Felipe VI se reunió el lunes con Margarita Robles y la cúpula militar. Además, los sindicatos pausan hoy la huelga de Airbus pese a que la plantilla votó seguir por 67 votos (51%), con referéndum del preacuerdo este mes; y Trump telefonea a Putin para pedirle el fin de la guerra de Ucrania dentro de su mandato mientras Kiev sufre cinco muertos. Cierre en la Mostra de Venecia con Penélope Cruz y Javier Bardem presentando Búnker, de Florian Zeller.
