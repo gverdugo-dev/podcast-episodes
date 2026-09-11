@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 06:33:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:06:22 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 11 de septiembre: el BCE encarece la hipoteca</title>
+      <description>Apertura con el Banco Central Europeo: segunda subida de tipos del año hasta el 2,5%, euríbor en el 3,10%, la hipoteca media de 178.000 euros pasa de 821 a 906 euros al mes (1.020 más al año), Lagarde culpa a la energía con el Brent en torno a 100 dólares y la inflación de la eurozona en el 3,3%, y el BCE no prevé volver al objetivo hasta 2028; el bono español a diez años en el 3,963%. Seguimiento de Ceuta: Marruecos rompe su silencio por primera vez desde julio y el ministerio de Nasser Bourita niega toda implicación, rechaza ser "chivo expiatorio" y carga contra partidos e instituciones judiciales españolas a dos semanas de sus legislativas del 23 de septiembre, mientras la desclasificación se vuelve contra el Gobierno con García-Page hablando de gestión desastrosa, Felipe González reprochando que nadie asuma responsabilidades y el Congreso tumbando por 174 votos el plan del PP. En la víspera de la Diada, Aliança Catalana de Sílvia Orriols hizo su ofrenda en el Fossar de les Moreres con unos 300 seguidores y ocho autocares frente a miles de manifestantes de la izquierda independentista: los Mossos cargaron y detuvieron a cuatro personas, e Illa respondió desde el balcón de la Generalitat que "el odio no cabe". Además, Hablar Salva, la iniciativa de Vicky Nieto, colocó 3.953 flores ante el Congreso en el Día Mundial para la Prevención del Suicidio y reclama a Sanidad una campaña estatal que sigue sin llegar; y el Congreso aprobó por 168 votos a favor, 31 en contra y 145 abstenciones la ley que da la nacionalidad a los saharauis nacidos antes de 1977, unas 80.000 personas, ahora camino del Senado. Cierre con la Comic-Con de Málaga del 1 al 4 de octubre: Elijah Wood, Sean Astin y el reparto de Los Serrano reunido veinte años después.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 05:02:54 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-11.mp3" length="3057833" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-11.mp3</link>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-11.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-11.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 10 de septiembre: los papeles del CNI</title>
       <description>Apertura con los informes desclasificados de Ceuta: prueban que el CNI avisó el 29 de julio a las 13:52 por WhatsApp a la Delegación del Gobierno de un llamamiento en redes (dos grupos con 180.000 seguidores) para asaltar la valla, y alertó también a Marruecos; la Delegación respondió «sus rilas» y su delegado, Miguel Ángel Pérez Triano, no lo explicó; entraron más de 80.000 personas en 48 horas, Sánchez mantiene que nadie podía anticiparlo, Moncloa reprocha al CNI un aviso a un cargo menor y Marlaska había negado en el Congreso que hubiera informes. El pulso por Ormuz se convierte en guerra de petroleros (EEUU destruye cinco barcos iraníes tras misiles de la Guardia Revolucionaria contra un portaaviones): el Brent cierra sobre 101 dólares, primera vez desde el 24 de julio, y el Ibex cae un 1,51% hasta 19.695 puntos. El temporal mediterráneo mata a una mujer de 63 años en Felanitx (Mallorca), con 119 incidencias en Baleares, rachas de 109 km/h en Capdepera, clases suspendidas en cinco comarcas catalanas y unos 30 vuelos cancelados en El Prat. Además, el Gobierno vasco concede el tercer grado a Henri Parot, 39 asesinatos y 35 años de cárcel, con otra treintena de etarras en camino y el rechazo de Covite y la AVT; y Josep Lluís Trapero dimite como director general de los Mossos, sustituido por Ferran López, con Junts y ERC pidiendo la comparecencia de Núria Parlon. Cierre con el estudio de la Universidad Griffith en Célebes: arecolina en dientes de hace 25.000 años, el consumo de drogas más antiguo documentado.
