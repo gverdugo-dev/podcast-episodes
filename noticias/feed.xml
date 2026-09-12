@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 05:06:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:59:00 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 12 de septiembre: la primera dimisión por Ceuta</title>
+      <description>Apertura con Ceuta: Gonzalo Sanz, jefe de gabinete de la Delegación del Gobierno, dimite seis semanas después de la entrada masiva y acusa de mentir al delegado Miguel Ángel Pérez Triano, al sostener que sí le trasladó el 29 de julio el aviso por WhatsApp del CNI y la llamada de once minutos; el delegado lo niega y rechaza dimitir, y el Gobierno sigue partido entre la versión de Margarita Robles (sí hubo aviso) y la de Grande-Marlaska (no la hubo). En Oriente Próximo, los hutíes toman la isla de Perim y la localidad de Dhubab y controlan Bab el Mandeb tras capturar Moca, mientras Arabia Saudí cierra su oleoducto Este-Oeste (Petroline, 1.200 km y 7 millones de barriles diarios) tras ataques lanzados desde Irak, con el Brent en torno a 105 dólares. Los sindicatos médicos, con más de 177.000 facultativos convocados, fijan el 28 de octubre para una huelga indefinida contra el Estatuto Marco de Mónica García y reclaman estatuto propio, 35 horas y reforma de las guardias; la ministra responde que llevar la ley al Congreso no puede ser excusa para el conflicto. En el 25 aniversario del 11-S, Trump se ausenta por segundo año de la Zona Cero -donde sí estuvieron Bush, Clinton, Obama y Biden- y desde el Pentágono, ante los 184 nombres del ataque al edificio, vincula el recuerdo a su guerra contra Irán. La Diada reúne a 45.000 personas en Barcelona según la Guardia Urbana, 17.000 más que en 2025 pero lejos de los 1,8 millones de 2014, con el consenso del catalanismo en frenar a Aliança Catalana de Sílvia Orriols y ocho detenidos por la quema de contenedores en el Arc de Triomf. Cierre con el robo de un cuadro del siglo XVIII, copia de un Ecce Homo de Luis Morales, sustraído durante la misa del jueves en la iglesia de San Pablo de Valladolid, y de una talla de un ángel en la iglesia de la Vera Cruz el mismo día.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 04:56:15 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-12.mp3" length="3056579" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-12.mp3</link>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-12.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-12.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 11 de septiembre: el BCE encarece la hipoteca</title>
       <description>Apertura con el Banco Central Europeo: segunda subida de tipos del año hasta el 2,5%, euríbor en el 3,10%, la hipoteca media de 178.000 euros pasa de 821 a 906 euros al mes (1.020 más al año), Lagarde culpa a la energía con el Brent en torno a 100 dólares y la inflación de la eurozona en el 3,3%, y el BCE no prevé volver al objetivo hasta 2028; el bono español a diez años en el 3,963%. Seguimiento de Ceuta: Marruecos rompe su silencio por primera vez desde julio y el ministerio de Nasser Bourita niega toda implicación, rechaza ser "chivo expiatorio" y carga contra partidos e instituciones judiciales españolas a dos semanas de sus legislativas del 23 de septiembre, mientras la desclasificación se vuelve contra el Gobierno con García-Page hablando de gestión desastrosa, Felipe González reprochando que nadie asuma responsabilidades y el Congreso tumbando por 174 votos el plan del PP. En la víspera de la Diada, Aliança Catalana de Sílvia Orriols hizo su ofrenda en el Fossar de les Moreres con unos 300 seguidores y ocho autocares frente a miles de manifestantes de la izquierda independentista: los Mossos cargaron y detuvieron a cuatro personas, e Illa respondió desde el balcón de la Generalitat que "el odio no cabe". Además, Hablar Salva, la iniciativa de Vicky Nieto, colocó 3.953 flores ante el Congreso en el Día Mundial para la Prevención del Suicidio y reclama a Sanidad una campaña estatal que sigue sin llegar; y el Congreso aprobó por 168 votos a favor, 31 en contra y 145 abstenciones la ley que da la nacionalidad a los saharauis nacidos antes de 1977, unas 80.000 personas, ahora camino del Senado. Cierre con la Comic-Con de Málaga del 1 al 4 de octubre: Elijah Wood, Sean Astin y el reparto de Los Serrano reunido veinte años después.
