@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 04:59:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:01:45 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 13 de septiembre: el Gobierno contra el CNI</title>
+      <description>Apertura con Ceuta convertida en choque interno del Estado: Pedro Sánchez señala al CNI y dice que "debe mejorar" tras sostener que ningún aviso anticipaba la entrada de casi 80.000 personas, con Margarita Robles defendiendo a los servicios secretos, Grande-Marlaska negando que hubiera informes y Moncloa difundiendo como fuentes del CNI un mensaje escrito por el equipo de Lydia del Canto; Feijóo abre precampaña diciendo que la agresión de Marruecos continúa y que "Ceuta será el epitafio de Sánchez", mientras el PSOE de Montse Mínguez insiste en que nadie pudo predecirlo. Segunda pieza de Ceuta desde el cementerio musulmán de Sidi M'Barek: noventa ahogados del 30 y 31 de julio en fosas comunes, solo nueve identificados, Marruecos sin aceptar la repatriación de los cuerpos e identificaciones pendientes de ADN. En internacional, Suecia vota hoy con Magdalena Andersson en cabeza tras endurecer su política migratoria y los Demócratas de Suecia en torno al 20% exigiendo ministerios en el bloque de Ulf Kristersson, con la ayuda al retorno de 31.000 euros por adulto; y los hutíes atacan con drones y misiles la base saudí de Sharurah, con más de 500 muertos y 76.000 desplazados en el oeste de Yemen desde julio y Mohamed bin Salmán pidiendo a Trump una ayuda militar que Washington limita a inteligencia. En política nacional, Irene Montero se proclama candidata de Podemos a las generales con primarias abiertas a cualquier ciudadano -un envite a Sumar, aún sin candidato-, salario mínimo de 1.800 euros y jornada de 30 horas, con Ione Belarra encabezando Madrid. Cierre con el Tribunal Administrativo de Cundinamarca, que da tres meses al Gobierno colombiano para frenar la reproducción de los más de 150 hipopótamos de Pablo Escobar.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 04:58:54 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-13.mp3" length="3023142" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-13.mp3</link>
+      <itunes:duration>189</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-13.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-13.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 12 de septiembre: la primera dimisión por Ceuta</title>
       <description>Apertura con Ceuta: Gonzalo Sanz, jefe de gabinete de la Delegación del Gobierno, dimite seis semanas después de la entrada masiva y acusa de mentir al delegado Miguel Ángel Pérez Triano, al sostener que sí le trasladó el 29 de julio el aviso por WhatsApp del CNI y la llamada de once minutos; el delegado lo niega y rechaza dimitir, y el Gobierno sigue partido entre la versión de Margarita Robles (sí hubo aviso) y la de Grande-Marlaska (no la hubo). En Oriente Próximo, los hutíes toman la isla de Perim y la localidad de Dhubab y controlan Bab el Mandeb tras capturar Moca, mientras Arabia Saudí cierra su oleoducto Este-Oeste (Petroline, 1.200 km y 7 millones de barriles diarios) tras ataques lanzados desde Irak, con el Brent en torno a 105 dólares. Los sindicatos médicos, con más de 177.000 facultativos convocados, fijan el 28 de octubre para una huelga indefinida contra el Estatuto Marco de Mónica García y reclaman estatuto propio, 35 horas y reforma de las guardias; la ministra responde que llevar la ley al Congreso no puede ser excusa para el conflicto. En el 25 aniversario del 11-S, Trump se ausenta por segundo año de la Zona Cero -donde sí estuvieron Bush, Clinton, Obama y Biden- y desde el Pentágono, ante los 184 nombres del ataque al edificio, vincula el recuerdo a su guerra contra Irán. La Diada reúne a 45.000 personas en Barcelona según la Guardia Urbana, 17.000 más que en 2025 pero lejos de los 1,8 millones de 2014, con el consenso del catalanismo en frenar a Aliança Catalana de Sílvia Orriols y ocho detenidos por la quema de contenedores en el Arc de Triomf. Cierre con el robo de un cuadro del siglo XVIII, copia de un Ecce Homo de Luis Morales, sustraído durante la misa del jueves en la iglesia de San Pablo de Valladolid, y de una talla de un ángel en la iglesia de la Vera Cruz el mismo día.
