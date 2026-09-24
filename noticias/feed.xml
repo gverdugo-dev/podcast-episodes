@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 05:01:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:59:52 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 24 de septiembre: Maricarmen, desahuciada al cuarto intento</title>
+      <description>Apertura con el desahucio de Maricarmen Abascal, ejecutado el miércoles 23 al cuarto intento tras más de siete horas de operativo: salió en camilla al Gregorio Marañón, unas 10.000 personas (según la Delegación del Gobierno) protestaron ante el ático de la Comunidad de Madrid en Chamberí con concentraciones en una docena de ciudades, y Pedro Sánchez culpó desde Nueva York a Ayuso y a Martínez-Almeida y pidió apoyos para el decreto antidesahucios (no se contó el ultimátum de huelga general del Sindicat de Llogateres ni el choque Ministerio-Comunidad). Delcy Rodríguez agradeció a Trump ante la Asamblea General de la ONU, prometió elecciones y democracia plena sin fecha y reivindicó el acuerdo petrolero del 28 de agosto; el Departamento de Estado dijo que la foto no la legitima. En el Congreso, Ana Belén Vázquez (PP) mostró un espray de gas pimienta por la inseguridad en Ceuta, Francina Armengol la mandó salir por considerarlo un arma y un asesor del PP lo accionó al limpiarlo, con una docena de afectados, entre ellos una integrante de la delegación de Mauritania. La OCDE eleva al 2,6% el crecimiento de España en 2026 y la inflación al 3,7%, con 1,8% en 2027 y la guerra de Irán como gran incertidumbre. Zapatero, investigado por fraude fiscal y contrabando, dice que las joyas tasadas por Ansorena en 1,3 millones fueron un regalo del rey Abdalá en junio de 2007 y pide al juez Calama que lo confirme Arabia Saudí, que le ha negado certificados. Cierre con Brad Pitt en San Sebastián presentando En el corazón de la bestia, de David Ayer, con el perro Odín como lo mejor según la crítica. Ceuta (jornada tranquila en la frontera durante las legislativas marroquíes, abstención del 62%, caos en el traslado de menores) quedó fuera hoy.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 04:56:29 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-24.mp3" length="3312370" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-24.mp3</link>
+      <itunes:duration>207</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-24.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-24.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 23 de septiembre: Trump amenaza a Irán y a Cuba desde la ONU</title>
       <description>Apertura con el discurso de Donald Trump el martes 22 ante la Asamblea General de la ONU: ultimátum a Irán (acuerdo o aniquilación, con pacto previsto tras las elecciones de medio mandato de noviembre), "Cuba caerá" con la delegación cubana levantándose, y llamamiento a abandonar la Corte Penal Internacional; antes, António Guterres dio su último discurso como secretario general ("las grietas se han convertido en abismos"). El Tribunal Constitucional, con la mayoría de Cándido Conde-Pumpido, tumbó la ponencia de José María Macías y amparará a Jordi Turull, allanando la amnistía de la malversación del procés y el regreso de Carles Puigdemont; la sentencia (y el caso de Dolors Bassa) se vota el 6 de octubre y Turull descarta reconciliarse con el PSOE. Seguimiento de Ceuta: Pedro Sánchez dijo en la CNN a Christiane Amanpour que el control fronterizo de Marruecos falló, que ha pedido respuestas a Rabat y reprochó insolidaridad a socios europeos; con las legislativas marroquíes del 23, la policía vigila el grupo "Gran ataque 23 de septiembre" e Interior despliega dos drones y un helicóptero (no se contó la posible dimisión del delegado Pérez Triano). Seguimiento de Groenlandia: Trump, Mette Frederiksen y Jens-Frederik Nielsen firmaron el pacto que da a EEUU dos bases nuevas en Narsarsuaq y Mestersvig, reconoce la soberanía danesa, veta bases de países no OTAN y debe ratificar el Parlamento danés. En vivienda, Maricarmen Abascal, 87 años y 71 en su piso de Retiro, afronta el miércoles a las 8.00 su cuarto desahucio por Urbagestión (reclama 2.650 euros, ella paga 500); una escritora anónima ofrece pagar la diferencia de por vida y cientos de personas, con Ana Belén, acamparon ante su portal. Cierre con la Sagrada Familia, que calcula diez años para terminar el templo (172,5 metros), propone derribar solo el edificio de Núñez i Navarro para la escalinata de la fachada de la Gloria y aún duda entre Miquel Barceló, Cristina Iglesias y Javier Marín.
