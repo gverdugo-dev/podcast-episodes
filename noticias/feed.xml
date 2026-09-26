@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 05:03:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:01:49 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 26 de septiembre: Junts pone precio al decreto de vivienda</title>
+      <description>Apertura con la negociación del decreto de vivienda tras el desahucio de Maricarmen: el Gobierno quiere llevarlo al Consejo de Ministros el martes 29, Junts (Míriam Nogueras) acepta suspender desahucios de fondos buitre a cambio de desgravaciones en el IRPF por alquiler e hipoteca, dice que el PSOE lo ve con buenos ojos y Sumar (Ernest Urtasun) está dispuesto a debatirlo; el Ayuntamiento de Madrid rechazó por inviable el plan de Urbagestión (programa ReViVa) y abre mediación el lunes 28, y el Sindicato de Inquilinas se manifiesta el sábado 26 en Sol (no se contaron las protestas de Valladolid y Santander ni las cifras de renta que discute Urbagestión). Caso Plus Ultra: el juez Calama dejó libre el viernes 25 a Simon Leendert Verhoeven, que no declaró, con prohibición de salir de España (Anticorrupción pedía fianza de un millón), y Roberto Roselli describe al juez el envío de cuatro millones de dólares a Banca Amiga en Venezuela tras el rescate de 53 millones; cazas de Finlandia y Suecia interceptaron el jueves 24 un Tu-134 y tres cazas rusos en su primera misión conjunta (Ulf Kristersson), con drones rusos en Moldavia y un helicóptero en Polonia; la OCU cifra en un 39,5% la subida de la cesta en cinco años (café más del doble, 1,8% el último año, ahorro medio de 1.310 euros y hasta 4.381 en Madrid); Tailandia confirmó el viernes 25 la cadena perpetua de Daniel Sancho por el asesinato de Edwin Arrieta, rechazando los recursos de defensa y familia, que da el caso por cerrado, mientras la defensa no descarta el Supremo. Cierre con el estreno de La bola negra, de los Javis, en más de 500 salas, candidata española a los Oscar con premios en Cannes y Toronto. Quedaron fuera la ordenanza antiburka de Lleida y la oposición de Zapatero a la nueva tasación de sus joyas.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 04:56:27 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-26.mp3" length="3702744" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-26.mp3</link>
+      <itunes:duration>231</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-26.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-26.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 25 de septiembre: el caso Maricarmen sacude al Gobierno</title>
       <description>Apertura con la crisis política por el desahucio de Maricarmen Abascal: Sumar (Pablo Bustinduy) exige aprobar el decreto de vivienda el martes 29 "sí o sí", Moncloa reactiva el diálogo con Junts, la ministra Isabel Rodríguez dice que el caso acerca posiciones sin comprometer fecha, y Urbagestión niega haber recibido ofertas formales de compra (el Ministerio lo desmiente) y se querella contra el Sindicato de Inquilinas pidiendo 10.000 euros por llamarla fondo buitre (no se contó el traslado previsto a casa de su primo Vicente en Segovia). Donald Trump recibió a Xi Jinping en la Casa Blanca el jueves 24 (primera visita de Estado desde 2015): tregua comercial prorrogada hasta el 10 de enero de 2027, dos pandas para el zoo de Atlanta e invitación a 100.000 jóvenes estadounidenses, con Taiwán, aranceles y chips sin resolver; en Ceuta, tras la reunión Albares-Burita en Nueva York, Exteriores dice que Marruecos readmitirá cuanto antes a los migrantes sin derecho a protección y Albares descartó negociar sobre Ceuta y Melilla, mientras la Guardia Civil frenó una decena de intentos de salto a la valla; Benjamin Netanyahu habló en la ONU ante una sala medio vacía, con la delegación española ausente, llamó "cobardes morales" a quienes se iban y negó el genocidio, y la policía detuvo a decenas de manifestantes, entre ellos Susan Sarandon. En sucesos, los Mossos detuvieron el miércoles 23 en Madrid a Belén López Granados, pareja del arquitecto Josep Juanpere (GCA, 72 años), muerto en Navidad en Baqueira, investigada por homicidio por no llamar a emergencias; comparece el viernes 25 ante el juez de Vielha. Cierre con el hallazgo en Grecia del Gimnasio Real de Mieza, donde Aristóteles enseñó a Alejandro Magno (30.000 m2, mosaicos, pupitres de piedra y cuatro estilos). Quedó fuera Zapatero (el juez Calama rechazaría la comisión rogatoria a Arabia Saudí y su defensa recusa a la joyería Yanes como perito).
