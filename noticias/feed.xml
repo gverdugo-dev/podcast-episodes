@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 05:01:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:59:33 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 27 de septiembre: acampada en Sol por la vivienda</title>
+      <description>Apertura con la marcha Ni una Maricarmen más del sábado 26 en Madrid (25.000 según la Delegación del Gobierno, 300.000 según el Sindicato de Inquilinas, convocatorias en al menos 40 ciudades), que terminó en una acampada en la Puerta del Sol hasta el Consejo de Ministros del martes 29; piden contratos indefinidos, congelación de alquileres y ningún desahucio sin alternativa, Maricarmen pidió a Pedro Sánchez un "decreto Maricarmen" y Sumar amenaza con no acudir al Consejo sin medidas efectivas (no se contaron la defensa de SUP y Jupol del operativo policial ni las críticas de Podemos a Junts). Donald Trump rechazó el plan de siete días de Irán (Abbas Araghchi) para reabrir Ormuz a cambio de levantar bloqueo naval, sanciones y activos congelados; la segunda Marcha por la Dignidad de Sociedad Civil Española, con PP y Vox, pidió elecciones antes del 15 de noviembre (20.000 según Delegación, 180.000 según organizadores), con Santiago Abascal reclamando juzgar a Sánchez por traición y Miguel Tellado esquivándolo; en Ceuta, dos detenidos (42 y 21 años) por la violación de una menor de 17 reanimada por la policía en el Trampolín, 37 causas por agresión sexual (14 con menores) desde julio, y los ministros europeos de Interior pactaron en Múnich reforzar Frontex sin Grande-Marlaska. Murió el sábado a los 81 años Eduardo Rodríguez Rodway, último fundador de Triana (El patio, 19 copias iniciales, más de un millón), tras perder en agosto en el Supremo el litigio por el nombre. Cierre con el muro galo hallado junto a Notre-Dame, bajo el Hôtel-Dieu, datado entre el 200 y el 10 antes de nuestra era, que podría ser la Lutecia de Julio César. Quedaron fuera Cuba y el veto a CNN, Lavrov en la ONU y las víctimas de la dana contra Mazón en Alicante.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 04:56:21 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-27.mp3" length="3533888" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-27.mp3</link>
+      <itunes:duration>221</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-27.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-27.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 26 de septiembre: Junts pone precio al decreto de vivienda</title>
       <description>Apertura con la negociación del decreto de vivienda tras el desahucio de Maricarmen: el Gobierno quiere llevarlo al Consejo de Ministros el martes 29, Junts (Míriam Nogueras) acepta suspender desahucios de fondos buitre a cambio de desgravaciones en el IRPF por alquiler e hipoteca, dice que el PSOE lo ve con buenos ojos y Sumar (Ernest Urtasun) está dispuesto a debatirlo; el Ayuntamiento de Madrid rechazó por inviable el plan de Urbagestión (programa ReViVa) y abre mediación el lunes 28, y el Sindicato de Inquilinas se manifiesta el sábado 26 en Sol (no se contaron las protestas de Valladolid y Santander ni las cifras de renta que discute Urbagestión). Caso Plus Ultra: el juez Calama dejó libre el viernes 25 a Simon Leendert Verhoeven, que no declaró, con prohibición de salir de España (Anticorrupción pedía fianza de un millón), y Roberto Roselli describe al juez el envío de cuatro millones de dólares a Banca Amiga en Venezuela tras el rescate de 53 millones; cazas de Finlandia y Suecia interceptaron el jueves 24 un Tu-134 y tres cazas rusos en su primera misión conjunta (Ulf Kristersson), con drones rusos en Moldavia y un helicóptero en Polonia; la OCU cifra en un 39,5% la subida de la cesta en cinco años (café más del doble, 1,8% el último año, ahorro medio de 1.310 euros y hasta 4.381 en Madrid); Tailandia confirmó el viernes 25 la cadena perpetua de Daniel Sancho por el asesinato de Edwin Arrieta, rechazando los recursos de defensa y familia, que da el caso por cerrado, mientras la defensa no descarta el Supremo. Cierre con el estreno de La bola negra, de los Javis, en más de 500 salas, candidata española a los Oscar con premios en Cannes y Toronto. Quedaron fuera la ordenanza antiburka de Lleida y la oposición de Zapatero a la nueva tasación de sus joyas.
