@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 04:59:33 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:01:01 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 28 de septiembre: Sánchez corre contrarreloj con el decreto de vivienda</title>
+      <description>Apertura con la víspera del Consejo de Ministros del martes 29: Pedro Sánchez dijo el domingo 27 en Getafe (lanzamiento del PSOE de Madrid) que trabajan contrarreloj para llevar el decreto de vivienda y pidió un último esfuerzo, Mónica García (Sumar) avisó de que se juegan la legislatura, Félix Bolaños descartó expropiar el piso de Maricarmen, el Ayuntamiento de Madrid acusó a la Delegación del Gobierno de dejación de funciones por la acampada de Sol (unas 500 personas) y el Sindicat de Llogateres protesta el lunes 28 a las 19.00 en Barcelona ante Sánchez (no se contó el regreso de Junts a la mesa, ya dicho el sábado, ni las cifras del PP de Juan Bravo). Cinco detenidos el domingo por presuntos delitos con explosivos junto a la base RAF Fairford (Whelford, Gloucestershire), usada por bombarderos de EEUU contra Irán, con 85 viviendas evacuadas y Trump diciendo que los vigilaban; en La Campana (Sevilla), Pedro, de 56 años, mató a puñaladas a su pareja Vanesa, de 47, el sábado, se atrincheró unas 12 horas y se entregó el domingo, hiriendo a un hijo (serían 39 asesinadas en 2026); Aleksandar Vucic dimitió el domingo como presidente de Serbia para optar a primer ministro en las legislativas del 25 de octubre, con Ana Brnabic como jefa del Estado interina; el incendio de Igualeja (Málaga) confinó a casi mil vecinos de Igualeja y Parauta y quedó estabilizado el domingo con 21 medios aéreos y más de 200 efectivos. Cierre con el arco chino de Okuda San Miguel en Usera, que se inaugura el jueves 1 de octubre. Quedaron fuera Ceuta (refuerzos de la Audiencia Nacional para recursos de asilo, 7.533 retornos, marcha de 600 personas al Tarajal), el referéndum suizo sobre neutralidad y el cierre del Teatro Principal de Valencia.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 04:57:29 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-28.mp3" length="3051146" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-28.mp3</link>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-28.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-28.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 27 de septiembre: acampada en Sol por la vivienda</title>
       <description>Apertura con la marcha Ni una Maricarmen más del sábado 26 en Madrid (25.000 según la Delegación del Gobierno, 300.000 según el Sindicato de Inquilinas, convocatorias en al menos 40 ciudades), que terminó en una acampada en la Puerta del Sol hasta el Consejo de Ministros del martes 29; piden contratos indefinidos, congelación de alquileres y ningún desahucio sin alternativa, Maricarmen pidió a Pedro Sánchez un "decreto Maricarmen" y Sumar amenaza con no acudir al Consejo sin medidas efectivas (no se contaron la defensa de SUP y Jupol del operativo policial ni las críticas de Podemos a Junts). Donald Trump rechazó el plan de siete días de Irán (Abbas Araghchi) para reabrir Ormuz a cambio de levantar bloqueo naval, sanciones y activos congelados; la segunda Marcha por la Dignidad de Sociedad Civil Española, con PP y Vox, pidió elecciones antes del 15 de noviembre (20.000 según Delegación, 180.000 según organizadores), con Santiago Abascal reclamando juzgar a Sánchez por traición y Miguel Tellado esquivándolo; en Ceuta, dos detenidos (42 y 21 años) por la violación de una menor de 17 reanimada por la policía en el Trampolín, 37 causas por agresión sexual (14 con menores) desde julio, y los ministros europeos de Interior pactaron en Múnich reforzar Frontex sin Grande-Marlaska. Murió el sábado a los 81 años Eduardo Rodríguez Rodway, último fundador de Triana (El patio, 19 copias iniciales, más de un millón), tras perder en agosto en el Supremo el litigio por el nombre. Cierre con el muro galo hallado junto a Notre-Dame, bajo el Hôtel-Dieu, datado entre el 200 y el 10 antes de nuestra era, que podría ser la Lutecia de Julio César. Quedaron fuera Cuba y el veto a CNN, Lavrov en la ONU y las víctimas de la dana contra Mazón en Alicante.
