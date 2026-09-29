@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 05:01:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:05:10 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 29 de septiembre: el decreto de vivienda llega sin Junts</title>
+      <description>Apertura con el día del decreto de vivienda: Pedro Sánchez confirmó el lunes 28 por la noche en Barcelona (Premios Vanguardia) que el Consejo de Ministros lo aprueba el martes 29; el borrador prorroga los alquileres hasta el 31 de diciembre de 2028 y suspende hasta 2028 los desahucios de vulnerables salvo caseros con dos pisos o menos, Junts (Josep Rius) se aleja del acuerdo por el "decreto ómnibus" (34 artículos de la LAU) pero sigue negociando, y el Sindicat de Llogateres cortó la Diagonal (2.000 según la Guardia Urbana, 20.000 según convocantes); no se contaron la propuesta de partirlo en dos decretos, la pelea PSOE-Sumar por la prórroga de uno o dos años ni el cartel de Amaia. Miguel Ángel Pérez Triano dimitió el lunes 28 como delegado del Gobierno en Ceuta, admitió avisos diarios antes del 30 de julio y culpó a Interior (sustituto probable David de la Encina; Gonzalo Sanz declara el 1 de octubre ante María Tardón, no contado); aviso especial de la Aemet por hasta 180 l/m2 en el norte de Tarragona el martes 29 y ES-Alert de Protección Civil, con 58,4 l/m2 el lunes en Requena (Valencia); la ponencia de Cándido Conde-Pumpido sobre Dolors Bassa ordena al Supremo amnistiar la malversación del procés y se vota el 6 de octubre; ataque ruso del lunes en Kiev contra la Academia Nacional de Ciencias y el hospital Dobrobut (7 muertos, 80 heridos) con drones a reacción, uno a 2 km de la frontera polaca. Cierre con La bola negra de los Javis: 613.240 espectadores y 4,67 millones en su primer fin de semana, quinto mejor estreno español de la historia.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:42 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-29.mp3" length="3048638" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-29.mp3</link>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-29.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-29.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 28 de septiembre: Sánchez corre contrarreloj con el decreto de vivienda</title>
       <description>Apertura con la víspera del Consejo de Ministros del martes 29: Pedro Sánchez dijo el domingo 27 en Getafe (lanzamiento del PSOE de Madrid) que trabajan contrarreloj para llevar el decreto de vivienda y pidió un último esfuerzo, Mónica García (Sumar) avisó de que se juegan la legislatura, Félix Bolaños descartó expropiar el piso de Maricarmen, el Ayuntamiento de Madrid acusó a la Delegación del Gobierno de dejación de funciones por la acampada de Sol (unas 500 personas) y el Sindicat de Llogateres protesta el lunes 28 a las 19.00 en Barcelona ante Sánchez (no se contó el regreso de Junts a la mesa, ya dicho el sábado, ni las cifras del PP de Juan Bravo). Cinco detenidos el domingo por presuntos delitos con explosivos junto a la base RAF Fairford (Whelford, Gloucestershire), usada por bombarderos de EEUU contra Irán, con 85 viviendas evacuadas y Trump diciendo que los vigilaban; en La Campana (Sevilla), Pedro, de 56 años, mató a puñaladas a su pareja Vanesa, de 47, el sábado, se atrincheró unas 12 horas y se entregó el domingo, hiriendo a un hijo (serían 39 asesinadas en 2026); Aleksandar Vucic dimitió el domingo como presidente de Serbia para optar a primer ministro en las legislativas del 25 de octubre, con Ana Brnabic como jefa del Estado interina; el incendio de Igualeja (Málaga) confinó a casi mil vecinos de Igualeja y Parauta y quedó estabilizado el domingo con 21 medios aéreos y más de 200 efectivos. Cierre con el arco chino de Okuda San Miguel en Usera, que se inaugura el jueves 1 de octubre. Quedaron fuera Ceuta (refuerzos de la Audiencia Nacional para recursos de asilo, 7.533 retornos, marcha de 600 personas al Tarajal), el referéndum suizo sobre neutralidad y el cierre del Teatro Principal de Valencia.
