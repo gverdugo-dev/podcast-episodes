@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 05:05:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:06:26 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 30 de septiembre: la vivienda, en dos decretos</title>
+      <description>Apertura con los dos decretos de vivienda aprobados el martes 29 tras una noche de negociación PSOE-Sumar (Consejo con una hora de retraso): prohibición de desahucios de vulnerables sin alternativa hasta finales de 2030, prórroga de dos años de los alquileres vigentes, veto a compras especulativas de fondos hasta 2028 y la renovación automática en un decreto aparte; convalidación en pleno extraordinario el viernes 2 de octubre, con el PP en contra (Feijóo) y Junts (Míriam Nogueras) reclamando protección al pequeño propietario; Maricarmen Abascal volverá a su casa con un alquiler similar según su abogada Beatriz Duro (acuerdo sin firmar). No se contaron el ultimátum de Ayuso de desalojar Sol en 48 horas, el programa Tu Casa del ICO ni el nuevo delegado en Ceuta David de la Encina. Inflación de septiembre al 4,9% y renovación del escudo anticrisis por un trimestre (IVA de la luz al 10%, tope al gas regulado, butano a 19,55 euros hasta junio de 2027, 12.000 millones en el año, Carlos Cuerpo); el Senado rechazó el Tratado de Amistad con Francia (142 en contra, 106 a favor) durante la visita de Estado de Emmanuel Macron, y Felipe VI llamó inaceptable la entrada masiva en Ceuta en la cena de gala; Amnistía Internacional documentó 22 testimonios de tortura y malos tratos de militares de Regulares y la Legión a migrantes en Ceuta y pidió investigación a Pedro Sánchez y Juan Jesús Vivas; Putin amplió el lunes 28 en 15.500 militares su ejército (cuarta vez en 2026), Rusia prevé 179.000 millones de euros en defensa en 2027 y Zelenski alerta de 10.000 norcoreanos más (31 muertos en Kiev en septiembre). Cierre con la muerte de Gonzalo Suárez a los 92 años (Remando al viento, Goya de Honor en febrero, la frase del bisonte).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 05:02:29 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-30.mp3" length="3316132" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-30.mp3</link>
+      <itunes:duration>207</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-30.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-09-30.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 29 de septiembre: el decreto de vivienda llega sin Junts</title>
       <description>Apertura con el día del decreto de vivienda: Pedro Sánchez confirmó el lunes 28 por la noche en Barcelona (Premios Vanguardia) que el Consejo de Ministros lo aprueba el martes 29; el borrador prorroga los alquileres hasta el 31 de diciembre de 2028 y suspende hasta 2028 los desahucios de vulnerables salvo caseros con dos pisos o menos, Junts (Josep Rius) se aleja del acuerdo por el "decreto ómnibus" (34 artículos de la LAU) pero sigue negociando, y el Sindicat de Llogateres cortó la Diagonal (2.000 según la Guardia Urbana, 20.000 según convocantes); no se contaron la propuesta de partirlo en dos decretos, la pelea PSOE-Sumar por la prórroga de uno o dos años ni el cartel de Amaia. Miguel Ángel Pérez Triano dimitió el lunes 28 como delegado del Gobierno en Ceuta, admitió avisos diarios antes del 30 de julio y culpó a Interior (sustituto probable David de la Encina; Gonzalo Sanz declara el 1 de octubre ante María Tardón, no contado); aviso especial de la Aemet por hasta 180 l/m2 en el norte de Tarragona el martes 29 y ES-Alert de Protección Civil, con 58,4 l/m2 el lunes en Requena (Valencia); la ponencia de Cándido Conde-Pumpido sobre Dolors Bassa ordena al Supremo amnistiar la malversación del procés y se vota el 6 de octubre; ataque ruso del lunes en Kiev contra la Academia Nacional de Ciencias y el hospital Dobrobut (7 muertos, 80 heridos) con drones a reacción, uno a 2 km de la frontera polaca. Cierre con La bola negra de los Javis: 613.240 espectadores y 4,67 millones en su primer fin de semana, quinto mejor estreno español de la historia.
