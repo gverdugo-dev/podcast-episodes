@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 05:06:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:04:59 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 1 de octubre: la vivienda, a un día del Congreso</title>
+      <description>Apertura con la víspera de la convalidación de los dos decretos de vivienda (pleno del viernes 2): Feijóo anunció el miércoles 30 el no del PP ("trampa"), Junts (Míriam Nogueras) se declara decepcionado y pide más dureza contra fondos buitre, Junqueras promete el sí de ERC mientras Rufián quiere leerlos "hasta la última coma", Sánchez se dice razonablemente optimista, el primer decreto rige desde el jueves 1 (desahucios en pisos de grandes empresas frenados hasta 2030) y el Sindicato de Inquilinas convoca caceroladas el jueves a las 20.00 (no se contaron el ultimátum de Ayuso a la Delegación para desalojar Sol, las 1.248 tiendas ni la indemnización de hasta 12 mensualidades del segundo decreto). Vuelo FZ1073 de Flydubai Dubái-Tel Aviv del miércoles 30: un piloto apuñaló al comandante (Smit Machchhar, no nombrado) e intentó estrellar el avión con 174 personas según Netanyahu, caída de más de 5.000 metros, pasajeros lo redujeron, aterrizaje en Tabuk (Arabia Saudí), Israel lo investiga como atentado; Juan Jesús Vivas declaró ante la jueza María Tardón que llamó diez veces a Moncloa antes del 30 de julio y Moncloa lo niega con registros, y Gonzalo Sanz declara el jueves 1 (no se contó la tercera prórroga de Italia de sus controles a viajeros desde España); Rusia envió a la OTAN una nota sin firma amenazando con armas nucleares si se aísla Kaliningrado y Mark Rutte pidió calma; la jueza de Torrejón de Ardoz procesó por homicidio a los dos policías municipales de Madrid por la muerte de Abderrahim Akkouh en junio de 2025, contra el criterio de la Fiscalía, con jurado popular. Cierre con los entelodóntidos o cerdos del infierno hallados en Rocallaura (Lleida) por el Institut Català de Paleontologia, de hace 30 millones de años.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 05:01:20 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-01.mp3" length="3095031" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-01.mp3</link>
+      <itunes:duration>193</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-01.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-01.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 30 de septiembre: la vivienda, en dos decretos</title>
       <description>Apertura con los dos decretos de vivienda aprobados el martes 29 tras una noche de negociación PSOE-Sumar (Consejo con una hora de retraso): prohibición de desahucios de vulnerables sin alternativa hasta finales de 2030, prórroga de dos años de los alquileres vigentes, veto a compras especulativas de fondos hasta 2028 y la renovación automática en un decreto aparte; convalidación en pleno extraordinario el viernes 2 de octubre, con el PP en contra (Feijóo) y Junts (Míriam Nogueras) reclamando protección al pequeño propietario; Maricarmen Abascal volverá a su casa con un alquiler similar según su abogada Beatriz Duro (acuerdo sin firmar). No se contaron el ultimátum de Ayuso de desalojar Sol en 48 horas, el programa Tu Casa del ICO ni el nuevo delegado en Ceuta David de la Encina. Inflación de septiembre al 4,9% y renovación del escudo anticrisis por un trimestre (IVA de la luz al 10%, tope al gas regulado, butano a 19,55 euros hasta junio de 2027, 12.000 millones en el año, Carlos Cuerpo); el Senado rechazó el Tratado de Amistad con Francia (142 en contra, 106 a favor) durante la visita de Estado de Emmanuel Macron, y Felipe VI llamó inaceptable la entrada masiva en Ceuta en la cena de gala; Amnistía Internacional documentó 22 testimonios de tortura y malos tratos de militares de Regulares y la Legión a migrantes en Ceuta y pidió investigación a Pedro Sánchez y Juan Jesús Vivas; Putin amplió el lunes 28 en 15.500 militares su ejército (cuarta vez en 2026), Rusia prevé 179.000 millones de euros en defensa en 2027 y Zelenski alerta de 10.000 norcoreanos más (31 muertos en Kiev en septiembre). Cierre con la muerte de Gonzalo Suárez a los 92 años (Remando al viento, Goya de Honor en febrero, la frase del bisonte).
