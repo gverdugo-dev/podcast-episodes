@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 05:04:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:06:56 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,20 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 2 de octubre: Junts tumba los decretos de vivienda</title>
+      <description>Apertura con la víspera inmediata de la votación de los dos decretos de vivienda (pleno del viernes 2): la Ejecutiva de Junts decidió el jueves 1 votar en contra y pedir su retirada (menos oferta, más precios, no frenan a los fondos buitre), su abstención habría salvado el primero y el segundo, con la prórroga automática, ya caía por el no del PNV; el Gobierno no los retira y pide a PP, Vox y Junts que se retraten (no se contó el resultado, que se vota hoy, ni el caso de Macarena en Barcelona ni las 4.290 viviendas perdidas). Alerta roja por lluvias en Castellón y litoral de Valencia hasta el viernes: 112 l/m2 en Xodos, hasta 300 en 12 horas según la Aemet, más de 350.000 alumnos de 103 municipios sin clase y Renfe suspendió Cercanías de Valencia y trenes con Cataluña; seguimiento del vuelo FZ1073 de Flydubai: el fontanero Yaniv Hayún estabilizó el avión, el copiloto omaní sigue detenido en Arabia Saudí y Trump dijo que Irán estaría detrás y amenazó con golpearlo; en Ceuta, Gonzalo Sanz reveló ante María Tardón 19 mensajes del CNI del 29 de julio sin desclasificar y la Casa Real confirmó la visita de los Reyes a Ceuta y Melilla el 13 y 14 de octubre, la primera desde 2007; Christa Pike sobrevivió el miércoles 30 en Tennessee a dos dosis de pentobarbital, está en estado crítico y el gobernador Bill Lee suspendió las ejecuciones del resto del año. Cierre con Woody Allen, que rodará en Madrid desde el lunes 5 su película 51 con tres millones de euros de Ayuntamiento y Comunidad.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 05:00:56 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.mp3" length="3766692" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.mp3</link>
+      <itunes:duration>235</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 1 de octubre: la vivienda, a un día del Congreso</title>
       <description>Apertura con la víspera de la convalidación de los dos decretos de vivienda (pleno del viernes 2): Feijóo anunció el miércoles 30 el no del PP ("trampa"), Junts (Míriam Nogueras) se declara decepcionado y pide más dureza contra fondos buitre, Junqueras promete el sí de ERC mientras Rufián quiere leerlos "hasta la última coma", Sánchez se dice razonablemente optimista, el primer decreto rige desde el jueves 1 (desahucios en pisos de grandes empresas frenados hasta 2030) y el Sindicato de Inquilinas convoca caceroladas el jueves a las 20.00 (no se contaron el ultimátum de Ayuso a la Delegación para desalojar Sol, las 1.248 tiendas ni la indemnización de hasta 12 mensualidades del segundo decreto). Vuelo FZ1073 de Flydubai Dubái-Tel Aviv del miércoles 30: un piloto apuñaló al comandante (Smit Machchhar, no nombrado) e intentó estrellar el avión con 174 personas según Netanyahu, caída de más de 5.000 metros, pasajeros lo redujeron, aterrizaje en Tabuk (Arabia Saudí), Israel lo investiga como atentado; Juan Jesús Vivas declaró ante la jueza María Tardón que llamó diez veces a Moncloa antes del 30 de julio y Moncloa lo niega con registros, y Gonzalo Sanz declara el jueves 1 (no se contó la tercera prórroga de Italia de sus controles a viajeros desde España); Rusia envió a la OTAN una nota sin firma amenazando con armas nucleares si se aísla Kaliningrado y Mark Rutte pidió calma; la jueza de Torrejón de Ardoz procesó por homicidio a los dos policías municipales de Madrid por la muerte de Abderrahim Akkouh en junio de 2025, contra el criterio de la Fiscalía, con jurado popular. Cierre con los entelodóntidos o cerdos del infierno hallados en Rocallaura (Lleida) por el Institut Català de Paleontologia, de hace 30 millones de años.
