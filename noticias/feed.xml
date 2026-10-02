@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 05:06:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:42:31 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -37,6 +37,7 @@ Guion y voz generados con inteligencia artificial.</description>
       <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.mp3" length="3766692" type="audio/mpeg" />
       <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.mp3</link>
       <itunes:duration>235</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-02.txt" type="text/plain" language="es" />
