@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 05:00:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:55:52 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 4 de octubre: la calle pide huelga general por la vivienda</title>
+      <description>Apertura con las marchas por la vivienda del sábado 3 tras la caída de los decretos (70.000 en Madrid según la Delegación, 500.000 según el Sindicato de Inquilinas, unas 50 ciudades, Valeria Racu anuncia huelga general pronto, en Valencia se apunta a mediados de noviembre, nueve policías heridos y cinco detenidos ante el Real Estate Summit, ultras frenados camino de Sol); Pedro Sánchez sigue consultando con el PSOE dividido entre convocar ya o esperar al primer trimestre de 2027, Feijóo le pidió en el Foro La Toja que deje de amagar y Jordi Turull dice que Junts está preparado con Míriam Nogueras de candidata (no se contaron la acampada de Valencia ni la marcha aplazada de Barcelona, que pasa al lunes). Temporal en Cataluña: el Meteocat activó por primera vez sus tres umbrales en rojo, 20 comarcas restringidas hasta las 14.00 del domingo, agua en los andenes de Sants y 220 cancelaciones en El Prat, y la Junta pedirá el martes la zona catastrófica para Madrigueras; Brasil vota el domingo 4 entre Lula (81 años este mes, cuarto mandato) y Flávio Bolsonaro con empate en las encuestas y posible segunda vuelta el 25 de octubre; Frank Strada, jefe de prisiones de Tennessee, dimitió el sábado tras la ejecución fallida de Christa Pike (al menos siete agujas, sigue crítica) y suma al menos cinco ejecuciones fallidas. Cierre con la expedición de Purdue que sale el martes 6 desde Tarawa hacia Nikumaroro para buscar el avión de Amelia Earhart.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 04:53:14 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-04.mp3" length="2936207" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-04.mp3</link>
+      <itunes:duration>184</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-04.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-04.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 3 de octubre: el Congreso tumba los decretos de vivienda</title>
       <description>Apertura con la caída de los dos decretos de vivienda el viernes 2 en el Congreso (178 a 172 el primero, 184 a 166 el segundo; PP, Vox, Junts y UPN en contra de ambos y PNV y Coalición Canaria en el segundo), con el aviso de Sánchez de que la historia los juzgará antes de lo que creen y el documento alternativo de casi 60 páginas de Míriam Nogueras; Sánchez sopesa el adelanto electoral este fin de semana, con la ejecutiva del PSOE el lunes 5 en Ferraz, el 29 de noviembre como primera fecha (convocatoria en el BOE el martes 6) y sondeos que dan mayoría absoluta a PP y Vox (no se contaron las reacciones de Feijóo y Abascal ni la posible candidatura de Mónica García por Sumar). Riada del viernes en Madrigueras (Albacete): 142 litros en dos horas y media, muere una mujer de 102 años y unos 90 rescates, y casi 300 litros en 12 horas en el Montsià y el Baix Ebre; el Sindicato de Inquilinas convoca marchas el sábado 3 en más de 50 ciudades (Madrid, a las 12 hacia Cibeles) y presiona a CCOO y UGT por una huelga general, que estudian por las limitaciones de la ley de 1977 a las huelgas políticas; protestas estudiantiles en Francia por falta de profesores y aulas de hasta 40 alumnos, más de mil institutos afectados, 1.949 detenidos y 305 policías heridos el jueves 1, un agente pateado en Belfort investigado como tentativa de asesinato y marcha nacional el martes 6. Cierre con Julio Llamazares, Premio Nacional de Narrativa (30.000 euros) por El viaje de mi padre, sobre los frentes de la Guerra Civil de su padre.
