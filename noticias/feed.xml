@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 04:55:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:04:20 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 5 de octubre: Flávio Bolsonaro adelanta a Lula en Brasil</title>
+      <description>Apertura con la primera vuelta en Brasil del domingo 4: Flávio Bolsonaro gana con el 47% de los votos válidos frente al 45% de Lula, que habló de resultado inesperado; segunda vuelta el 25 de octubre, la derecha arrasa en Congreso y estados (Tarcísio de Freitas reelegido en São Paulo) y Flávio promete amnistiar a su padre, condenado a 27 años (no se contaron los escaños de Michelle y Carlos Bolsonaro ni Sergio Moro en Paraná). Pedro Sánchez debe decir el lunes 5 si adelanta elecciones (29 de noviembre como primera fecha), con cuatro barones del PSOE (García-Page, Andueza, Carlos Martínez, Sánchez Cotrina) pidiéndolo en público, el PP retándole y Sumar presentando candidato el 17 de octubre bajo la marca Frente Amplio (no se contó la encuesta Sigma Dos de 203 escaños para PP y Vox ni los nombres de Mónica García o Ada Colau); temporal en Cataluña: récord de 213 litros en Barcelona y 288 en Vilassar de Mar, dos muertos en Tordera y Montornès del Vallès, un joven desaparecido en Pineda de Mar y ocho centros educativos cerrados el lunes; Rusia pidió a los diplomáticos salir de Kiev y la UE, Alemania, Polonia y España se quedan, mientras Friedrich Merz visitó Kiev por sorpresa con 1.000 millones en ayuda militar y 350 millones para centrales; desalojo parcial el domingo de la playa del Trampolín en Ceuta (3.000-3.500 migrantes, más de 350 policías, unos 600 vuelven a Marruecos). Cierre con el hallazgo en Mieza (Grecia) del complejo atribuido a la escuela donde Aristóteles enseñó a Alejandro Magno.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 04:59:37 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-05.mp3" length="3131812" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-05.mp3</link>
+      <itunes:duration>196</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-05.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-05.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 4 de octubre: la calle pide huelga general por la vivienda</title>
       <description>Apertura con las marchas por la vivienda del sábado 3 tras la caída de los decretos (70.000 en Madrid según la Delegación, 500.000 según el Sindicato de Inquilinas, unas 50 ciudades, Valeria Racu anuncia huelga general pronto, en Valencia se apunta a mediados de noviembre, nueve policías heridos y cinco detenidos ante el Real Estate Summit, ultras frenados camino de Sol); Pedro Sánchez sigue consultando con el PSOE dividido entre convocar ya o esperar al primer trimestre de 2027, Feijóo le pidió en el Foro La Toja que deje de amagar y Jordi Turull dice que Junts está preparado con Míriam Nogueras de candidata (no se contaron la acampada de Valencia ni la marcha aplazada de Barcelona, que pasa al lunes). Temporal en Cataluña: el Meteocat activó por primera vez sus tres umbrales en rojo, 20 comarcas restringidas hasta las 14.00 del domingo, agua en los andenes de Sants y 220 cancelaciones en El Prat, y la Junta pedirá el martes la zona catastrófica para Madrigueras; Brasil vota el domingo 4 entre Lula (81 años este mes, cuarto mandato) y Flávio Bolsonaro con empate en las encuestas y posible segunda vuelta el 25 de octubre; Frank Strada, jefe de prisiones de Tennessee, dimitió el sábado tras la ejecución fallida de Christa Pike (al menos siete agujas, sigue crítica) y suma al menos cinco ejecuciones fallidas. Cierre con la expedición de Purdue que sale el martes 6 desde Tarawa hacia Nikumaroro para buscar el avión de Amelia Earhart.
