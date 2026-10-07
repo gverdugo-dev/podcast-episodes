@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 05:02:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:02:50 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 7 de octubre: Puigdemont, sin orden de detención</title>
+      <description>Apertura con el Tribunal Constitucional, que el martes 6 amparó por 7 votos a 5 a Dolors Bassa y ordenó al Supremo amnistiar la malversación del procés; Pablo Llarena retiró la orden de detención contra Carles Puigdemont, que lo celebró desde Waterloo como derrota de los poderes públicos españoles y esperará al archivo de la causa en el Supremo para volver (no se contaron Feijóo, Urtasun ni la fecha del regreso). El PNV (Maribel Vaquero) apoyará el primer decreto de vivienda en la Diputación Permanente, que saldría por 35 a 34, con préstamos sin intereses de hasta 50.000 euros, y tumbará el segundo de la prórroga indefinida de alquileres; nuevo aguacero en Cataluña el martes 6: unos 100 litros en dos horas en Terres de l'Ebre, más de 20 rescates, Es Alert casi dos horas tarde y 47 vuelos cancelados en El Prat; el Supremo da 48 horas (hasta el jueves 8 a las 15.00) para alegar sobre el voto de unos 400.000 nacionalizados por la ley de nietos, con el censo del 1 de agosto como clave; drones ucranianos incendian en el mar Negro un petrolero con bandera de Liberia de la flota fantasma rusa (23 tripulantes indios rescatados), se hunde un carguero frente a Bulgaria y Zelenski acusa a Rusia de un ataque con dos muertos frente a Rumanía. Cierre con Francis Halzen, Nobel de Física por IceCube, que nunca ha estado en la Antártida.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:49 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-07.mp3" length="3018127" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-07.mp3</link>
+      <itunes:duration>189</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-07.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-07.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 6 de octubre: España vota el 29 de noviembre</title>
       <description>Apertura con la convocatoria de elecciones generales para el 29 de noviembre: Pedro Sánchez lo anunció el lunes 5 desde La Moncloa, Felipe VI firmó el decreto electrónicamente en Helsinki, se publica en el BOE el martes 6, Sánchez admitió errores y falta de mayoría, Feijóo celebró la convocatoria y el Consejo de Ministros del martes 6 reaprueba los decretos de vivienda para que los valide la Diputación Permanente sin Junts (no se contaron el pulso Frente Amplio-Podemos con las primarias del 14 y 15 de octubre de Irene Montero, ni la campaña del PP ni el viaje de Feijóo a Ceuta del miércoles 7). UGT y CCOO anuncian huelga general de 24 horas en otoño, la primera desde 2012, con subidas del 4 al 7%, pendiente de ratificar y de fecha, y la marcha por la vivienda del lunes en Barcelona (20.000 según Guardia Urbana, 120.000 según convocantes, 13 detenidos y 28 mossos heridos); temporal en Cataluña con 346 l/m2 en Granollers en tres días, ciclogénesis tropical, agua en los hospitales de Granollers y Vall d'Hebron, búsqueda de Rami (12 años, autista) y 75 millones de ayudas de Salvador Illa; Brasil tras la primera vuelta: la bolsa sube casi un 10%, Flávio Bolsonaro promete mano dura y cárceles tipo Bukele, Guilherme Derrite récord con más de 13 millones de votos al Congreso y Lula promete ganar el 25 de octubre; muerte de una técnica del Instituto Antipeste de Irkutsk (Siberia), unas 200 personas en observación, controles en Kazajistán, Tayikistán, Kirguistán y cuarentenas en Uzbekistán, Marco Rubio lo sigue de cerca. Cierre con la película musical Puedes contar conmigo de La Oreja de Van Gogh, dirigida por Fernando González Molina.
