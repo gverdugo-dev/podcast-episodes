@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 05:02:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:00:46 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,20 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 8 de octubre: muere Maricarmen</title>
+      <description>Apertura con la muerte de Maricarmen Abascal el miércoles 7 en el Gregorio Marañón, a los 87 años, ingresada desde su desahucio del 23 de septiembre en Retiro; el acuerdo con Urbagestión para que volviera decae, minuto de silencio en Sol y marcha al Congreso, condolencias de Sánchez y Feijóo pidiendo no usarla en campaña (no se contaron las frases de Rufián, Vox o Irene Montero ni el veto del PP al minuto de silencio en la Asamblea). Huelga general el 11 de noviembre convocada por UGT, CCOO y el Sindicato de Inquilinas, dos días antes de la campaña, con CSIF, USO, Fetico y Valorian (unos 550.000 afiliados) en contra y la CEOE dudando de su legalidad; caso de Daria Shipilova (28 años, Instituto Antipeste de Irkutsk): la OMS pide datos y verificar un segundo caso, el Kremlin (Peskov) habla de información falsa y Trump no ve arma biológica por ahora; la jueza Beatriz Biedma declara el jueves 8 como perjudicada ante Santiago Pedraz en el caso de las cloacas de Leire Díez, con el exjuez Sáenz de Tejada diciendo que había que eliminarla, y Pedraz decidirá antes del 13 de noviembre si imputa al PSOE como persona jurídica (pendiente el informe de Anticorrupción); tercer aniversario del 7 de octubre en Israel, con explosiones en Gaza, tregua que cumple un año el sábado 10, Hamás sin desarmarse, Israel con dos tercios de la franja y 1.394 muertos desde el alto el fuego según la UNRWA (no se contaron las elecciones israelíes del 27 de octubre). Cierre con Rosalía, Premio Nacional de las Músicas Actuales 2026 (30.000 euros) por Lux.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 04:58:10 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-08.mp3" length="3335358" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-08.mp3</link>
+      <itunes:duration>208</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-08.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 7 de octubre: Puigdemont, sin orden de detención</title>
       <description>Apertura con el Tribunal Constitucional, que el martes 6 amparó por 7 votos a 5 a Dolors Bassa y ordenó al Supremo amnistiar la malversación del procés; Pablo Llarena retiró la orden de detención contra Carles Puigdemont, que lo celebró desde Waterloo como derrota de los poderes públicos españoles y esperará al archivo de la causa en el Supremo para volver (no se contaron Feijóo, Urtasun ni la fecha del regreso). El PNV (Maribel Vaquero) apoyará el primer decreto de vivienda en la Diputación Permanente, que saldría por 35 a 34, con préstamos sin intereses de hasta 50.000 euros, y tumbará el segundo de la prórroga indefinida de alquileres; nuevo aguacero en Cataluña el martes 6: unos 100 litros en dos horas en Terres de l'Ebre, más de 20 rescates, Es Alert casi dos horas tarde y 47 vuelos cancelados en El Prat; el Supremo da 48 horas (hasta el jueves 8 a las 15.00) para alegar sobre el voto de unos 400.000 nacionalizados por la ley de nietos, con el censo del 1 de agosto como clave; drones ucranianos incendian en el mar Negro un petrolero con bandera de Liberia de la flota fantasma rusa (23 tripulantes indios rescatados), se hunde un carguero frente a Bulgaria y Zelenski acusa a Rusia de un ataque con dos muertos frente a Rumanía. Cierre con Francis Halzen, Nobel de Física por IceCube, que nunca ha estado en la Antártida.
