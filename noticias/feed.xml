@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 05:00:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:02:05 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 9 de octubre: bronca en la Asamblea por Maricarmen</title>
+      <description>Apertura con el pleno de la Asamblea de Madrid del jueves 8: el PP (Carlos Díaz-Pache) veta el minuto de silencio por Maricarmen, la izquierda responde con aplausos y bronca entre Manuela Bergerot (en las calles no habrá paz) e Isabel Díaz Ayuso (no se contaron el Plan Vive ni las frases de Mar Espinar). La jueza Beatriz Biedma declara el jueves 8 ante Santiago Pedraz, sigue sin escolta, cuenta que se acercaron a su entorno haciéndose pasar por su hermano o secretario y la UCO señala al exjuez Sáenz de Tejada, ligado a Leire Díez; Feijóo pide a Sánchez que explique quién dio la orden (no se contaron los detalles del clan de los Rocho ni del Club de Debates Urbanos de Badajoz); Gavin Newsom estudia conmutar las penas de los 563 condenados a muerte de California por cadena perpetua, según The New York Times, tras la ejecución fallida de Christa Pike (30 de septiembre), ya despierta; Ada Colau e Irene Montero negocian la entrada de Podemos en el Frente Amplio, Colau acepta ser candidata si entra Podemos, Montero mantiene las primarias del 14 y 15 de octubre y las coaliciones se registran antes del 16; muere Xosé Manuel Beiras a los 90 años, fundador del BNG (de 1 a 18 diputados), la Xunta descarta luto oficial y hay acto público el viernes 9 en el Museo do Pobo Galego. Cierre con Anne Carson, Nobel de Literatura, que silenció las llamadas de la Academia Sueca y estaba escuchando el viento en Reikiavik.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 04:59:08 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-09.mp3" length="3112586" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-09.mp3</link>
+      <itunes:duration>195</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-09.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-09.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 8 de octubre: muere Maricarmen</title>
       <description>Apertura con la muerte de Maricarmen Abascal el miércoles 7 en el Gregorio Marañón, a los 87 años, ingresada desde su desahucio del 23 de septiembre en Retiro; el acuerdo con Urbagestión para que volviera decae, minuto de silencio en Sol y marcha al Congreso, condolencias de Sánchez y Feijóo pidiendo no usarla en campaña (no se contaron las frases de Rufián, Vox o Irene Montero ni el veto del PP al minuto de silencio en la Asamblea). Huelga general el 11 de noviembre convocada por UGT, CCOO y el Sindicato de Inquilinas, dos días antes de la campaña, con CSIF, USO, Fetico y Valorian (unos 550.000 afiliados) en contra y la CEOE dudando de su legalidad; caso de Daria Shipilova (28 años, Instituto Antipeste de Irkutsk): la OMS pide datos y verificar un segundo caso, el Kremlin (Peskov) habla de información falsa y Trump no ve arma biológica por ahora; la jueza Beatriz Biedma declara el jueves 8 como perjudicada ante Santiago Pedraz en el caso de las cloacas de Leire Díez, con el exjuez Sáenz de Tejada diciendo que había que eliminarla, y Pedraz decidirá antes del 13 de noviembre si imputa al PSOE como persona jurídica (pendiente el informe de Anticorrupción); tercer aniversario del 7 de octubre en Israel, con explosiones en Gaza, tregua que cumple un año el sábado 10, Hamás sin desarmarse, Israel con dos tercios de la franja y 1.394 muertos desde el alto el fuego según la UNRWA (no se contaron las elecciones israelíes del 27 de octubre). Cierre con Rosalía, Premio Nacional de las Músicas Actuales 2026 (30.000 euros) por Lux.
