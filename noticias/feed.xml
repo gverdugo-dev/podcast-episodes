@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 05:02:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:01:20 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 10 de octubre: el Nobel de la Paz, para Navi Pillay</title>
+      <description>Apertura con el Nobel de la Paz del viernes 9 a Navi Pillay (85 años, exalta comisionada de la ONU para los Derechos Humanos y exjueza del TPI, presidió la comisión que concluyó genocidio de Israel en Gaza), con Netanyahu tachándola de fanática y las sanciones de EE.UU. al propio Tribunal Penal Internacional unas cinco horas después (prohibición de transacciones; no se contaron los seis meses de gracia, Guterres ni el récord bélico de Trump). Ley de nietos: vencido el plazo de 48 horas, el Supremo resolverá el fin de semana antes del cierre del censo del lunes 12, con Fiscalía y Abogacía del Estado pidiendo levantar la suspensión (163.020 afectados, unos 14.120 votos estadísticos; Iustitia Europa pide suspender las elecciones, no contado); terremoto de 7,6 (USGS) en Panamá el viernes 9, epicentro en Herrera, más de 80 réplicas, daños y heridos leves, Mulino habla de desastre grande; Anticorrupción ve indicios de tráfico de influencias y cohecho en el PSOE a través de Santos Cerdán pero ve precipitado imputarlo y Pedraz pide más diligencias (no se contó a la gerente Ana María Fuentes); Mohamed VI habla por primera vez de la crisis de Ceuta en la apertura de la legislatura, débil y con muleta, y avisa de que no acepta presión, amenaza ni chantaje, antes de la visita de Felipe VI a Ceuta y Melilla. Cierre con el estudio del IPHES en el Abric Romaní (Capellades) sobre la carpintería neandertal: lanzas de 2,45 metros, bandejas de corteza y una maza sin paralelo. Pendiente: el fusilamiento televisado de Nidal Hasan en Fort Hood el 3 de diciembre.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:09 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-10.mp3" length="3170264" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-10.mp3</link>
+      <itunes:duration>198</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-10.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-10.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 9 de octubre: bronca en la Asamblea por Maricarmen</title>
       <description>Apertura con el pleno de la Asamblea de Madrid del jueves 8: el PP (Carlos Díaz-Pache) veta el minuto de silencio por Maricarmen, la izquierda responde con aplausos y bronca entre Manuela Bergerot (en las calles no habrá paz) e Isabel Díaz Ayuso (no se contaron el Plan Vive ni las frases de Mar Espinar). La jueza Beatriz Biedma declara el jueves 8 ante Santiago Pedraz, sigue sin escolta, cuenta que se acercaron a su entorno haciéndose pasar por su hermano o secretario y la UCO señala al exjuez Sáenz de Tejada, ligado a Leire Díez; Feijóo pide a Sánchez que explique quién dio la orden (no se contaron los detalles del clan de los Rocho ni del Club de Debates Urbanos de Badajoz); Gavin Newsom estudia conmutar las penas de los 563 condenados a muerte de California por cadena perpetua, según The New York Times, tras la ejecución fallida de Christa Pike (30 de septiembre), ya despierta; Ada Colau e Irene Montero negocian la entrada de Podemos en el Frente Amplio, Colau acepta ser candidata si entra Podemos, Montero mantiene las primarias del 14 y 15 de octubre y las coaliciones se registran antes del 16; muere Xosé Manuel Beiras a los 90 años, fundador del BNG (de 1 a 18 diputados), la Xunta descarta luto oficial y hay acto público el viernes 9 en el Museo do Pobo Galego. Cierre con Anne Carson, Nobel de Literatura, que silenció las llamadas de la Academia Sueca y estaba escuchando el viento en Reikiavik.
