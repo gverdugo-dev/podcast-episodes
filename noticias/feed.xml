@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 04:59:27 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:57:23 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 12 de octubre: el Papa, al quirófano</title>
+      <description>Apertura con el anuncio de León XIV, el domingo 11 tras el Ángelus, de que será operado de un nódulo pulmonar en fase muy temprana: Matteo Bruni sitúa la operación a principios de semana en el Gemelli, con unos siete días de ingreso; el Papa tiene 71 años y un viaje a Uruguay, Argentina y Perú del 6 al 17 de noviembre (no se contaron reacciones de Meloni ni de Argüello). Gabriel Rufián será por quinta vez candidato de ERC, rechaza liderar el Frente Amplio que le ofrecía Ada Colau y ERC ve muy cerca un pacto con Podemos (Podemos no se presenta en Cataluña, Rufián hace campaña por Irene Montero), con el plazo de coaliciones hasta el viernes 16 (no se contaron Emilio Delgado ni Francesc-Marc Álvaro al Senado); Trump anuncia el domingo una tregua energética inmediata Rusia-Ucrania que el Kremlin no confirma, Zelenski la acepta si Moscú también y ofrece elecciones a cambio de 60 días de alto el fuego total (no se contaron los ataques a Yandex ni los muertos de Zaporiyia); desfile del 12 de octubre en Madrid con más de 4.300 efectivos y ninguna unidad de Ceuta, Abascal en Ceuta, los Reyes en Ceuta el martes 13 (76 días tras la entrada de julio) y Melilla el miércoles, más de 6.000 migrantes en la ciudad según el Gobierno y hasta 15.000 según Vivas, sin expulsiones; naufragio la noche del 8 al 9 de octubre frente a Obock (Yibuti) rumbo a Yemen, 139 muertos (15 niños), 82 supervivientes y 84 desaparecidos según la OIM. Cierre con la nube de 1.800 km de Arsia Mons en Marte explicada por el equipo de Jorge Hernández-Bernal (UPV/EHU) por nucleación homogénea. Pendiente: la decisión del Supremo sobre la ley de nietos y los nuevos ataques hutíes contra el aeropuerto de Riad.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 04:54:41 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-12.mp3" length="3125542" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-12.mp3</link>
+      <itunes:duration>195</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-12.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-12.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 11 de octubre: Trump pacta el diésel con Putin y pide otro presidente para Ucrania</title>
       <description>Apertura con el acuerdo del diésel anunciado el viernes 9 por Trump tras hablar con Putin (300.000 toneladas ya, 500.000 en noviembre, un millón después; licencia de la OFAC hasta el 7 de abril de 2027, con las legislativas del 3 de noviembre de fondo) y Trump pidiendo el sábado 10 un nuevo presidente para Ucrania; Zelenski lo llama regalo a Putin y Kaja Kallas dice que da más dinero a Moscú (no se contaron los 3 millones de toneladas adicionales, las conversaciones de Miami ni el paquete de sanciones de la UE del lunes 12). Precampaña del 29-N: Pedro Sánchez en Dos Hermanas el sábado 10 (unas 5.000 personas según el PSOE, vivienda y Maricarmen, promete reforzar el decreto, perro sin amo, acusa a PP y Vox de meter miedo con el voto por correo) e Isabel Díaz Ayuso en Ifema junto a Feijóo temiendo trampas en el voto por correo; ataque con misiles atribuido a los hutíes contra el aeropuerto Rey Jalid de Riad el sábado 10, con 12 muertos (cuatro saudíes y un estadounidense) y 309 heridos, tercer ataque de la semana, operaciones suspendidas y España entre los países que piden evitarlo; Christa Pike recibe el alta el sábado 10 y vuelve a prisión en Nashville, Bill Lee ha suspendido las ejecuciones el resto de 2026, sus abogados piden cadena perpetua y el fiscal adjunto Will Ayers no sabe si se intentará de nuevo (no se contó la postura del papa León XIV); en India, despliegue policial en Nueva Delhi contra la protesta del Partido del Pueblo Cucaracha por la retirada de 130 millones de nombres del censo electoral, con cientos de detenidos, entre ellos Abhijeet Dipke y Mamata Banerjee. Cierre con las cinco religiosas de Pro Ecclesia Sancta (Perú y EE.UU.) que cuidan la casa de León XIV contra las filtraciones, entre ellas la dietista Lynn Luecke. Pendiente: la decisión del Supremo sobre el voto de la ley de nietos antes del cierre del censo y la visita de los Reyes a Ceuta y Melilla.
