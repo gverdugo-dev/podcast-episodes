@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 04:57:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:58:00 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 13 de octubre: los nietos del exilio se quedan sin voto</title>
+      <description>Apertura con el Supremo, que el lunes 12 (auto de 5 votos a 1, ponente Antonio Narváez) mantiene suspendido el voto de 163.020 nacionalizados por la ley de nietos para el 29-N, reprocha a la Abogacía del Estado no aportar datos de cumplimiento; Sánchez culpa a Feijóo y Abascal, Feijóo defiende un censo sin dudas y al Gobierno solo le queda el Constitucional (no se contaron los datos del voto CERA autonómico). Los Reyes visitan Ceuta el martes 13 y Melilla el miércoles 14, primera visita desde Juan Carlos I en 2007; Sánchez admite en la recepción del Palacio Real que una fragata y patrulleras marroquíes entraron sin aviso en aguas de Ceuta en julio, hecho puntual (no se contaron los abucheos del desfile, el encuentro Feijóo-Karima Benyaich ni Abascal con Bardella en Ceuta); incendio el lunes 12 en la cabina de cola de un AVE Madrid-Figueres en Ricla (Zaragoza), más de cuatro horas de corte, hasta 5.000 afectados según Renfe, Iryo y Ouigo parados, causa desconocida; IU, Más Madrid, Movimiento Sumar y comunes designan a Ada Colau candidata del Frente Amplio sin circunscripción decidida, tras el pacto Podemos-ERC (Rufián y Montero), invitan a Podemos, plazo de coaliciones el viernes 16 (primarias de Podemos miércoles y jueves, no contadas); la UE aprueba sanciones contra casi 1.600 personas y entidades de la industria militar rusa, la mayor desde 2022, Kallas cifra en más de 150 los civiles muertos en una semana y el Kremlin rechaza una tregua temporal. Cierre con La bola negra de los Javis, octava película española más taquillera (más de 23,5 millones de euros), candidata a los Óscar, y Penélope Cruz rodando su número a toma directa. Pendiente: el ingreso de León XIV en el Gemelli el martes 13 y el Nobel de Economía a Robert E. Hall y Michael Woodford, no contados.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 04:55:20 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-13.mp3" length="3156471" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-13.mp3</link>
+      <itunes:duration>197</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-13.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-13.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 12 de octubre: el Papa, al quirófano</title>
       <description>Apertura con el anuncio de León XIV, el domingo 11 tras el Ángelus, de que será operado de un nódulo pulmonar en fase muy temprana: Matteo Bruni sitúa la operación a principios de semana en el Gemelli, con unos siete días de ingreso; el Papa tiene 71 años y un viaje a Uruguay, Argentina y Perú del 6 al 17 de noviembre (no se contaron reacciones de Meloni ni de Argüello). Gabriel Rufián será por quinta vez candidato de ERC, rechaza liderar el Frente Amplio que le ofrecía Ada Colau y ERC ve muy cerca un pacto con Podemos (Podemos no se presenta en Cataluña, Rufián hace campaña por Irene Montero), con el plazo de coaliciones hasta el viernes 16 (no se contaron Emilio Delgado ni Francesc-Marc Álvaro al Senado); Trump anuncia el domingo una tregua energética inmediata Rusia-Ucrania que el Kremlin no confirma, Zelenski la acepta si Moscú también y ofrece elecciones a cambio de 60 días de alto el fuego total (no se contaron los ataques a Yandex ni los muertos de Zaporiyia); desfile del 12 de octubre en Madrid con más de 4.300 efectivos y ninguna unidad de Ceuta, Abascal en Ceuta, los Reyes en Ceuta el martes 13 (76 días tras la entrada de julio) y Melilla el miércoles, más de 6.000 migrantes en la ciudad según el Gobierno y hasta 15.000 según Vivas, sin expulsiones; naufragio la noche del 8 al 9 de octubre frente a Obock (Yibuti) rumbo a Yemen, 139 muertos (15 niños), 82 supervivientes y 84 desaparecidos según la OIM. Cierre con la nube de 1.800 km de Arsia Mons en Marte explicada por el equipo de Jorge Hernández-Bernal (UPV/EHU) por nucleación homogénea. Pendiente: la decisión del Supremo sobre la ley de nietos y los nuevos ataques hutíes contra el aeropuerto de Riad.
