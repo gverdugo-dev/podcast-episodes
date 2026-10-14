@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:58:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:08:40 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 14 de octubre: el Rey, en Ceuta</title>
+      <description>Apertura con el discurso de Felipe VI en el Parador de Ceuta el martes 13: llama violación de la frontera a la entrada masiva de julio, soberanía indiscutible, Ceuta es España y Europa, pide el regreso de quienes entraron irregularmente por la vía legal y con trato digno; primera vez que un jefe del Estado pernocta en Ceuta, silencio oficial de Marruecos sin retirar embajador como en 2007, y Melilla el miércoles 14 (no se contaron el homenaje en Sidi Embarek, los abucheos a Torres, los 45,3 millones del Consejo de Ministros ni que el Rey supo a posteriori de la fragata). León XIV operado el martes 13 en el Gemelli: lóbulo inferior del pulmón derecho extirpado, adenocarcinoma confirmado, sin complicaciones, pruebas pendientes de extensión, audiencias canceladas hasta el 20 y Argentina mantiene el viaje de noviembre; el Frente Amplio sitúa a Emilio Delgado (Más Madrid) como cabeza de lista por Madrid, lo que deja a Ada Colau previsiblemente por Barcelona, Colau insiste en sumar a Podemos, Irene Montero dice no y ERC (Isaac Albert) solo ofrece a Podemos puestos de independientes, plazo de coaliciones el viernes 16; ataque con drones la madrugada del martes 13 frente a Bulgaria hunde un carguero (5 rescatados de 16, 11 desaparecidos) y deja a la deriva el Chelsea 3, Rumen Radev apunta a Rusia sin pruebas y Moscú lo niega, segundo hundimiento en una semana; en Algeciras 12 de los 15 concejales del PP dejan el gobierno de José Ignacio Landaluce, denunciado por dos mujeres por presunta agresión sexual, que se niega a dimitir, y el PP baraja una moción de censura con Vox (16 votos, mayoría de 14). Cierre con Estopa y La Maketa, la cinta TDK de 1997 hallada por su madre, disco doble el 20 de noviembre con siete inéditas y gira de cuatro estadios en 2027. Pendiente: la visita a Melilla, la imputación del exjuez Sáenz de Tejada (declara el 28 de octubre), la ley de nietos (5 días para alegar tras el BOE, el Constitucional no intervendrá antes del 29-N), el SMI del 7% que piden UGT y CCOO y la muerte de RJ Mitte.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 05:06:25 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-14.mp3" length="3184475" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-14.mp3</link>
+      <itunes:duration>199</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-14.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-14.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 13 de octubre: los nietos del exilio se quedan sin voto</title>
       <description>Apertura con el Supremo, que el lunes 12 (auto de 5 votos a 1, ponente Antonio Narváez) mantiene suspendido el voto de 163.020 nacionalizados por la ley de nietos para el 29-N, reprocha a la Abogacía del Estado no aportar datos de cumplimiento; Sánchez culpa a Feijóo y Abascal, Feijóo defiende un censo sin dudas y al Gobierno solo le queda el Constitucional (no se contaron los datos del voto CERA autonómico). Los Reyes visitan Ceuta el martes 13 y Melilla el miércoles 14, primera visita desde Juan Carlos I en 2007; Sánchez admite en la recepción del Palacio Real que una fragata y patrulleras marroquíes entraron sin aviso en aguas de Ceuta en julio, hecho puntual (no se contaron los abucheos del desfile, el encuentro Feijóo-Karima Benyaich ni Abascal con Bardella en Ceuta); incendio el lunes 12 en la cabina de cola de un AVE Madrid-Figueres en Ricla (Zaragoza), más de cuatro horas de corte, hasta 5.000 afectados según Renfe, Iryo y Ouigo parados, causa desconocida; IU, Más Madrid, Movimiento Sumar y comunes designan a Ada Colau candidata del Frente Amplio sin circunscripción decidida, tras el pacto Podemos-ERC (Rufián y Montero), invitan a Podemos, plazo de coaliciones el viernes 16 (primarias de Podemos miércoles y jueves, no contadas); la UE aprueba sanciones contra casi 1.600 personas y entidades de la industria militar rusa, la mayor desde 2022, Kallas cifra en más de 150 los civiles muertos en una semana y el Kremlin rechaza una tregua temporal. Cierre con La bola negra de los Javis, octava película española más taquillera (más de 23,5 millones de euros), candidata a los Óscar, y Penélope Cruz rodando su número a toma directa. Pendiente: el ingreso de León XIV en el Gemelli el martes 13 y el Nobel de Economía a Robert E. Hall y Michael Woodford, no contados.
