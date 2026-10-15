@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 05:08:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:25:22 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 15 de octubre: huelga indefinida en las aulas de Madrid</title>
+      <description>Apertura con el primer día de la huelga educativa indefinida en Madrid el miércoles 14: seguimiento del 44,6% según la Comunidad y del 70% según CCOO, la consejera Mercedes Zarzalejo la llama política, marcha desde Atocha, cargas en la Complutense con cinco detenidos y dos policías heridos, el delegado del Gobierno Francisco Martín pide disculpas y encarga una investigación urgente, y JUPOL y CEP piden su dimisión (no se contaron el correo del instituto de Villarejo de Salvanés ni las educadoras infantiles). IPC de septiembre en el 4,9%, máximo desde febrero de 2023, por carburantes (+28%, diésel +34%); se mantiene el descuento de 20 céntimos en noviembre y no baja el IVA de luz y gas (electricidad 11,4%, umbral 15%; queda la revisión con el IPC de octubre para diciembre); Felipe VI cierra en Melilla el miércoles 14 la visita a las ciudades autónomas: llaves de la ciudad de Juan José Imbroda, Melilla es España y Europa, frontera de la Unión, buena vecindad con Marruecos con confianza y buena fe, y que nadie confunda convicciones con debilidad; Ucrania denuncia que SpaceX limitó Starshield/Starlink militar (misiones de drones canceladas), Elon Musk atribuye los límites al Ejército de EE.UU. y a Trump, Zelenski habla de un gran error que costará vidas y un ataque ruso mata a seis en Lutsk; el Tribunal de Cuentas aplica la amnistía a Puigdemont, Mas, Junqueras y otros 32 ex altos cargos por los gastos del 1-O, el 9-N y la acción exterior, levantando medidas cautelares de cinco millones (demanda de Societat Civil Catalana). Cierre con el naufragio más antiguo conocido, hallado frente a Kekova (Turquía) por el equipo de Hakan Öniz: mercante de 10 metros de hace 4.400 a 4.700 años con más de 30 ánforas con residuos. Pendiente: el plazo de coaliciones con Colau ofreciendo renunciar a la candidatura y Podemos insistiendo en Irene Montero, el CIS de octubre (PSOE 34%, PP 22,2%, Vox 17,1%), la evolución del Papa (camina, análisis moleculares en una semana) y la dana prevista desde el sábado en el Mediterráneo y Baleares.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 05:22:43 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-15.mp3" length="3459491" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-15.mp3</link>
+      <itunes:duration>216</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-15.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-15.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 14 de octubre: el Rey, en Ceuta</title>
       <description>Apertura con el discurso de Felipe VI en el Parador de Ceuta el martes 13: llama violación de la frontera a la entrada masiva de julio, soberanía indiscutible, Ceuta es España y Europa, pide el regreso de quienes entraron irregularmente por la vía legal y con trato digno; primera vez que un jefe del Estado pernocta en Ceuta, silencio oficial de Marruecos sin retirar embajador como en 2007, y Melilla el miércoles 14 (no se contaron el homenaje en Sidi Embarek, los abucheos a Torres, los 45,3 millones del Consejo de Ministros ni que el Rey supo a posteriori de la fragata). León XIV operado el martes 13 en el Gemelli: lóbulo inferior del pulmón derecho extirpado, adenocarcinoma confirmado, sin complicaciones, pruebas pendientes de extensión, audiencias canceladas hasta el 20 y Argentina mantiene el viaje de noviembre; el Frente Amplio sitúa a Emilio Delgado (Más Madrid) como cabeza de lista por Madrid, lo que deja a Ada Colau previsiblemente por Barcelona, Colau insiste en sumar a Podemos, Irene Montero dice no y ERC (Isaac Albert) solo ofrece a Podemos puestos de independientes, plazo de coaliciones el viernes 16; ataque con drones la madrugada del martes 13 frente a Bulgaria hunde un carguero (5 rescatados de 16, 11 desaparecidos) y deja a la deriva el Chelsea 3, Rumen Radev apunta a Rusia sin pruebas y Moscú lo niega, segundo hundimiento en una semana; en Algeciras 12 de los 15 concejales del PP dejan el gobierno de José Ignacio Landaluce, denunciado por dos mujeres por presunta agresión sexual, que se niega a dimitir, y el PP baraja una moción de censura con Vox (16 votos, mayoría de 14). Cierre con Estopa y La Maketa, la cinta TDK de 1997 hallada por su madre, disco doble el 20 de noviembre con siete inéditas y gira de cuatro estadios en 2027. Pendiente: la visita a Melilla, la imputación del exjuez Sáenz de Tejada (declara el 28 de octubre), la ley de nietos (5 días para alegar tras el BOE, el Constitucional no intervendrá antes del 29-N), el SMI del 7% que piden UGT y CCOO y la muerte de RJ Mitte.
