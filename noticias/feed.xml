@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 05:25:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:00:22 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 16 de octubre: la izquierda apura el plazo sin papeleta común</title>
+      <description>Apertura con el último día del plazo de coaliciones (viernes 16) sin acuerdo general de la izquierda: Ione Belarra ofrece a IU pactos en diez comunidades sin Madrid ni Cataluña, Antonio Maíllo lo rechaza y solo negocia desde el Frente Amplio, Esquerra Unida rechaza por un 75% ir en la lista de Compromís (que negocia con Podemos), Més pacta en Baleares con Sumar y EU sin Podemos, y solo Canarias tiene candidatura unitaria (no se contaron el resultado de las primarias de Podemos ni Colau en TVE). Pensiones en precampaña: Feijóo promete en Bruselas revalorizarlas con el IPC, Sánchez acusa a PP y Vox de planear recortes tras el 29-N, y la Tesorería de la Seguridad Social cierra 2025 con un patrimonio negativo récord de 116.100 millones (no se contaron el SMI ni Garamendi); hallado entre Sitges y Castelldefels el cuerpo de Rami, niño autista de 12 años desaparecido en Granollers el 4 de octubre durante el temporal, confirmado por Salvador Illa; Defensa (Margarita Robles) remite al juzgado y a la Fiscalía de Ceuta los audios de eldiario.es de tres supuestos militares jactándose de pegar a inmigrantes, que se suman al informe de Amnistía Internacional; Trump rectifica a Pete Hegseth y no retransmitirá el fusilamiento de Nidal Hasan (Fort Hood, 13 muertos en 2009) previsto el 3 de diciembre, con ocho de cada diez estadounidenses en contra según The Washington Post. Cierre con Isabel Allende, ganadora a los 84 años del Premio Planeta (un millón de euros) con La hora antes del alba, continuación de La casa de los espíritus. Pendiente: evolución del Papa (resultados moleculares entre el 23 y el 27 de octubre, viaje a Sudamérica en duda) y la escalada en el estrecho de Ormuz.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 04:57:39 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-16.mp3" length="3408500" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-16.mp3</link>
+      <itunes:duration>213</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-16.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-16.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 15 de octubre: huelga indefinida en las aulas de Madrid</title>
       <description>Apertura con el primer día de la huelga educativa indefinida en Madrid el miércoles 14: seguimiento del 44,6% según la Comunidad y del 70% según CCOO, la consejera Mercedes Zarzalejo la llama política, marcha desde Atocha, cargas en la Complutense con cinco detenidos y dos policías heridos, el delegado del Gobierno Francisco Martín pide disculpas y encarga una investigación urgente, y JUPOL y CEP piden su dimisión (no se contaron el correo del instituto de Villarejo de Salvanés ni las educadoras infantiles). IPC de septiembre en el 4,9%, máximo desde febrero de 2023, por carburantes (+28%, diésel +34%); se mantiene el descuento de 20 céntimos en noviembre y no baja el IVA de luz y gas (electricidad 11,4%, umbral 15%; queda la revisión con el IPC de octubre para diciembre); Felipe VI cierra en Melilla el miércoles 14 la visita a las ciudades autónomas: llaves de la ciudad de Juan José Imbroda, Melilla es España y Europa, frontera de la Unión, buena vecindad con Marruecos con confianza y buena fe, y que nadie confunda convicciones con debilidad; Ucrania denuncia que SpaceX limitó Starshield/Starlink militar (misiones de drones canceladas), Elon Musk atribuye los límites al Ejército de EE.UU. y a Trump, Zelenski habla de un gran error que costará vidas y un ataque ruso mata a seis en Lutsk; el Tribunal de Cuentas aplica la amnistía a Puigdemont, Mas, Junqueras y otros 32 ex altos cargos por los gastos del 1-O, el 9-N y la acción exterior, levantando medidas cautelares de cinco millones (demanda de Societat Civil Catalana). Cierre con el naufragio más antiguo conocido, hallado frente a Kekova (Turquía) por el equipo de Hakan Öniz: mercante de 10 metros de hace 4.400 a 4.700 años con más de 30 ánforas con residuos. Pendiente: el plazo de coaliciones con Colau ofreciendo renunciar a la candidatura y Podemos insistiendo en Irene Montero, el CIS de octubre (PSOE 34%, PP 22,2%, Vox 17,1%), la evolución del Papa (camina, análisis moleculares en una semana) y la dana prevista desde el sábado en el Mediterráneo y Baleares.
