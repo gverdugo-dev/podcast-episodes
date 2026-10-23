@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 10:10:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:04:45 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,20 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 23 de octubre: el virus shamonda salta del ganado a una persona</title>
+      <description>Apertura con el virus shamonda: Francia confirma el jueves 22 la muerte de un paciente inmunodeprimido, primer caso humano conocido, y en España hay focos en ganado de seis provincias (Córdoba, Toledo, Ávila, Madrid, Cantabria y, desde el martes 20, tres explotaciones lecheras de Girona); Agricultura (Luis Planas) pide calma (no se contaron los dos genotipos ni el ECDC). Putin, en la televisión pública el jueves por la noche, se dice dispuesto a un acuerdo tras recibir a Steve Witkoff el miércoles en San Petersburgo, acepta reanudar las negociaciones tripartitas paradas desde febrero y niega ceder territorio (no se contaron la liberación de Stephen Hubbard ni la arquitectura de seguridad europea); la CEOE renuncia a impugnar antes de celebrarse la huelga general del 11 de noviembre que había anunciado Garamendi, y Pepe Álvarez y Unai Sordo la llaman atípica, centrada en la vivienda; Lluís Puig ocupa su escaño en el Parlament el jueves 22 gracias a la amnistía, retira el lazo amarillo y se declara independentista, Illa lo ve en privado, y Toni Comín promete la Constitución ante la JEC para recoger su acta (vuelve a Cataluña el domingo, no contado); cargas en A Coruña el miércoles 21 contra un acto de Abascal (3 detenidos, 13 policías heridos según la Delegación, piden la dimisión de Inés Rey), incidentes en Avilés y Abascal acusa a la Moncloa. Cierre con el estudio de Elijah Kim (Universidad Kyung Hee, Scientific Reports) que sitúa La noche estrellada de Van Gogh en el cielo del 22 de julio de 1889 (Luna creciente, Venus, Híades), con dudas de astrofísicos españoles. Pendiente: la decisión del Supremo sobre Exteriores y el censo de la ley de nietos, la JEC que archiva las denuncias del PP contra Sánchez, el desahucio de Daniel González en Burjassot y las acampadas por la vivienda en Portugal.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 05:02:27 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-23.mp3" length="3245914" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-23.mp3</link>
+      <itunes:duration>203</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-23.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 22 de octubre: el Constitucional deja sin voto a los nietos del exilio</title>
       <description>Apertura con el Tribunal Constitucional, que por diez votos a dos (en contra Ramón Sáez y Juan Carlos Campo) inadmite como prematuro el recurso de Ángel Gabilondo contra la suspensión del voto de 163.020 nacionalizados por la ley de nietos; envío de documentación al CERA del 24 al 30 de octubre con Exteriores sin identificar a todos los afectados (no se contaron la querella admitida contra Sofía Puente, el burofax del PP a Exteriores ni el plazo de alegaciones ante el Supremo). León XIV curado según sus médicos (Luigi Carbone y Stefano Margaritora): adenocarcinoma localizado, sin metástasis, sin más tratamiento, Asís el 27 de octubre y viaje a Uruguay, Argentina y Perú del 6 al 17 de noviembre; Javier Milei en Madrid el miércoles 21 llama impresentable dictador a Sánchez, abrazo con Ayuso, Feijóo y Abascal lo evitan, Sánchez responde soy zurdo y Exteriores condena sin convocar al embajador (no se contó el veto de EE.UU. a Ada Colau en Puerto Rico); disturbios en Francia el fin de semana con más de 2.000 tiendas saqueadas, 2.300 detenidos, 1.000 policías heridos, ayuntamiento de Limoges incendiado y Macron criticado de Le Pen a Mélenchon; feminicidio de Gloria en Carabanchel el martes 20, detenido un hombre de 59 años en Villaverde, sexta víctima en la Comunidad de Madrid. Cierre con la suspensión de las Jornadas Micológicas de Ayerbe (Huesca) por falta de setas (25 a 30 especies frente a más de 200). Pendiente: Witkoff en San Petersburgo y la liberación de Stephen Hubbard, el veto a Colau y las inundaciones en Bocas del Ródano.
