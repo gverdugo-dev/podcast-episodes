@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 05:04:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:58:38 +0200</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,20 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 24 de octubre: atentado racista a las afueras de París</title>
+      <description>Apertura con el atentado del viernes 23 en Trappes y La Verrière (Yvelines): un hombre de 39 años, Kevin T., dispara desde un coche junto a una gasolinera, un centro de salud y un parque infantil, mata a un hombre de 26 años y hiere a cinco, entre ellos una niña de 12 con ocho balazos; la Fiscalía Antiterrorista lo investiga como terrorismo racista, Macron va a Trappes (esto no es Francia) y Laurent Nuñez despliega 70.000 agentes para las protestas del sábado (no se contaron las reacciones de Le Pen, Tondelier ni del alcalde Ali Rabeh). Seguimiento de la ley de nietos: el Supremo da a Bolaños y Albares hasta el miércoles 28 a las 15 horas para entregar la lista nominal de los 163.020 nacionalizados, con multa coercitiva de 1.000 euros por ministro y posible deducción de testimonio por desobediencia; Albares lo ve muy difícil y a 21 de octubre 85 de 172 consulados no habían aportado datos (no se contó que solo 91 de 31.390 expedientes revisados cumplen el requisito de exilio). Cisjordania: ataque palestino cerca de Hebrón con dos soldados israelíes muertos, Netanyahu decreta el cierre total e indefinido y anuncia una operación casa por casa, elecciones israelíes el martes 27 con empate en las encuestas; joyas de Zapatero (1,3 millones, regalo saudí de 2007 según su defensa): Anticorrupción ve malversación y el juez José Luis Calama da dos días a Patrimonio antes de decidir si lo imputa; Feijóo en la SER suprime Igualdad como ministerio, reformará la eutanasia, quiere consentimiento paterno para el aborto de menores de 16 y 17 y se abre a completar mayoría con Vox, Sánchez le replica. Cierre con los Premios Princesa de Asturias en el Campoamor: Leonor y el desencanto juvenil, Patti Smith canta a capela, Christina Koch junto a Messi, que no habló. Pendiente: la entrega de la lista de nietos el miércoles, la imputación de Zapatero, las elecciones israelíes, la petición fiscal de 27 años por el atentado contra Vidal-Quadras atribuido a Irán y los 15 días de Pedraz al PSOE en el caso Cloacas, no contados.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 04:55:55 +0200</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-24.mp3" length="3417277" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-24.mp3</link>
+      <itunes:duration>214</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-24.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 23 de octubre: el virus shamonda salta del ganado a una persona</title>
       <description>Apertura con el virus shamonda: Francia confirma el jueves 22 la muerte de un paciente inmunodeprimido, primer caso humano conocido, y en España hay focos en ganado de seis provincias (Córdoba, Toledo, Ávila, Madrid, Cantabria y, desde el martes 20, tres explotaciones lecheras de Girona); Agricultura (Luis Planas) pide calma (no se contaron los dos genotipos ni el ECDC). Putin, en la televisión pública el jueves por la noche, se dice dispuesto a un acuerdo tras recibir a Steve Witkoff el miércoles en San Petersburgo, acepta reanudar las negociaciones tripartitas paradas desde febrero y niega ceder territorio (no se contaron la liberación de Stephen Hubbard ni la arquitectura de seguridad europea); la CEOE renuncia a impugnar antes de celebrarse la huelga general del 11 de noviembre que había anunciado Garamendi, y Pepe Álvarez y Unai Sordo la llaman atípica, centrada en la vivienda; Lluís Puig ocupa su escaño en el Parlament el jueves 22 gracias a la amnistía, retira el lazo amarillo y se declara independentista, Illa lo ve en privado, y Toni Comín promete la Constitución ante la JEC para recoger su acta (vuelve a Cataluña el domingo, no contado); cargas en A Coruña el miércoles 21 contra un acto de Abascal (3 detenidos, 13 policías heridos según la Delegación, piden la dimisión de Inés Rey), incidentes en Avilés y Abascal acusa a la Moncloa. Cierre con el estudio de Elijah Kim (Universidad Kyung Hee, Scientific Reports) que sitúa La noche estrellada de Van Gogh en el cielo del 22 de julio de 1889 (Luna creciente, Venus, Híades), con dudas de astrofísicos españoles. Pendiente: la decisión del Supremo sobre Exteriores y el censo de la ley de nietos, la JEC que archiva las denuncias del PP contra Sánchez, el desahucio de Daniel González en Burjassot y las acampadas por la vivienda en Portugal.
