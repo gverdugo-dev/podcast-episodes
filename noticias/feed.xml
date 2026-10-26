@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 03:57:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:54:28 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 26 de octubre: Brasil, en vilo entre Lula y Flávio Bolsonaro</title>
+      <description>Apertura con la segunda vuelta de Brasil del domingo 25: con el 15% escrutado Flávio Bolsonaro iba delante con el 50,10% frente al 49,90% de Lula da Silva, tras la denuncia de falta de autobuses en São Paulo y Salvador y la ampliación de dos horas ordenada por el juez Cristiano Zanin cuando muchas urnas ya estaban cerradas, con un experto de la FGV que no descarta una petición de anulación (sin resultado final aún). Seguimiento de los disturbios del sábado en Barcelona: 128 detenidos (72 menores), 23 comercios saqueados, 14 agentes heridos, los Mossos investigan la plataforma anónima Blocus difundida por TikTok, Salvador Illa avisa que pagarán también los padres y Junts, PP y Vox piden la comparecencia de Núria Parlon (no se contaron las palabras de Trump ni las de Rufián); Serbia: Aleksandar Vucic reconoce la victoria de la Lista de Estudiantes (52%, 138 de 250 escaños, participación cercana al 70%); cierre de listas del 29-N el lunes 26 con la dimisión de Francisco Martín como delegado del Gobierno en Madrid al quedar fuera de las listas del PSOE y Podemos integrado en Ara Més-Front Ampli en Baleares con Lucía Muñoz de número tres; María Corina Machado vuelve a Venezuela por Colombia tras siete intentos, misa en Barquisimeto y camino a Caracas, sin fecha electoral. Cierre con la operación de cataratas de Felipe VI en el Instituto Fernández-Vega de Oviedo. Pendiente: el resultado final de Brasil y posibles impugnaciones, las elecciones israelíes del martes 27, la lista de la ley de nietos del miércoles 28 y la imputación de Zapatero.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:21 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-26.mp3" length="3363778" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-26.mp3</link>
+      <itunes:duration>210</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-26.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-26.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 25 de octubre: los disturbios de Francia saltan a Barcelona</title>
       <description>Apertura con los disturbios del sábado 24 en el centro de Barcelona: unos 500 jóvenes convocados por redes (Instituts Indignats) imitan las protestas francesas, 14 comercios saqueados, un centenar de detenidos (25% menores), Núria Parlon habla de efecto espejo, Collboni avisa de consecuencias también para los padres de los menores y la acampada por la vivienda de plaza de Cataluña los rechaza; en Francia, Acto 2 con cientos de miles en la calle y menos violencia (no se contaron Lyon, Burdeos, Nantes ni la jornada sin incidentes en Italia). Brasil vota el domingo 25 la segunda vuelta: Flávio Bolsonaro 47% y Lula 45% en la primera, empate 50-50 en votos válidos según Datafolha, debate del viernes en TV Globo con el insulto nueve dedos y la disculpa de Bolsonaro (no se contaron Polymarket, el apoyo de Almodóvar y Bardem ni Vila Militar); precampaña del 29-N: Sánchez en Granada promete blindar el aborto en la Constitución, subir el SMI con o sin patronal y pide 176 escaños, critica al Supremo por la ley de nietos, Ángel Víctor Torres dice que parte de la lista de los 163.020 ya está entregada, y Abascal pide en Palma una gran mayoría (no se contaron los insultos de Milei en la Fundación Faro ni Abascal en Eivissa); incendio la noche del viernes 23 del Nido del Águila (Kehlsteinhaus, Berchtesgaden), unos 200 bomberos, sin heridos, un sospechoso detenido, posiblemente provocado, difícil de salvar; marcha de pensionistas de COESPE en Madrid el sábado (25.000 según la Delegación, 50.000 según convocantes) por pensiones con el IPC real, la mínima igual al SMI y contra la privatización, con IPC de septiembre en 4,9%. Cierre con Lucas Paulano, segundo en Eurovisión Junior en Malta con Cuore Bello (184 puntos) tras Armenia (Naré, 202), y despedida con el cambio al horario de invierno. Pendiente: la entrega de la lista de nietos el miércoles 28, el resultado de Brasil, las elecciones israelíes del martes 27 y la imputación de Zapatero.
