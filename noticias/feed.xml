@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 03:54:28 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:57:07 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 27 de octubre: Lula remonta y gana en Brasil</title>
+      <description>Apertura con la victoria de Lula da Silva en la segunda vuelta de Brasil del domingo 25 (51,78% frente al 48,22% de Flávio Bolsonaro, unos cuatro millones de votos, primera remontada tras perder la primera vuelta; Lula cumple 81 años el 27): Flávio renuncia el lunes a pedir la anulación y entrega el pasaporte por orden de Alexandre de Moraes, Trump habla sin pruebas de elecciones amañadas (no se contaron el Banco Master ni el reconocimiento internacional). Accidente del domingo de un autobús de Sagalés en Fogars de Montclús (Montseny): 87 heridos en un vehículo de 65 plazas, ocho graves, conductor negativo en alcohol y drogas, los Mossos investigan fallo mecánico o sobrecarga de viajeros de pie y Núria Parlon se abre a prohibirlo en interurbanos; Israel vota el martes 27 (más de 7,3 millones de electores) entre Netanyahu y Gadi Eisenkot (Yashar, primero en sondeos), sin mayoría de 61 escaños para ningún bloque y con el choque con el jefe del Estado Mayor Eyal Zamir por una orden contra Irán, que Netanyahu niega (resultado pendiente); pacto PP-Vox del lunes para el Senado del 29-N: Vox no se presenta en seis provincias (Cádiz, Valencia, Castellón, Las Palmas, Santa Cruz de Tenerife, Baleares) con independientes propuestos por Abascal en listas del PP, el PP renuncia en Guipúzcoa, Girona y Tarragona, contra Senado de Progreso (no se contaron las 14 provincias con candidato único de Vox ni la lista del PP por Madrid); declaraciones del lunes ante la jueza María Tardón sobre la entrada masiva en Ceuta del 30 de julio: el inspector Lorenzo Juan Fages quiso cerrar la puerta del Tarajal y el teniente coronel Miguel Lobo lo impidió para evitar aplastamientos, ambos vieron lanchas marroquíes. Cierre con la muerte de Eric Bauza, voz de Bugs Bunny y el Pato Lucas, a los 46 años. Pendiente: resultado de las elecciones israelíes, plazo del miércoles 28 de la lista de la ley de nietos (el TC suprimió de su auto la crítica a la Administración, no contado), muerte de Alfredo Sánchez Monteseirín no contada.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 03:54:29 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-27.mp3" length="3054070" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-27.mp3</link>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-27.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-27.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 26 de octubre: Brasil, en vilo entre Lula y Flávio Bolsonaro</title>
       <description>Apertura con la segunda vuelta de Brasil del domingo 25: con el 15% escrutado Flávio Bolsonaro iba delante con el 50,10% frente al 49,90% de Lula da Silva, tras la denuncia de falta de autobuses en São Paulo y Salvador y la ampliación de dos horas ordenada por el juez Cristiano Zanin cuando muchas urnas ya estaban cerradas, con un experto de la FGV que no descarta una petición de anulación (sin resultado final aún). Seguimiento de los disturbios del sábado en Barcelona: 128 detenidos (72 menores), 23 comercios saqueados, 14 agentes heridos, los Mossos investigan la plataforma anónima Blocus difundida por TikTok, Salvador Illa avisa que pagarán también los padres y Junts, PP y Vox piden la comparecencia de Núria Parlon (no se contaron las palabras de Trump ni las de Rufián); Serbia: Aleksandar Vucic reconoce la victoria de la Lista de Estudiantes (52%, 138 de 250 escaños, participación cercana al 70%); cierre de listas del 29-N el lunes 26 con la dimisión de Francisco Martín como delegado del Gobierno en Madrid al quedar fuera de las listas del PSOE y Podemos integrado en Ara Més-Front Ampli en Baleares con Lucía Muñoz de número tres; María Corina Machado vuelve a Venezuela por Colombia tras siete intentos, misa en Barquisimeto y camino a Caracas, sin fecha electoral. Cierre con la operación de cataratas de Felipe VI en el Instituto Fernández-Vega de Oviedo. Pendiente: el resultado final de Brasil y posibles impugnaciones, las elecciones israelíes del martes 27, la lista de la ley de nietos del miércoles 28 y la imputación de Zapatero.
