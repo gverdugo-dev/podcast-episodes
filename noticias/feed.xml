@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 04:03:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:53:14 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 29 de octubre: al menos 68 muertos en el choque de trenes de Urda</title>
+      <description>Apertura con el choque del miércoles 28 en Urda (Toledo), en la línea Madrid-Sevilla: el AVE 2080 de Renfe (378 viajeros) alcanzó a las 8.53 a un Iryo parado, al menos 68 muertos y 15 heridos muy graves, Fátima Báñez entre los desaparecidos, nueve meses después de Adamuz (46 muertos), y todos los partidos salvo Vox suspenden la precampaña; los audios de Adif muestran la orden de marcha normal al AVE a las 8.36 tras caer el LZB (el protocolo exigía 40 km/h) y el aviso de la maquinista del Iryo a las 8.48 sin que nadie alertara al AVE, Óscar Puente habla de decisión inexplicable y la Guardia Civil interroga al operador y su turno (no se contaron la versión de Iryo contra Puente, las cargas ante el Ministerio de Transportes, las donaciones de sangre ni la cifra de heridos totales). Israel con el 85% escrutado: bloque de Netanyahu 53, de Gadi Eisenkot 48, partidos árabes de 10 a 19, el Likud denuncia robo electoral, la Comisión Electoral lo rechaza y Herzog abrirá consultas la próxima semana; Flávio Bolsonaro llega a Miami vía Argentina y Ecuador y publica una carta como verdadero presidente que corrige a líder; el Gobierno entrega al Supremo la lista de 163.355 nacionalizados por la ley de nietos, solo 901 acreditan el exilio y podrán votar el 29-N. Cierre con la carta de 1962 de Brian Jones a Charlie Watts que Sotheby's subasta en diciembre. Pendiente: cifra final de víctimas de Urda y estado de Báñez, la investigación judicial del juzgado de Orgaz, el encargo de Herzog y las legislativas de EE UU del 3 de noviembre.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 03:50:08 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-29.mp3" length="3134318" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-29.mp3</link>
+      <itunes:duration>196</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-29.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-29.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 28 de octubre: Israel castiga a Netanyahu sin dar un ganador</title>
       <description>Apertura con las elecciones israelíes del martes 27 según los sondeos a pie de urna: el Likud de Netanyahu, más votado con unos 25 escaños (32 ahora), pero el bloque de Gadi Eisenkot (Yashar) suma hasta 53 frente a 50, nadie llega a 61, partidos árabes con récord de 18 y participación del 77,7%, la más alta desde 1999; recuento oficial hasta el viernes (no se contaron el veto de los partidos judíos a los árabes ni el papel de Herzog). Flávio Bolsonaro sale de Brasil hacia EE UU tras no entregar el pasaporte a Alexandre de Moraes, conserva el italiano, el Departamento de Estado le dará visados a él y su familia, y Flávio Dino ordena investigar financiación extranjera de su campaña (Rockbridge Network, de JD Vance, no nombrado); EPA del tercer trimestre: récord de 22,85 millones de ocupados (+73.600) y paro +95.900 hasta el 10,18%, mayor subida en verano desde la pandemia, por 170.000 activos más; el juez José Luis Calama rechaza la comisión rogatoria a Arabia Saudí sobre las joyas de Zapatero (1,3 millones, supuesto regalo del rey Abdalá en 2007), con el Código de Buen Gobierno de su propio Ejecutivo, y decidirá pronto sobre la malversación; Ceuta: María Tardón interroga el miércoles 28 por videoconferencia a tres marroquíes que señalan a autoridades de Marruecos (jefe de Policía de Tetuán) sin atribuirles hechos, y da 15 días al Gobierno para desclasificar informes del CNI y del Ejército (no se contaron el informe de Interior ni el del Cenif sobre redes). Cierre con Enrique Vila-Matas, Premio Nacional de las Letras Españolas (50.000 euros), que no cogió la llamada. Pendiente: resultado oficial de Israel, encargo de Herzog, entrega de la lista de la ley de nietos el miércoles 28 a las 15.00, imputación de Zapatero y las legislativas de EE UU del 3 de noviembre.
