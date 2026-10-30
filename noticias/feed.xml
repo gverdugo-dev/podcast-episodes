@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 03:53:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:58:41 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 30 de octubre: Urda confirma la muerte de Fátima Báñez</title>
+      <description>Seguimiento del choque de Urda del miércoles 28: confirmada la muerte de Fátima Báñez (59 años, último vagón del Iryo), balance oficial de 69 muertos, 64 denuncias de desaparecidos, 50 de 110 hospitalizados siguen ingresados, y el primer informe de la AITAT estima el impacto entre 160 y 200 km/h con las cajas negras custodiadas para el juzgado de Orgaz; Óscar Puente comparecerá a petición propia el martes 3 de noviembre ante la Diputación Permanente, Ada Colau (Frente Amplio) le reprocha señalar al operario de Atocha y Semaf dice que el LZB fallaba antes y Adif y Transportes lo sabían. Christine Lagarde dejará el BCE el 7 de febrero para implicarse en las presidenciales francesas (Le Pen favorita), el BCE mantiene tipos en el 2,5% con inflación del 3,8%; caos ferroviario del puente: Madrid-Sevilla cortada, plan alternativo de Renfe no antes del 3 de noviembre, Ouigo cancela sus trenes del 30 de octubre y 2 de noviembre (20.000 viajeros) y Semaf convoca paros en Renfe el 10 y 12 de noviembre; los Mossos detienen en Bellmunt d'Urgell a un menor de 16 años por crear Blocus Lleida y llamar a saqueos el sábado 31 (antes, otro de 17 en Valencia; 133 detenidos en Barcelona el día 24). Cierre con la muerte de Patrick Stewart (Picard, profesor Xavier) a los 86 años en Los Ángeles. Pendiente: identificación de víctimas, comparecencia de Puente, convocatorias de Halloween, sucesor de Lagarde; no contados el asesinato en el hospital Joan XXIII de Tarragona ni la rueda de prensa de María Corina Machado.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 03:55:36 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-30.mp3" length="3102554" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-30.mp3</link>
+      <itunes:duration>194</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-30.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-30.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 29 de octubre: al menos 68 muertos en el choque de trenes de Urda</title>
       <description>Apertura con el choque del miércoles 28 en Urda (Toledo), en la línea Madrid-Sevilla: el AVE 2080 de Renfe (378 viajeros) alcanzó a las 8.53 a un Iryo parado, al menos 68 muertos y 15 heridos muy graves, Fátima Báñez entre los desaparecidos, nueve meses después de Adamuz (46 muertos), y todos los partidos salvo Vox suspenden la precampaña; los audios de Adif muestran la orden de marcha normal al AVE a las 8.36 tras caer el LZB (el protocolo exigía 40 km/h) y el aviso de la maquinista del Iryo a las 8.48 sin que nadie alertara al AVE, Óscar Puente habla de decisión inexplicable y la Guardia Civil interroga al operador y su turno (no se contaron la versión de Iryo contra Puente, las cargas ante el Ministerio de Transportes, las donaciones de sangre ni la cifra de heridos totales). Israel con el 85% escrutado: bloque de Netanyahu 53, de Gadi Eisenkot 48, partidos árabes de 10 a 19, el Likud denuncia robo electoral, la Comisión Electoral lo rechaza y Herzog abrirá consultas la próxima semana; Flávio Bolsonaro llega a Miami vía Argentina y Ecuador y publica una carta como verdadero presidente que corrige a líder; el Gobierno entrega al Supremo la lista de 163.355 nacionalizados por la ley de nietos, solo 901 acreditan el exilio y podrán votar el 29-N. Cierre con la carta de 1962 de Brian Jones a Charlie Watts que Sotheby's subasta en diciembre. Pendiente: cifra final de víctimas de Urda y estado de Báñez, la investigación judicial del juzgado de Orgaz, el encargo de Herzog y las legislativas de EE UU del 3 de noviembre.
