@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 03:58:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:51:10 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 31 de octubre: Sánchez rechaza la dimisión de Óscar Puente</title>
+      <description>Seguimiento de Urda: Óscar Puente revela el viernes 30 que puso su cargo a disposición y Pedro Sánchez lo rechazó por injusto; no dimite y sigue apuntando al centro de control de Adif en Atocha, Ada Colau (Frente Amplio) pide su dimisión lo antes posible, el operario de Atocha se niega a declarar ante la Guardia Civil y la CIAF, terminadas las 69 autopsias con 36 víctimas identificadas y 67 denuncias de desaparición activas, y funeral de Fátima Báñez en San Juan del Puerto (no contados Rajoy en el funeral, las palabras del obispo ni el caso de Marta Shahbazi). Blocus: diez detenidos en España, el último en Picanya como presunto fundador, y nivel 4 de alerta de los Mossos para las convocatorias del sábado 31 en Barcelona; Irán dice que cuatro petroleros estallaron por minas en Ormuz (uno con más de dos millones de barriles) y el Brent sube un 2,5% hasta unos 118 dólares; IPC adelantado de octubre en el 4,9% (como septiembre, máximo desde febrero de 2023), pensiones subirían en torno al 3,5% en enero (unos 60 euros para la pensión media); la MINURSO expira el 31 de octubre tras el veto ruso al texto de EE UU (plan marroquí como único marco) y el veto de EE UU a la prórroga rusa. Cierre con León XIV, que votó por correo en Chicago en las elecciones de mitad de mandato. Pendiente: balance de las convocatorias de Blocus, comparecencia de Puente el martes 3, midterms del 3 de noviembre y posible ofensiva contra Irán, la reunión del G20 en Atlanta con Lavrov (no contada).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 03:48:35 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-31.mp3" length="3043621" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-31.mp3</link>
+      <itunes:duration>190</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-31.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-10-31.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 30 de octubre: Urda confirma la muerte de Fátima Báñez</title>
       <description>Seguimiento del choque de Urda del miércoles 28: confirmada la muerte de Fátima Báñez (59 años, último vagón del Iryo), balance oficial de 69 muertos, 64 denuncias de desaparecidos, 50 de 110 hospitalizados siguen ingresados, y el primer informe de la AITAT estima el impacto entre 160 y 200 km/h con las cajas negras custodiadas para el juzgado de Orgaz; Óscar Puente comparecerá a petición propia el martes 3 de noviembre ante la Diputación Permanente, Ada Colau (Frente Amplio) le reprocha señalar al operario de Atocha y Semaf dice que el LZB fallaba antes y Adif y Transportes lo sabían. Christine Lagarde dejará el BCE el 7 de febrero para implicarse en las presidenciales francesas (Le Pen favorita), el BCE mantiene tipos en el 2,5% con inflación del 3,8%; caos ferroviario del puente: Madrid-Sevilla cortada, plan alternativo de Renfe no antes del 3 de noviembre, Ouigo cancela sus trenes del 30 de octubre y 2 de noviembre (20.000 viajeros) y Semaf convoca paros en Renfe el 10 y 12 de noviembre; los Mossos detienen en Bellmunt d'Urgell a un menor de 16 años por crear Blocus Lleida y llamar a saqueos el sábado 31 (antes, otro de 17 en Valencia; 133 detenidos en Barcelona el día 24). Cierre con la muerte de Patrick Stewart (Picard, profesor Xavier) a los 86 años en Los Ángeles. Pendiente: identificación de víctimas, comparecencia de Puente, convocatorias de Halloween, sucesor de Lagarde; no contados el asesinato en el hospital Joan XXIII de Tarragona ni la rueda de prensa de María Corina Machado.
