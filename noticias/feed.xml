@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 03:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:54:19 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 1 de noviembre: Urda despide a sus víctimas</title>
+      <description>Seguimiento de Urda: misa funeral el sábado 31 en la parroquia de Urda (69 muertos, entre ellos la compositora Marisa Manchado, confirmada el sábado), 34 heridos ingresados en Castilla-La Mancha (15 en UCI), Renfe niega que Urda y Adamuz le sean atribuibles, Semaf pide prohibir la marcha normal con el LZB caído y Puente cifra en 170 sus fallos este año. Blocus: Halloween sin altercados en Barcelona y Madrid, más de mil identificados y medio centenar de propuestas de sanción de los Mossos, once dinamizadores detenidos y el creador de canales de Telegram en prisión preventiva; Polonia: Anna Korwin-Piotrowska suspende el viernes al presidente del Constitucional (Święczkowski), Karol Nawrocki habla de toma por la fuerza, Donald Tusk descarta pacto y el PiS prepara moción de censura (pendiente el pleno del 3 de noviembre); la Acampada 26S de Sol se disuelve como Movimiento 26S para preparar la huelga general del 11 de noviembre, con personas sin hogar aún en la plaza; evacuados de Oleshky llegan a Cherníhiv vía Rusia y Bielorrusia gracias al alto el fuego en Jersón que acaba el 1 de noviembre (de 94 años a uno). Cierre con la Espiga de Oro de la Seminci para Dao, de Alain Gomis, sin gala de clausura. Pendiente: comparecencia de Puente el martes 3, midterms de EE UU del 3 de noviembre (no contados el mitin de Trump en Daytona ni la alerta de atentado en Moscú), segundo aniversario de la dana no contado.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 03:51:33 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-01.mp3" length="3001407" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-01.mp3</link>
+      <itunes:duration>188</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-01.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-01.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 31 de octubre: Sánchez rechaza la dimisión de Óscar Puente</title>
       <description>Seguimiento de Urda: Óscar Puente revela el viernes 30 que puso su cargo a disposición y Pedro Sánchez lo rechazó por injusto; no dimite y sigue apuntando al centro de control de Adif en Atocha, Ada Colau (Frente Amplio) pide su dimisión lo antes posible, el operario de Atocha se niega a declarar ante la Guardia Civil y la CIAF, terminadas las 69 autopsias con 36 víctimas identificadas y 67 denuncias de desaparición activas, y funeral de Fátima Báñez en San Juan del Puerto (no contados Rajoy en el funeral, las palabras del obispo ni el caso de Marta Shahbazi). Blocus: diez detenidos en España, el último en Picanya como presunto fundador, y nivel 4 de alerta de los Mossos para las convocatorias del sábado 31 en Barcelona; Irán dice que cuatro petroleros estallaron por minas en Ormuz (uno con más de dos millones de barriles) y el Brent sube un 2,5% hasta unos 118 dólares; IPC adelantado de octubre en el 4,9% (como septiembre, máximo desde febrero de 2023), pensiones subirían en torno al 3,5% en enero (unos 60 euros para la pensión media); la MINURSO expira el 31 de octubre tras el veto ruso al texto de EE UU (plan marroquí como único marco) y el veto de EE UU a la prórroga rusa. Cierre con León XIV, que votó por correo en Chicago en las elecciones de mitad de mandato. Pendiente: balance de las convocatorias de Blocus, comparecencia de Puente el martes 3, midterms del 3 de noviembre y posible ofensiva contra Irán, la reunión del G20 en Atlanta con Lavrov (no contada).
