@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 03:54:19 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:53:00 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 3 de noviembre: Óscar Puente, ante el Congreso por Urda</title>
+      <description>Seguimiento de Urda: el Consejo de Ministros del martes 3 aprueba el decreto de ayudas (duplica el seguro obligatorio de viajeros, máximo de 216.364,68 euros por fallecido, pagos anticipados) y Óscar Puente comparece por la tarde ante la Diputación Permanente con todos los grupos salvo PSOE y Bildu pidiendo su dimisión; Semaf e Iryo piden limitar a 40 km/h con el LZB caído (no contados Feijóo, Montero, Garriga ni el reportaje de ABC sobre Renfe). Ataque ruso del lunes 2 contra una escuela de reparto de ayuda en Komishuvaja (Zaporiyia) tras el fin de la tregua de Jersón: al menos 24 muertos (26 según ABC), Zelenski pide respuesta dura; midterms de EE UU del martes 3 con más de mil observadores del Departamento de Justicia, sondeo NYT/Siena con demócratas por delante en Texas y Kansas, Trump cierra campaña con el estanque del monumento a Lincoln (resultados pendientes); apagón total de La Palma el lunes 2 (6.38 a 10.26, más de 50.000 suministros, caída de la línea Guinchos-Valle y de la central de Los Guinchos, Red Eléctrica y Endesa se culpan, segundo en año y medio); Learjet 60 estrellado el domingo 1 en Greenacres (Palm Beach), nueve muertos, copiloto Nathalia Gadelha Filgueiras de 20 años, 35 segundos entre el mayday y el último mensaje. Cierre con el asentamiento romano del siglo I hallado en el yacimiento de San Esteban (Murcia). Pendiente: lo que diga Puente, resultados de las midterms, negociación Irán-EE UU sobre Ormuz (no contada), reunión de movimientos de vivienda en París (no contada).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 03:50:24 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-03.mp3" length="3350821" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-03.mp3</link>
+      <itunes:duration>209</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-03.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-03.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 1 de noviembre: Urda despide a sus víctimas</title>
       <description>Seguimiento de Urda: misa funeral el sábado 31 en la parroquia de Urda (69 muertos, entre ellos la compositora Marisa Manchado, confirmada el sábado), 34 heridos ingresados en Castilla-La Mancha (15 en UCI), Renfe niega que Urda y Adamuz le sean atribuibles, Semaf pide prohibir la marcha normal con el LZB caído y Puente cifra en 170 sus fallos este año. Blocus: Halloween sin altercados en Barcelona y Madrid, más de mil identificados y medio centenar de propuestas de sanción de los Mossos, once dinamizadores detenidos y el creador de canales de Telegram en prisión preventiva; Polonia: Anna Korwin-Piotrowska suspende el viernes al presidente del Constitucional (Święczkowski), Karol Nawrocki habla de toma por la fuerza, Donald Tusk descarta pacto y el PiS prepara moción de censura (pendiente el pleno del 3 de noviembre); la Acampada 26S de Sol se disuelve como Movimiento 26S para preparar la huelga general del 11 de noviembre, con personas sin hogar aún en la plaza; evacuados de Oleshky llegan a Cherníhiv vía Rusia y Bielorrusia gracias al alto el fuego en Jersón que acaba el 1 de noviembre (de 94 años a uno). Cierre con la Espiga de Oro de la Seminci para Dao, de Alain Gomis, sin gala de clausura. Pendiente: comparecencia de Puente el martes 3, midterms de EE UU del 3 de noviembre (no contados el mitin de Trump en Daytona ni la alerta de atentado en Moscú), segundo aniversario de la dana no contado.
