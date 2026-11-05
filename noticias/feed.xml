@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 04:00:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:02:28 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 5 de noviembre: los demócratas le quitan el Congreso a Trump</title>
+      <description>Midterms del martes 3: los demócratas recuperan la Cámara de Representantes y el Senado (54 escaños), James Talarico vence a Ken Paxton en Texas (primer senador demócrata desde 1988), Gina Hinojosa derrota a Greg Abbott y Adam Hamilton gana en Kansas (primera vez desde 1932); Trump se dice un poco sorprendido en Fox News (no contados Ossoff, El-Sayed, Lance Bottoms, Haaland ni los 445 millones de Musk). Carlos Cuerpo asume Transportes de forma transitoria y el miércoles 4 dimite el presidente de Adif, Luis Pedro Marco de la Peña, tras reunirse con él; el funeral de Urda se adelanta al martes 10 en la catedral de Toledo con los Reyes (no contadas la huelga de Adif del 17-N ni las reacciones de PP y Vox); afiliación de octubre récord con 186.612 cotizantes más (22,6 millones, tirón de educación, 490.586 regularizados) y paro +43.128; inauguración de la XXX Cumbre Iberoamericana en el Teatro Real con minuto de silencio por Urda, Felipe VI pide una voz armónica, solo nueve países con sus máximos dirigentes y Milei, ausente en la gala, acude al plenario del jueves 5 y coincide con Sánchez; tres muertos asfixiados en una fosa de purines en Pitillas (Navarra), el peor accidente de este tipo desde 2003. Cierre con el telescopio Swift de la NASA, que reentró el miércoles sobre Sumatra tras 22 años. Pendiente: resultado del Senado en Misisipi, sucesor de Marco de la Peña, plenario de la cumbre, inflación de la eurozona al 4% (no contada) y huelga general del 11-N.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 03:59:57 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-05.mp3" length="3183220" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-05.mp3</link>
+      <itunes:duration>199</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-05.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-05.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 4 de noviembre: Óscar Puente dimite en el Congreso</title>
       <description>Óscar Puente dimite como ministro de Transportes el martes 3, pasadas las nueve de la noche, tras cuatro horas y media ante la Diputación Permanente y renuncia a la lista del PSOE por Valladolid el 29-N (116 muertos entre Urda y Adamuz, todos los grupos salvo Bildu pidieron su salida, Sánchez lo supo por mensaje, PP y Vox piden que caiga el Gobierno; no contados el sucesor ni el abrazo de Rufián). Midterms del martes 3 con participación récord (Carolina del Sur 52,3% a media tarde, más de 57 millones de voto anticipado), quejas en Michigan y Nuevo México contra observadores del Departamento de Justicia y el Supremo negándose a anular 20.000 votos por correo en California; resultados pendientes. Desalojo de la acampada de Sol el martes de madrugada (334 personas, unos 400 agentes, dos detenidos, 70 objetos peligrosos) y marcha de unas 500 personas a Cibeles con pelotas de goma y un herido; Irán (Mohsen Rezaei) rechaza la respuesta de EE UU y exige sus siete condiciones para reabrir Ormuz con mediación de Qatar, ataque de EE UU a Qeshm la noche del lunes y Trump anuncia el fin de los 4.000 millones anuales de ayuda a Israel desde 2027; XXX Cumbre Iberoamericana en Madrid el 4 y 5 con 10 de 22 líderes, sin Lula, Sheinbaum ni Delcy Rodríguez, Felipe VI recibió a Kast, Asfura, Arévalo y Laura Fernández, 800 policías municipales. Cierre con el Premio Cervantes a Cristina Fernández Cubas, que creyó que la llamada de Urtasun era comercial. Pendiente: resultados de las midterms, sustituto de Puente, movilización europea del 20 al 22 de noviembre y huelga general del 11-N (no contadas).
