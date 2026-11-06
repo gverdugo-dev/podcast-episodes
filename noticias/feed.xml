@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 04:02:28 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:56:59 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 6 de noviembre: la UCO vuelve a casa de Ábalos</title>
+      <description>Nueva pieza secreta del caso Koldo: la UCO registra el jueves 5 el piso de Ábalos en Valencia y detiene a seis personas (todas libres), entre ellas Andrea de la Torre y Cristian Corvillo, al que el PP presenta como exchófer de Sánchez y Moncloa lo niega; juez Ismael Moreno, amaños de obra pública en Transportes (no contadas la acusación de Koldo García contra el abogado del PP Alberto Durán por un millón de euros ni la querella que estudia el PSOE). Oleada de falsas amenazas de bomba el jueves en una veintena de vuelos europeos, tres con Madrid, al menos seis aerolíneas, correos firmados por Fighters of the Male State y siete casos el martes; el Ministerio de Trabajo de Yolanda Díaz propone subir el SMI un 5,3% hasta 1.286 euros (expertos 4,9%), CEOE y Cepyme lo rechazan y piden esperar al 29-N (no contado el posible Consejo de Ministros del 17 de noviembre ni el ajuste del IRPF); cierre de la Cumbre Iberoamericana con saludo frío Milei-Sánchez, Milei equipara socialismo y fascismo, sin respuesta a su petición de ver a Felipe VI, Declaración de Madrid con cuatro países contra el punto 4 (no contados Zelenski ni Honduras); la Policía identifica para la jueza María Tardón a dos mandos marroquíes, Mohamed El Oualidi y Abdel Fattah El Sayed El Radi, en la frontera de Ceuta el 30 y 31 de julio. Cierre con la prueba más antigua del uso psicoactivo del cannabis, en cabellos de la tumba escita de Tunnug 1 (Siberia), publicada en Science. Pendiente: aprobación del SMI, avances de la pieza de Corvillo, midterms y huelga general del 11-N.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 03:54:10 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-06.mp3" length="3149783" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-06.mp3</link>
+      <itunes:duration>197</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-06.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-06.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 5 de noviembre: los demócratas le quitan el Congreso a Trump</title>
       <description>Midterms del martes 3: los demócratas recuperan la Cámara de Representantes y el Senado (54 escaños), James Talarico vence a Ken Paxton en Texas (primer senador demócrata desde 1988), Gina Hinojosa derrota a Greg Abbott y Adam Hamilton gana en Kansas (primera vez desde 1932); Trump se dice un poco sorprendido en Fox News (no contados Ossoff, El-Sayed, Lance Bottoms, Haaland ni los 445 millones de Musk). Carlos Cuerpo asume Transportes de forma transitoria y el miércoles 4 dimite el presidente de Adif, Luis Pedro Marco de la Peña, tras reunirse con él; el funeral de Urda se adelanta al martes 10 en la catedral de Toledo con los Reyes (no contadas la huelga de Adif del 17-N ni las reacciones de PP y Vox); afiliación de octubre récord con 186.612 cotizantes más (22,6 millones, tirón de educación, 490.586 regularizados) y paro +43.128; inauguración de la XXX Cumbre Iberoamericana en el Teatro Real con minuto de silencio por Urda, Felipe VI pide una voz armónica, solo nueve países con sus máximos dirigentes y Milei, ausente en la gala, acude al plenario del jueves 5 y coincide con Sánchez; tres muertos asfixiados en una fosa de purines en Pitillas (Navarra), el peor accidente de este tipo desde 2003. Cierre con el telescopio Swift de la NASA, que reentró el miércoles sobre Sumatra tras 22 años. Pendiente: resultado del Senado en Misisipi, sucesor de Marco de la Peña, plenario de la cumbre, inflación de la eurozona al 4% (no contada) y huelga general del 11-N.
