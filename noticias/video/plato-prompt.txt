@@ -1,0 +1,9 @@
+Use the attached image as the brand reference: it is the cover of the news podcast "3 minutos de noticias". Take from it only the brand: the "3MN" wordmark with its three signal arcs, the deep navy (#16224A) of the letters, the soft teal-green of the arcs (#2FB3A8 and #8ECFC6), and the pale aquamarine to light sky blue diagonal gradient.
+
+Create a photorealistic, empty television news studio set, shot from the main camera position at eye level, 16:9, wide-medium framing, ready for a presenter to be composited sitting at the desk later.
+
+The set: a modern, minimal public broadcaster studio. Centered in frame, a sleek curved anchor desk with a deep navy (#16224A) front panel, a light oak tabletop and a thin glowing teal-green (#2FB3A8) light line along its lower edge. Behind the desk, an empty high-backed dark chair, centered. The back wall is a large seamless video wall showing the pale aquamarine to sky blue gradient of the cover, with the "3MN" wordmark and its three signal arcs, exactly as in the reference, placed on the upper right part of the wall so it stays visible beside the presenter's head, and the text "3 minutos de noticias" small under it. Soft vertical light panels in aquamarine at both sides. Polished light floor with a subtle reflection. Clean, calm, morning news mood.
+
+Lighting: soft broadcast key light from the front left, gentle fill, light falling evenly on the desk and the chair, no harsh shadows. Shallow depth of field is not wanted: the wall stays sharp.
+
+Keep the center of the frame, behind the desk, clear for the presenter. No people, no other logos, no other text, no clocks, no tickers, no microphones on the desk.

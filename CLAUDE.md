@@ -42,9 +42,11 @@ podcast-episodes/
     ├── show.json          # metadatos del programa: nombre, descripción, autor, email, portada, URL base, voz
     ├── cover.jpg          # portada del programa; también la referencia de estilo de las imágenes de episodio
     ├── feed.xml           # el feed RSS del programa, lo mantiene feed.py; un item por episodio
+    ├── music/theme.mp3    # la sintonía del programa (Eleven Music); mix.py la monta en cada episodio. Puede faltar
+    ├── video/plato.jpg    # el plató del programa en vídeo, referencia fija de toda imagen nueva (y su prompt al lado)
     └── episodes/
-        ├── 2026-09-07.mp3     # audio, MP3 44,1 kHz 128 kbps
-        ├── 2026-09-07.txt     # guion locutado (enlazado desde el feed como transcripción)
+        ├── 2026-09-07.mp3     # audio montado (voz, sintonía y pausas), MP3 44,1 kHz 128 kbps, -16 LUFS
+        ├── 2026-09-07.txt     # transcripción: el guion locutado sin audio tags (enlazado desde el feed)
         └── 2026-09-07.jpg     # imagen del episodio (itunes:image del item); puede faltar
 ```
 
@@ -71,8 +73,9 @@ primer `generate-audio` crea el `feed.xml`.
   programme=<slug> force=1` y después `generate-audio`), no se retoca aquí. Para corregir el
   audio de un día hay que cambiar el nombre del fichero: Spotify no vuelve a descargar un MP3
   cuya URL no cambia.
-- **`<slug>/show.json` y `programmes.json` sí se editan a mano** (son las únicas entradas
-  manuales). Tras cambiar un `show.json`, regenerar su feed con `feed.py rebuild --repo .
+- **`<slug>/show.json`, `<slug>/music/theme.mp3` y `programmes.json` sí se editan a mano**
+  (son las únicas entradas manuales; la sintonía se genera con `theme.py` del plugin y se elige
+  de oído). Tras cambiar un `show.json`, regenerar su feed con `feed.py rebuild --repo .
   --programme <slug>` desde el plugin y commitear los dos. El `email` es el que recibe el
   código de verificación de Spotify y queda público en el XML; `base_url` es la URL desde la
   que se sirven feed y audios (con la carpeta del programa incluida), y cambiarla reescribe
