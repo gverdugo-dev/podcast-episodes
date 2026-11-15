@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 03:56:59 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:16:24 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 15 de noviembre: Feijóo abre campaña en Santiago</title>
+      <description>Campaña del 29-N: Alberto Núñez Feijóo abre su primer fin de semana en Santiago de Compostela (Fontes do Sar, unas 8.000 personas según el PP) prometiendo una auditoría de la corrupción en su primer Consejo de Ministros, Pedro Sánchez apela desde Palma a movilizar a la izquierda, Sigma Dos para El Mundo da a PP y Vox entre 188 y 199 escaños, y cara a cara Sánchez-Feijóo el jueves 19 (no contados la vivienda en una vicepresidencia, la polémica de Jordi Wild con los 44 asesinatos machistas, la espantá de Abascal ni Gamarra y Koldo). Zelenski revela el sábado que EE UU le planteó por primera vez entrar en la OTAN a cambio de retirarse del Donbás y lo sometería a referéndum con garantías (no contado el documento ruso del NYT con la OTAN de 1997 ni lo de Finlandia); la FAA paró todos los despegues de EE UU más de cuatro horas el viernes 13, la parada más larga desde el 11-S, Sean Duffy la atribuye a un contratista de L3Harris que cambiaba cobre por fibra óptica, descarta ciberataque y más de 15.000 cancelaciones según FlightAware (no contada la petición de 50.000 millones al Congreso); el sumario de Núcleo Nacional, desarticulado el 6 de noviembre con 14 detenidos de su cúpula, entre ellos Isabel Peralta: captación de menores en Asturias, culto a Hitler, plan de alzamiento y viaje de miembros a Ucrania en agosto (no contados Noviembre Nacional ni la crítica de Belarra). Cierre con la Voyager 1, que el miércoles 18 a las 11.16 estará a un día luz de la Tierra. Pendiente: debate del jueves 19, elección de Yolanda Díaz en la OIT el lunes, Starship de SpaceX (no contada).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 11:14:27 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-15.mp3" length="2944148" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-15.mp3</link>
+      <itunes:duration>184</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-15.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-15.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 6 de noviembre: la UCO vuelve a casa de Ábalos</title>
       <description>Nueva pieza secreta del caso Koldo: la UCO registra el jueves 5 el piso de Ábalos en Valencia y detiene a seis personas (todas libres), entre ellas Andrea de la Torre y Cristian Corvillo, al que el PP presenta como exchófer de Sánchez y Moncloa lo niega; juez Ismael Moreno, amaños de obra pública en Transportes (no contadas la acusación de Koldo García contra el abogado del PP Alberto Durán por un millón de euros ni la querella que estudia el PSOE). Oleada de falsas amenazas de bomba el jueves en una veintena de vuelos europeos, tres con Madrid, al menos seis aerolíneas, correos firmados por Fighters of the Male State y siete casos el martes; el Ministerio de Trabajo de Yolanda Díaz propone subir el SMI un 5,3% hasta 1.286 euros (expertos 4,9%), CEOE y Cepyme lo rechazan y piden esperar al 29-N (no contado el posible Consejo de Ministros del 17 de noviembre ni el ajuste del IRPF); cierre de la Cumbre Iberoamericana con saludo frío Milei-Sánchez, Milei equipara socialismo y fascismo, sin respuesta a su petición de ver a Felipe VI, Declaración de Madrid con cuatro países contra el punto 4 (no contados Zelenski ni Honduras); la Policía identifica para la jueza María Tardón a dos mandos marroquíes, Mohamed El Oualidi y Abdel Fattah El Sayed El Radi, en la frontera de Ceuta el 30 y 31 de julio. Cierre con la prueba más antigua del uso psicoactivo del cannabis, en cabellos de la tumba escita de Tunnug 1 (Siberia), publicada en Science. Pendiente: aprobación del SMI, avances de la pieza de Corvillo, midterms y huelga general del 11-N.
