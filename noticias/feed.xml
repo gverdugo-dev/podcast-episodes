@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 04:07:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:15:33 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 17 de noviembre: el salario mínimo sube a 1.286 euros</title>
+      <description>El Consejo de Ministros aprueba el martes 17 la subida del SMI un 5,3% hasta 1.286 euros en 14 pagas (65 euros más al mes, unos 2,6 millones de perceptores, exento de IRPF), anunciada el lunes por Yolanda Díaz, que ese día retiró su candidatura a la OIT por falta de apoyos; Gilbert Houngbo reelegido con 51 votos (no contados la subida del 4,5% a funcionarios ni el registro horario). Alemania, Dinamarca, Austria, Grecia y Países Bajos presentan en Viena un centro de retorno en Ruanda para 2027, piloto de unas 100 personas, y Pedro Sánchez lo rechaza; Ada Colau condiciona entrar en un Gobierno de Sánchez a un primer decreto que baje alquileres, y el tracking de Sigma Dos para El Mundo deja al PSOE (26,1%) a menos de cinco puntos del PP (30,8%), Frente Amplio en el 5% y PP-Vox con mayoría (no contados las herencias de 10 millones ni la prestación por crianza); en el caso Andic, el notario Ariel Sultán declara en Martorell que Isak Andic nunca habló de desheredar a Jonathan, investigado por homicidio. Cierre con Robert Pattinson como nuevo James Bond de Amazon MGM, dirigido por Denis Villeneuve. Pendiente: debate Sánchez-Feijóo del jueves 19, desalojo de plaza Catalunya y huelga de hambre (no contados), comisión de migraciones.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 04:13:26 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-17.mp3" length="2781980" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-17.mp3</link>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-17.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-17.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 16 de noviembre: récord de llegadas a Canarias</title>
       <description>Récord de la ruta canaria: el sábado 14 llegaron 1.580 personas en 15 cayucos según Efe (1.488 según Salvamento Marítimo), la mayoría a La Restinga (El Hierro, 12.000 habitantes, más de 3.100 llegadas el fin de semana); Ángel Víctor Torres envía un tercer barco de Salvamento y convoca la comisión interministerial el martes 17 (no contados Clavijo, Senegal, los Juegos de la Juventud de Dakar ni García Albiol). Pedro Sánchez avanza el domingo en Alcorcón el programa del PSOE: unión de amistad, aborto y pensiones-IPC en la Constitución, más impuestos a grandes fondos de vivienda y meta del 75% de participación (no contados sus padres, la bandera ni la prestación por cuidado de menores); Estonia cerrará sus tres pasos con Rusia el 1 de diciembre tras el sabotaje frustrado contra la fábrica de drones Threod Systems cerca de Tallin, ocho detenidos, atribuido al GRU, anunciado por Margus Tsahkna; ataque con petardos, huevos y piedras a Jon Echeverría (PP Guipúzcoa) en Hernani el sábado, condenas de Pradales y el PSOE, Feijóo irá a Guipúzcoa el martes 17. Cierre con la 24.ª edición del Diccionario de la lengua española (más de 6.000 entradas, pódcast, asere). Pendiente: comisión de migraciones del martes, debate Sánchez-Feijóo del jueves 19, ingreso de Sergio Ramírez en la RAE y Starlink en Ucrania (no contados).
