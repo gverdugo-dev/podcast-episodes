@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 04:14:03 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:07:41 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 19 de noviembre: Sánchez y Feijóo, cara a cara</title>
+      <description>Cara a cara Sánchez-Feijóo el jueves 19 por la noche, organizado por la Academia de Televisión y moderado por María Casado, en cinco bloques (vivienda, economía, servicios públicos, corrupción, migración), Feijóo abre y Sánchez cierra con el minuto de oro; solo dos reuniones oficiales en la legislatura (resultado pendiente; no contados la entrevista de Sánchez en Antena 3 sobre Ábalos y Cerdán, Álvarez de Toledo, el Manifiesto por el Cambio ni la declaración de los obispos). Trilateral inédita Xi Jinping-Trump-Putin el jueves 19 en Shenzhen (APEC) centrada en control de armas nucleares (EE UU y Rusia más de 5.000 ojivas, China unas 620, según SIPRI), Ucrania e Irán, con la Casa Blanca rebajando expectativas; la Audiencia de Barcelona da por acreditado que Isak Andic planeó con la terapeuta Júlia Lüderwalt apartar definitivamente a Jonathan de Mango (año sabático y luego salida), oculto al hijo, mantiene su prisión eludible con fianza, resta peso al móvil de la herencia y no excluye una caída accidental; el INE registra 321.684 nacimientos en 2025, +1,2%, primera subida en más de una década, más de un tercio con madre nacida en el extranjero. Cierre con el águila culebrera de Doñana, foto de Josep Ramón Pons, en el disco de oro de la Voyager 1, revelada por Jon Lomberg. Pendiente: resultado del debate y de la trilateral, huelga de maquinistas de Semaf del lunes 23 (no contados el acuerdo con CCOO, UGT y SCF ni la convalidación del decreto ferroviario y los 30 millones para víctimas de Urda), querella contra Julio Iglesias admitida por el juez Antonio Piña (no contada).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 04:05:28 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-19.mp3" length="2820432" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-19.mp3</link>
+      <itunes:duration>176</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-19.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-19.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 18 de noviembre: la huelga del tren paraliza las Cercanías</title>
       <description>Huelga de todo el sector ferroviario el martes 17 por la seguridad tras Adamuz y Urda: en Madrid circuló el 3% de los Cercanías en hora punta y en Rodalies faltó el 41% de los servicios mínimos; Renfe culpa a los maquinistas y Semaf dice que solo se entregó en mano un tercio de las cartas; el miércoles 18 el Congreso vota el decreto que deja a los maquinistas no arrancar ante riesgo grave (no contados la huelga de controladores del jueves 19, la de maquinistas del lunes 23 ni el plan de Cuerpo). Informe del CENIF para la jueza María Tardón: 97 conexiones entre los dinamizadores de WhatsApp de la entrada masiva en Ceuta de julio y la seguridad e inteligencia marroquíes, 49 con posible identidad, frente al CNI que no ve evidencias (no contado el aplazamiento de Pérez Triano al 1 de diciembre); filtración Inside Deutsche Bank (más de 15 millones de documentos, 56 medios): casi 600 millones de dólares en operaciones ligadas a Epstein, oligarcas rusos y la declaración de impuestos de Trump enviada por error en 2017, acción -6%; Trump en Asia: Quad en Manila el martes, APEC en Shenzhen desde el miércoles con Xi y trilateral con Putin, posible Kim Jong-un. Cierre con el antiguo lago Mundafan (Uruq al-Julaybah, Arabia Saudí) de hace 125.000 años, con hipopótamos y posibles armas con veneno (Science). Pendiente: votación del decreto ferroviario, reunión Trump-Xi-Putin, debate Sánchez-Feijóo del jueves 19 y campaña (no contados Abascal en Canarias ni la disculpa de Jordi Wild).
