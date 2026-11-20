@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 12:43:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:17:25 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,5 +27,20 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 20 de noviembre: Alcaraz, entre molestias, y Francia en el camino de España</title>
+      <description>Carlos Alcaraz juega hoy en las ATP Finals ante Flavio Cobolli un partido sin nada en juego, tras unas molestias en el isquiotibial izquierdo que una revisión en Turín descartó como lesión; el sábado le espera Ben Shelton, que eliminó a Rafa Jódar. El sorteo de la Liga de Naciones empareja a España con Francia en cuartos (ida en España y vuelta en Francia, en marzo), y Marc Márquez puede cerrar su décimo título en el GP de Portugal si saca tres puntos a Jorge Martín en la sprint (fue cuarto en los libres 1, Bezzecchi el más rápido). Además, tres años de suspensión por EPO a Peres Jepchirchir, cinco sancionados en la parrilla de Las Vegas (Sainz y Piastri diez puestos, Antonelli cinco; Russell el más rápido bajo la lluvia) y, en el cierre, el tercer final decidido seguido por Nadir Hifi con el París Basketball (97-96 al Maccabi).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 13:15:06 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-20.mp3" length="3222927" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-20.mp3</link>
+      <itunes:duration>201</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-20.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-20.txt" type="text/plain" language="es" />
+    </item>
   </channel>
 </rss>
