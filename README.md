@@ -4,8 +4,8 @@
 
 # podcast-episodes
 
-Audios, guiones y feeds RSS de los programas **3 minutos** ("3 minutos de noticias" hoy;
-tecnología y deporte después), los micropodcasts diarios en castellano que escribe y locuta
+Audios, guiones y feeds RSS de los programas **3 minutos** (noticias, tecnología y
+deporte), los micropodcasts diarios en castellano que escribe y locuta
 cada noche, con inteligencia artificial, la routine del
 [agregador de noticias](https://github.com/gverdugo-dev/news-aggregator).
 
@@ -20,8 +20,12 @@ cada noche, con inteligencia artificial, la routine del
 ## Qué hace
 
 - Portada de los programas: `https://gverdugo-dev.github.io/podcast-episodes/`
-- Feed de "3 minutos de noticias": `https://gverdugo-dev.github.io/podcast-episodes/noticias/feed.xml`
-- Web de "3 minutos de noticias": `https://gverdugo-dev.github.io/podcast-episodes/noticias/`
+- Web de cada programa: `https://gverdugo-dev.github.io/podcast-episodes/<slug>/`
+- Feed de cada programa: `https://gverdugo-dev.github.io/podcast-episodes/<slug>/feed.xml`
+
+Los slugs son `noticias`, `tecnologia` y `deportes`. Los tres comparten voz, formato y maqueta;
+cada uno tiene su sintonía y la paleta de su portada (aguamarina, lavanda y lima), que es
+también la de su web.
 
 Cada programa tiene su carpeta, con el slug que tiene en el agregador, y cada episodio ocupa
 hasta tres ficheros en `<slug>/episodes/`, nombrados por su fecha en hora de Madrid:
@@ -32,8 +36,8 @@ hasta tres ficheros en `<slug>/episodes/`, nombrados por su fecha en hora de Mad
 | `YYYY-MM-DD.txt` | El guion tal como se locutó |
 | `YYYY-MM-DD.jpg` | La imagen del episodio, generada con Nano Banana a partir de la portada (puede faltar) |
 
-El guion lo escribe un modelo de lenguaje a partir de la prensa española del día y la voz es
-sintética. El programa lo dice en cada episodio y el feed lo declara con
+El guion lo escribe un modelo de lenguaje a partir de la prensa del día y la voz es
+sintética. La descripción de cada episodio lo indica y el feed lo declara con
 `<podcast:txt purpose="ai-content">`.
 
 ## Cómo se usa
