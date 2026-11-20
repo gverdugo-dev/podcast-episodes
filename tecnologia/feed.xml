@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 12:43:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:12:56 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,5 +27,20 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 20 de noviembre: Anthropic bate el récord de salidas a bolsa</title>
+      <description>Abrió con el debut de Anthropic en el Nasdaq el jueves 19: salida a 83 dólares, subida de hasta el 34 por ciento y valoración de dos billones, récord por encima de SpaceX, con dudas por sus pérdidas y la concentración de ingresos. Siguieron el estreno de GTA VI (99 en Metacritic, más de 1.500 millones para Take-Two según Sensor Tower), las subidas de sueldo de Colette Kress en Nvidia para retener ingenieros tras la dimisión de Jensen Huang (petición de 180.000 firmas, apoyo de Elon Musk), el informe de Reuters sobre Muse de Meta mezclando conversaciones y datos privados, y los ciberataques a la Comisión Europea (con herramientas de IA) y a JPMorgan Chase vía proveedores. Cierre ligero: el volante plegable de BYD en el Tai 9.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 13:10:41 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-20.mp3" length="3380915" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-20.mp3</link>
+      <itunes:duration>211</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-20.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-20.txt" type="text/plain" language="es" />
+    </item>
   </channel>
 </rss>
