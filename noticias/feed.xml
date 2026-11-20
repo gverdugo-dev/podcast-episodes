@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 04:07:41 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:49:56 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 20 de noviembre: Feijóo ataca y Sánchez se defiende</title>
+      <description>Cara a cara Sánchez-Feijóo del jueves 19 en Tres Cantos (Academia de Televisión), marcado por las interrupciones: Feijóo atacó desde el bloque de vivienda, Sánchez respondió con datos de crecimiento, María Casado cortó a Feijóo tres veces por agotar su tiempo y Gabriel Rufián (ERC) dijo que Sánchez o no se preparó o estaba mal asesorado (no contados el fact-check de cifras, la cesta de la compra +43%, el bloque de sanidad, Puigdemont y Junts ni Ayuso en Sarrià). Cumbre Trump-Xi-Putin en Shenzhen el jueves: declaración de cuatro puntos (guerra nuclear no se puede ganar, diálogo sobre riesgos nucleares, sin acuerdos concretos, sin mencionar Ucrania ni Irán; no contados la CPI, el petróleo, las represalias de Putin por el puente de Kerch ni la invitación al G20 de Miami); la Corte Internacional de Justicia declara el jueves, por 9 a 6, que Birmania cometió genocidio contra los rohinyás en 2017, primera condena de un Estado por genocidio, con indemnización y castigo a los culpables pero sin capacidad de ejecución; crimen machista en Parla la noche del miércoles 18 (María Jesús, 47 años, su pareja Lenin se entregó, sin denuncias previas), séptimo en la Comunidad de Madrid y 45 en España. Cierre con Vicente Luis Mora, primer español en ganar el National Book Award (literatura traducida) por Centroeuropa, con su traductor Rahul Bery. Pendiente: campaña del 29-N, Voyager 1 sin datos desde el 14 de noviembre (no contada), récord de Van Gogh en Sotheby's (no contado).
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 03:47:39 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-20.mp3" length="2816253" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-20.mp3</link>
+      <itunes:duration>176</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-20.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-20.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 19 de noviembre: Sánchez y Feijóo, cara a cara</title>
       <description>Cara a cara Sánchez-Feijóo el jueves 19 por la noche, organizado por la Academia de Televisión y moderado por María Casado, en cinco bloques (vivienda, economía, servicios públicos, corrupción, migración), Feijóo abre y Sánchez cierra con el minuto de oro; solo dos reuniones oficiales en la legislatura (resultado pendiente; no contados la entrevista de Sánchez en Antena 3 sobre Ábalos y Cerdán, Álvarez de Toledo, el Manifiesto por el Cambio ni la declaración de los obispos). Trilateral inédita Xi Jinping-Trump-Putin el jueves 19 en Shenzhen (APEC) centrada en control de armas nucleares (EE UU y Rusia más de 5.000 ojivas, China unas 620, según SIPRI), Ucrania e Irán, con la Casa Blanca rebajando expectativas; la Audiencia de Barcelona da por acreditado que Isak Andic planeó con la terapeuta Júlia Lüderwalt apartar definitivamente a Jonathan de Mango (año sabático y luego salida), oculto al hijo, mantiene su prisión eludible con fianza, resta peso al móvil de la herencia y no excluye una caída accidental; el INE registra 321.684 nacimientos en 2025, +1,2%, primera subida en más de una década, más de un tercio con madre nacida en el extranjero. Cierre con el águila culebrera de Doñana, foto de Josep Ramón Pons, en el disco de oro de la Voyager 1, revelada por Jon Lomberg. Pendiente: resultado del debate y de la trilateral, huelga de maquinistas de Semaf del lunes 23 (no contados el acuerdo con CCOO, UGT y SCF ni la convalidación del decreto ferroviario y los 30 millones para víctimas de Urda), querella contra Julio Iglesias admitida por el juez Antonio Piña (no contada).
