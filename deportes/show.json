@@ -1,6 +1,6 @@
 {
   "title": "3 minutos de deporte",
-  "description": "El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.",
+  "description": "El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.",
   "base_url": "https://gverdugo-dev.github.io/podcast-episodes/deportes/",
   "link": "https://gonzaloverdugo.com/",
   "language": "es",

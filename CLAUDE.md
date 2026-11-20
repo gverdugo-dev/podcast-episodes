@@ -5,7 +5,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Qué es este repo
 
 Almacén y **feeds públicos** de los episodios de los programas "3 minutos" ("3 minutos de
-noticias" hoy; "3 minutos de tecnología" y "3 minutos de deporte" después): el audio y el guion
+noticias", "3 minutos de tecnología" y "3 minutos de deporte", los tres emitidos por la misma
+routine nocturna desde el 21 de noviembre de 2026): el audio y el guion
 de cada día de cada programa, más el `feed.xml` de cada uno, que leen Spotify y el resto de
 directorios de podcasts. Es un repo de **datos**, no de código: aquí no hay nada que compilar ni
 que probar.
