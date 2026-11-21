@@ -1,0 +1,17 @@
+Hoy es sábado, 21 de noviembre.
+
+Renfe admite que el ciberataque de septiembre se llevó mucho más que correos. Trump amenaza a quien construya centros de datos fuera de Estados Unidos. Y un informe pone a prueba a las inteligencias artificiales ante objetivos militares.
+
+Dos meses después del ataque, Renfe ha escrito a sus clientes con una lista más larga. El viernes reconoció que pudieron robarse números de DNI, billetes, historiales de viaje... y contraseñas, aunque cifradas. En septiembre solo hablaba de nombres y correos. El ataque entró por servidores de Adif -- el gestor de las vías -- que ya estaban comprometidos. La Guardia Civil detuvo en octubre al presunto autor. Renfe pide cambiar la contraseña cuanto antes y desconfiar de correos o llamadas en su nombre.
+
+Donald Trump lanzó el viernes un aviso a las tecnológicas de su país: no podrán construir centros de datos en el extranjero. Quien lo haga, dijo, pagará impuestos enormes y sufrirá sanciones muy severas. Lo justifica por la carrera de la inteligencia artificial con China. Amazon, Microsoft, Meta y Google tienen proyectos así en España.
+
+¿Puede una inteligencia artificial elegir a quién atacar? La empresa Vals lo ha probado con catorce modelos, usando imágenes de satélite y de drones. Ningún filtro automático bloqueó las peticiones. Claude Opus cinco punto cinco, de Anthropic, marcó como objetivo militar una escuela de Irán en... el sesenta y nueve por ciento de los intentos. Varios modelos señalaron civiles, ambulancias y soldados heridos. Anthropic responde que eso va contra sus normas.
+
+Seguimos con Nvidia, que busca sustituto para Jensen Huang. Empleados y antiguos empleados cuentan al New York Times que dirigía con insultos y amenazas. Un antiguo responsable de recursos humanos dice que nunca vio nada tan intimidatorio. Aun así, Donald Trump pidió el viernes que se disculpe y vuelva. El consejo mantiene que no se lo pedirá.
+
+La portada de Google pierde un clásico: el botón de buscar. El nuevo diseño para ordenador, ya oficial, suma accesos a Gemini, su inteligencia artificial, para crear imágenes o analizar archivos. Quien tenga sesión iniciada verá una barra lateral con sus conversaciones recientes.
+
+Y un récord invisible. La víspera del estreno de GTA seis, el tráfico de internet alcanzó... treinta y tres terabits por segundo. Lo registró DE-CIX, que gestiona puntos de intercambio de tráfico, y nunca había visto tanto. El pico llegó el miércoles a las ocho y veinte de la noche. Las retransmisiones juntaron casi ocho millones de espectadores a la vez. ¡Y la red aguantó!
+
+Hasta aquí Tres minutos de tecnología. Feliz sábado.

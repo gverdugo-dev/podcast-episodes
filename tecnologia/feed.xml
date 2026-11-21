@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 13:12:56 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:53:05 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 21 de noviembre: Renfe admite que el ciberataque se llevó DNI y contraseñas</title>
+      <description>Abrió con Renfe, que el viernes 20 admitió a sus clientes que el ciberataque del 24 de septiembre, llegado por servidores de Adif, pudo robar DNI, billetes, historiales de viaje y contraseñas cifradas; el presunto autor fue detenido por la Guardia Civil en octubre. Siguieron la amenaza de Donald Trump de impuestos y sanciones a las tecnológicas que construyan centros de datos fuera de EEUU, el informe de Vals sobre catorce modelos de IA que marcan objetivos militares (Claude Opus 5.5 señaló una escuela de Minab, Irán, en el 69 por ciento de los intentos), el seguimiento de Nvidia (relatos al New York Times de insultos y amenazas de Jensen Huang; Trump pide que vuelva y el consejo dice que no) y la nueva portada de Google sin botón de buscar y con accesos a Gemini. Cierre ligero: el récord de tráfico de internet de 33 terabits por segundo según DE-CIX en la víspera del estreno de GTA VI.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 03:50:54 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-21.mp3" length="3487913" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-21.mp3</link>
+      <itunes:duration>218</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-21.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-21.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 20 de noviembre: Anthropic bate el récord de salidas a bolsa</title>
       <description>Abrió con el debut de Anthropic en el Nasdaq el jueves 19: salida a 83 dólares, subida de hasta el 34 por ciento y valoración de dos billones, récord por encima de SpaceX, con dudas por sus pérdidas y la concentración de ingresos. Siguieron el estreno de GTA VI (99 en Metacritic, más de 1.500 millones para Take-Two según Sensor Tower), las subidas de sueldo de Colette Kress en Nvidia para retener ingenieros tras la dimisión de Jensen Huang (petición de 180.000 firmas, apoyo de Elon Musk), el informe de Reuters sobre Muse de Meta mezclando conversaciones y datos privados, y los ciberataques a la Comisión Europea (con herramientas de IA) y a JPMorgan Chase vía proveedores. Cierre ligero: el volante plegable de BYD en el Tai 9.
