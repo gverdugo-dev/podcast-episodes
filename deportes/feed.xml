@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 03:57:28 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:58:32 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 22 de noviembre: Alcaraz remonta y Márquez se cae a un paso del título</title>
+      <description>Carlos Alcaraz remontó a Ben Shelton (3-6, 6-3, 7-6) con el muslo izquierdo vendado y juega hoy, no antes de las 18.00, la final de las ATP Finals ante Alexander Zverev, que ganó a Medvedev; en Portimão, Marc Márquez se cayó con lluvia en la sprint cuando tenía el título, ganó Bezzecchi y Martín fue quinto, y hoy (14.00) le basta con ser noveno saliendo segundo. El Real Madrid remontó al Celta 2-1 (Durán, penalti fallado por Mbappé, Bellingham y Espí en el 85) e iguala al Barça a 33 puntos antes del Barça-Villarreal de hoy; el derbi sevillano acabó 1-1 (Antony y Kike Salas en el 91 con error de Álvaro Valles), y Aleksandre Topuria perdió por decisión dividida ante Santiago Luna en la UFC de Doha, su primera derrota en la compañía. Cierre: Rafa Nadal entra en la junta directiva del Real Madrid y estrena palco el día del primer gol de Espí en el Bernabéu.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 03:56:27 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-22.mp3" length="3202865" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-22.mp3</link>
+      <itunes:duration>200</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-22.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-22.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 21 de noviembre: Alcaraz pasa la prueba y Márquez, a un paso del título</title>
       <description>Carlos Alcaraz ganó a Flavio Cobolli por 6-4 y 6-1 con una muslera en la pierna izquierda y juega hoy la semifinal de las ATP Finals ante Ben Shelton (Zverev-Medvedev en la otra, tras el 6-3 6-4 de Medvedev a Tiafoe); en Portimão, Marc Márquez pasó directo a la Q2 tras un susto con pintura húmeda y será campeón en la sprint de esta tarde si saca dos puntos a Jorge Martín, que admite dolores. En la Euroliga, el Olympiacos ganó 92-76 al Real Madrid (17 pérdidas, segunda derrota seguida) y el Barça cayó 100-103 en la prórroga ante el Estrella Roja; el Espanyol ganó 0-1 en San Mamés con gol de Roberto en el estreno de Eder Sarabia en el banquillo, y Sonia Bermúdez deja fuera a Alexia Putellas e Irene Paredes y recupera a Aitana Bonmatí para los amistosos ante Chile y Venezuela. Cierre: el 5-0 de la sub-17 a China en el Mundial de Catar, con la falta ensayada de Ebrima Tunkara y la foto con la camiseta del lesionado Enzo Alves.
