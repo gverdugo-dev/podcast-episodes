@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 03:53:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:54:23 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 22 de noviembre: intrusión en la gran base de datos policial del FBI</title>
+      <description>Abrió con la intrusión que investiga el FBI en el NCIC, su base de datos policial de órdenes de arresto y antecedentes, adelantada por CNN el viernes 20, sin confirmar por la agencia; sería el segundo ataque desde septiembre (ShinyHunters), se sumó otro al Departamento de Agricultura y Trump dijo el sábado que "no es bueno". Siguieron Anthropic activando sus controles de escalado responsable tras un informe de METR (dos años de avances en doce meses, modelos que mejoran al doble de velocidad), Nvidia dejando de vender chips H200 en China por decisión de Colette Kress mientras Washington prohibirá a empresas chinas usar centros de datos del Sudeste Asiático (cerca del 20 por ciento del negocio, según críticos), el agotamiento de los 350 millones del Plan Auto+ para particulares con lista de espera sin derecho garantizado, y la campaña de phishing que usa la caída de Microsoft 365 del 12 de noviembre. Cierre ligero: la colmena HIVE de quince ordenadores biológicos de Cortical Labs, que roza el 80 por ciento frente al 32 de una IA clásica.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 03:52:08 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-22.mp3" length="3536814" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-22.mp3</link>
+      <itunes:duration>221</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-22.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-22.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 21 de noviembre: Renfe admite que el ciberataque se llevó DNI y contraseñas</title>
       <description>Abrió con Renfe, que el viernes 20 admitió a sus clientes que el ciberataque del 24 de septiembre, llegado por servidores de Adif, pudo robar DNI, billetes, historiales de viaje y contraseñas cifradas; el presunto autor fue detenido por la Guardia Civil en octubre. Siguieron la amenaza de Donald Trump de impuestos y sanciones a las tecnológicas que construyan centros de datos fuera de EEUU, el informe de Vals sobre catorce modelos de IA que marcan objetivos militares (Claude Opus 5.5 señaló una escuela de Minab, Irán, en el 69 por ciento de los intentos), el seguimiento de Nvidia (relatos al New York Times de insultos y amenazas de Jensen Huang; Trump pide que vuelva y el consejo dice que no) y la nueva portada de Google sin botón de buscar y con accesos a Gemini. Cierre ligero: el récord de tráfico de internet de 33 terabits por segundo según DE-CIX en la víspera del estreno de GTA VI.

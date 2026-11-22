@@ -1,0 +1,17 @@
+Hoy es domingo, 22 de noviembre.
+
+Alguien ha entrado en la gran base de datos de delincuentes del FBI. Anthropic activa sus frenos porque su inteligencia artificial avanza demasiado rápido. Y Nvidia deja de vender en China uno de sus chips estrella.
+
+El FBI investiga una intrusión en su Centro Nacional de Información sobre Delitos. Es la base de datos con la que las policías de Estados Unidos consultan órdenes de arresto y antecedentes. Lo adelantó la cadena CNN el viernes. La agencia no lo ha confirmado. Un antiguo responsable del FBI teme algo peor que un robo... que se hayan alterado los datos. Sería el segundo ataque desde septiembre. Ese mismo viernes se supo de otro, contra el Departamento de Agricultura. Donald Trump lo resumió el sábado: no es bueno.
+
+Anthropic, la creadora de Claude, ha activado sus controles de riesgo. Son las medidas previstas para cuando su inteligencia artificial avance demasiado deprisa. El aviso vino de METR, una firma que evalúa estos sistemas. Según su informe, Anthropic logró en doce meses unos dos años de avances. Sus modelos mejoran al DOBLE de velocidad que el año pasado. Los críticos hablan de una operación de imagen ante los inversores.
+
+Se acabaron los chips H200 para China. Lo ha decidido Colette Kress, consejera delegada interina de Nvidia. Washington va en la misma dirección. Prohibirá a las empresas chinas usarlos desde centros de datos del Sudeste Asiático. Por esa vía, según sus críticos, llegaba de China... cerca del veinte por ciento del negocio de Nvidia.
+
+Trescientos cincuenta millones de euros, y no queda nada. Las ayudas del Plan Auto Más para que los particulares compren coches con enchufe se agotaron esta semana. Las nuevas solicitudes irán a una lista de espera, sin derecho garantizado a cobrar. Con ellas, los eléctricos puros crecen un cuarenta y dos por ciento este año. Los concesionarios temen que muchos compradores esperen.
+
+¿Recuerda la gran caída de Microsoft 365 del doce de noviembre? Ahora es el cebo de una estafa. Microsoft alerta de correos falsos que imitan sus avisos oficiales. Dicen que hay mensajes retenidos y que se borrarán en veinticuatro horas. El botón lleva a una web ajena, probablemente para robar contraseñas. Quien haya picado, que cambie la suya y cierre sus sesiones.
+
+Quince minicerebros, conectados. La australiana Cortical Labs los ha unido: son ordenadores biológicos, chips con neuronas humanas vivas. Juntos guían a un personaje virtual por una cuadrícula y rozan el ochenta por ciento de la puntuación. Una inteligencia artificial clásica se quedó en el treinta y dos. Es un estudio preliminar. ¡Pero ya juegan en equipo!
+
+Tres minutos de tecnología vuelve mañana. Buen domingo.
