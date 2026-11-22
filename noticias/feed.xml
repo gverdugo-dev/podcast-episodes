@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 03:48:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:49:22 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Domingo 22 de noviembre: el impuesto a la banca, para vivienda</title>
+      <description>Pedro Sánchez anuncia el sábado 21 en Onda Cero que el Consejo de Ministros del martes 24 prorrogará el impuesto a la banca hasta 2027, con 1.400 millones íntegramente para vivienda a través de las comunidades autónomas (más de 6.000 pisos asequibles según Moncloa; no contados la exigencia de Junts, los 52.000 rehabilitados, Álvarez de Toledo ni el mitin en Tenerife). La COP31 de Antalya sigue bloqueada el sábado por la tarde, un día después de su cierre previsto: unos 130 países, España incluida, piden mencionar el abandono de los combustibles fósiles frente a Arabia Saudí, y Wopke Hoekstra admite posible fracaso (resultado pendiente); México detiene la madrugada del viernes 20 en Guasave (Sinaloa), con ayuda de EE UU, a Fausto Isidro Meza Flores, el Chapo Isidro, del top 10 del FBI, con horas de tiroteos y bloqueos y sin cifra oficial de víctimas; siete exministros de Felipe González (Solana, Almunia, Chaves...) y Carmen Romero escriben a El País que seguirán votando al PSOE, frente al voto en blanco del expresidente. Cierre con el alumbrado navideño de Madrid encendido en Cibeles por cinco niños de Ceuta ante 150.000 personas (14 millones de luces, hasta el 6 de enero). No contados: muerte de Gianni de Gennaro, Zelenski contra Trump, Compromís, oso muerto en Picos de Europa.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 03:47:21 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-22.mp3" length="2871005" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-22.mp3</link>
+      <itunes:duration>179</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-22.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-22.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Sábado 21 de noviembre: el sondeo tras el cara a cara aprieta la carrera</title>
       <description>Tras el cara a cara del jueves 19 (más de 10 millones de espectadores, la mayoría de analistas da ganador a Feijóo), el sondeo de 40dB para la SER y El País hecho en parte después del debate deja al PSOE a siete décimas del PP (31,2% frente a 31,9%), su mejor dato desde 2023, con PP y Vox en 189 escaños y la emisora pidiendo cautela (no contados Feijóo en Canarias, Ayuso en Ceuta ni el ático de Ayuso). Un misil de crucero ruso Kh-101 cae el viernes 20 en Nowy Lipowiec (Polonia), con otro misil y un dron, sin heridos, y Donald Tusk lo llama provocación por las maniobras aliadas Koalicja 2026; ese día al menos ocho muertos en Ucrania (no contados Rutte ni Trump restándole importancia); Andy Burnham cierra en Bruselas el viernes el pacto UE-Reino Unido: movilidad para 100.000 jóvenes, normas europeas para alimentos, en vigor en marzo de 2028 (no contados Erasmus, el mercado de emisiones, Badenoch ni las tasas universitarias); Francia y Alemania presentan a Laurence Boone y Markus Brunnermeier para el BCE, lo que despeja el camino de Pablo Hernández de Cos a la presidencia, pero Klaas Knot no se retira. Cierre con la gigante de Andrómeda (AT 2025abao) que se tragó a su compañera, seguida por Viraj Karambelkar (Columbia). Pendiente: votación del BCE en la cumbre del jueves 26, campaña del 29-N.
