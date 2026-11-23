@@ -1,0 +1,17 @@
+Hoy es lunes, 23 de noviembre.
+
+La cadena de apagones informáticos de noviembre apunta a fallos corrientes, no a un ciberataque. El científico jefe de OpenAI propone cómo medir cuándo frenar a la inteligencia artificial. Y la Guardia Civil avisa de un timo que roba cuentas de WhatsApp sin un solo clic.
+
+Entre el doce y el diecisiete de noviembre fallaron Outlook, el tráfico aéreo de Estados Unidos, los pagos de JPMorgan y una red de comunicaciones clasificadas de la NSA. En las redes se habló de un ataque coordinado. Las investigaciones apuntan a algo más corriente. Los vuelos se pararon por un router recién instalado en Arkansas. Microsoft cayó por un error dormido desde julio. Y la NSA contó al Congreso que su fallo vino de parches rápidos... en sistemas que una inteligencia artificial había marcado como vulnerables. Según la firma PeakMetrics, el treinta por ciento de los mensajes sobre los apagones salía de cuentas sospechosas de ser bots.
+
+Jakub Pachocki, científico jefe de OpenAI, propone un límite de velocidad para la inteligencia artificial. La medida sería la perplejidad: cuánto se equivoca un modelo, de media, al adivinar el siguiente fragmento de texto. Cuanto más baja, mejor. Por debajo de cero coma ocho, escribe, aparecen capacidades nuevas en ciberseguridad y matemáticas. Las empresas se comprometerían a no cruzar un umbral hasta saber vigilar a sus modelos.
+
+Una llamada perdida de madrugada puede costarle su WhatsApp. Lo advierte la Guardia Civil. Los estafadores llaman de noche y la llamada salta al buzón de voz. Entran en él, porque suele tener una clave de fábrica muy débil, y recogen allí el código de verificación. Con la cuenta tomada, piden Bizum a los contactos. Afecta sobre todo a iPhone antiguos. El consejo: activar la verificación en dos pasos y, si alguien pide dinero con prisa, llamarle antes.
+
+Seguimos con GTA seis, ya con cifra oficial. Rockstar confirma que ingresó... 3.790 millones de dólares en su primer día, unas cinco veces más que GTA cinco. Los usuarios de Metacritic no lo ven tan claro: le dan un cincuenta y seis, frente al noventa y nueve de la crítica.
+
+Google ya tiene cohete para sacar sus centros de datos de la Tierra. Un New Glenn de Blue Origin, la empresa de Jeff Bezos, lanzará en dos mil veintinueve varios satélites con procesadores de inteligencia artificial. El prototipo de octubre ya ejecutó un modelo en órbita. Su límite: un solo procesador encendido unos veinte minutos.
+
+Más de cien mil horas encendido. Un usuario del foro Neowin ha mostrado un móvil Android que no se reinició en once años, cinco meses y seis días. Su único trabajo: poner la música de espera de una centralita. Lo retiraron en junio, cuando la empresa cambió de sistema telefónico. Poco después, se colgó.
+
+Esto ha sido Tres minutos de tecnología. Feliz comienzo de semana.

@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 03:54:23 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:55:43 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 23 de noviembre: los apagones informáticos apuntan a fallos, no a un ciberataque</title>
+      <description>Abrió con la cadena de apagones del 12 al 17 de noviembre (Microsoft, FAA, JPMorgan, Apple, NSA): un router recién instalado en El Dorado, Arkansas, paró los vuelos; Microsoft cayó por un error latente desde julio; la NSA atribuyó al Congreso su fallo a parches rápidos en sistemas marcados por IA, y PeakMetrics calcula que el 30 por ciento de los mensajes sobre los apagones venía de bots. Siguieron la propuesta de Jakub Pachocki (OpenAI) de usar la perplejidad como límite común al desarrollo de la IA (umbral por debajo de 0,8), la alerta de la Guardia Civil por el robo de cuentas de WhatsApp vía buzón de voz para pedir Bizum, la cifra oficial de Rockstar para GTA VI (3.790 millones de dólares el primer día; 56 de usuarios frente a 99 de la crítica en Metacritic) y el acuerdo de Google con Blue Origin para lanzar en 2029 satélites de Project Suncatcher en un New Glenn. Cierre ligero: el móvil Android que pasó más de 100.000 horas encendido como música de espera de una centralita.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 03:53:14 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-23.mp3" length="3656768" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-23.mp3</link>
+      <itunes:duration>228</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-23.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-23.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 22 de noviembre: intrusión en la gran base de datos policial del FBI</title>
       <description>Abrió con la intrusión que investiga el FBI en el NCIC, su base de datos policial de órdenes de arresto y antecedentes, adelantada por CNN el viernes 20, sin confirmar por la agencia; sería el segundo ataque desde septiembre (ShinyHunters), se sumó otro al Departamento de Agricultura y Trump dijo el sábado que "no es bueno". Siguieron Anthropic activando sus controles de escalado responsable tras un informe de METR (dos años de avances en doce meses, modelos que mejoran al doble de velocidad), Nvidia dejando de vender chips H200 en China por decisión de Colette Kress mientras Washington prohibirá a empresas chinas usar centros de datos del Sudeste Asiático (cerca del 20 por ciento del negocio, según críticos), el agotamiento de los 350 millones del Plan Auto+ para particulares con lista de espera sin derecho garantizado, y la campaña de phishing que usa la caída de Microsoft 365 del 12 de noviembre. Cierre ligero: la colmena HIVE de quince ordenadores biológicos de Cortical Labs, que roza el 80 por ciento frente al 32 de una IA clásica.
