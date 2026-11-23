@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 03:49:22 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:50:53 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Lunes 23 de noviembre: la cumbre del clima fracasa</title>
+      <description>La COP31 de Antalya fracasa el domingo 22 sin declaración final tras 48 horas de prórroga: el texto no nombraba los combustibles fósiles por el veto de Arabia Saudí, y lo tumbaron la UE, Reino Unido, Noruega, Panamá y países insulares; primera vez desde París (no contados el rechazo de Sara Aagesen, Chris Bowen ni Guterres). Pedro Sánchez en Salvados (La Sexta) el domingo: Zapatero, imputado en la Audiencia Nacional, le asesora en la campaña y lo llama un activo, se da ganador del cara a cara y habla de una movilización nunca vista (no contados joyas, pisos alquilados, Begoña Gómez ni el gasto en defensa); seis cayucos con unas 360 personas llegan a La Restinga el fin de semana y El Hierro suma cerca de 10.000 migrantes en noviembre (no contados hospital de campaña, Clavijo y Frontex, mitin de Colau); agentes del ICE detienen el sábado a dos personas en la pasarela de un vuelo de Alaska Airlines en Seattle, buscando a Ricardo Larrondo Mendoza, y el gobernador Bob Ferguson pide abolir la agencia. Cierre con las ofrendas de leche, vino y un biberón en la cueva 45 de Cales Coves (Menorca), 34 vasijas analizadas. No contados: muerte en Villarrobledo investigada como posible violencia machista, explosión en Rudilla (Teruel), avería del tren de la T4 de Barajas.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 03:48:46 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-23.mp3" length="2720540" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-23.mp3</link>
+      <itunes:duration>170</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-23.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-23.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Domingo 22 de noviembre: el impuesto a la banca, para vivienda</title>
       <description>Pedro Sánchez anuncia el sábado 21 en Onda Cero que el Consejo de Ministros del martes 24 prorrogará el impuesto a la banca hasta 2027, con 1.400 millones íntegramente para vivienda a través de las comunidades autónomas (más de 6.000 pisos asequibles según Moncloa; no contados la exigencia de Junts, los 52.000 rehabilitados, Álvarez de Toledo ni el mitin en Tenerife). La COP31 de Antalya sigue bloqueada el sábado por la tarde, un día después de su cierre previsto: unos 130 países, España incluida, piden mencionar el abandono de los combustibles fósiles frente a Arabia Saudí, y Wopke Hoekstra admite posible fracaso (resultado pendiente); México detiene la madrugada del viernes 20 en Guasave (Sinaloa), con ayuda de EE UU, a Fausto Isidro Meza Flores, el Chapo Isidro, del top 10 del FBI, con horas de tiroteos y bloqueos y sin cifra oficial de víctimas; siete exministros de Felipe González (Solana, Almunia, Chaves...) y Carmen Romero escriben a El País que seguirán votando al PSOE, frente al voto en blanco del expresidente. Cierre con el alumbrado navideño de Madrid encendido en Cibeles por cinco niños de Ceuta ante 150.000 personas (14 millones de luces, hasta el 6 de enero). No contados: muerte de Gianni de Gennaro, Zelenski contra Trump, Compromís, oso muerto en Picos de Europa.
