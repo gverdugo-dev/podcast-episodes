@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 04:00:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:59:31 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 24 de noviembre: Márquez sigue en Ducati y la sub-17 golea quince a cero</title>
+      <description>Marc Márquez, en su primera rueda de prensa como diez veces campeón (lunes en Madrid), confirmó que sigue en Ducati junto a Pedro Acosta, dijo que no ha recibido ni espera la felicitación de Valentino Rossi y que no hay mejor de la historia, y cierra la temporada este fin de semana en Valencia; la sub-17 de David Cubillo goleó 15-0 a Fiyi en el Mundial de Catar (supera el 14-0 de la sub-21 a San Marino de 2005), con cinco goles de Rafa Cruz dedicados a Christian Imga, y ya está en dieciseisavos (el jueves, Marruecos). La Copa Davis arranca hoy en Bolonia: Alcaraz llegó en coche desde Turín, vuelve tras 736 días, cansado y con vendajes y papel incierto; España debuta el jueves ante Austria en la despedida de Ferrer como capitán (le releva Marc López en enero). Champions: Real Madrid-PSV hoy en el Bernabéu (Madrid 4 de 4, segundo; PSV 24.º con 4 puntos) y el Barça, en Bakú tras su viaje europeo más largo (3.970 km), juega mañana ante el Sabah sin Lamine Yamal, su primer partido del curso sin él; en la Euroliga, el líder Valencia Basket (10-3, ocho seguidas) recibe al Panathinaikos y el Barça, con tres derrotas seguidas, al Fenerbahçe sin Josh Nebo (rodilla, unos cuatro meses). Cierre: Michael Jordan, en el 30.º aniversario de Space Jam, dice estar enamorado de Lola Bunny.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 03:57:18 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-24.mp3" length="3471613" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-24.mp3</link>
+      <itunes:duration>217</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-24.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-24.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 23 de noviembre: Alcaraz conquista Turín y Márquez suma su décimo título</title>
       <description>Carlos Alcaraz ganó las ATP Finals a Alexander Zverev (6-2, 7-6) con molestias en el muslo izquierdo, tercer español tras Orantes y Corretja, y se une hoy en Bolonia al equipo de David Ferrer para la Copa Davis (debut el jueves 26 ante Austria); Marc Márquez fue octavo en Portimão y es campeón de MotoGP a falta de una carrera, décimo título mundial y octavo en la categoría reina, igualando a Agostini tras llegar a estar a 102 puntos de Bezzecchi. El Barça remontó al Villarreal 3-2 tras el 0-2 de Buchanan y Oluwaseyi en siete minutos (penalti fallado por Lamine; goles de Gerard Martín, Fermín y Pau Navarro en propia) y queda solo líder; Verstappen ganó en Las Vegas con 352 adelantamientos, Russell se estrelló y fue noveno y Sainz octavo desde el 20.º en su GP 250; en la Liga Endesa, el Madrid sigue invicto (91-88 al Joventut, 23 de Andrés Feliz, siete seguidos de Ricky Rubio) y el Barça cayó 94-82 en Tenerife. Cierre: Simeone, con el 0-3 en Getafe, llega a 345 victorias y supera a Luis Aragonés como técnico con más triunfos en la historia de la Liga.
