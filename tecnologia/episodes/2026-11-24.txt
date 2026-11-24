@@ -1,0 +1,17 @@
+Hoy es martes, 24 de noviembre.
+
+Jensen Huang vuelve al frente de Nvidia, y Trump dice que fue cosa suya. Un intruso se lleva datos de aficionados de LaLiga. Y un estudio pone en duda el anonimato de las búsquedas de Google.
+
+Once días. Es lo que ha durado fuera Jensen Huang. El consejo de Nvidia lo readmitió el lunes, por unanimidad. Había dejado el cargo el doce de noviembre, por su relación con Alice Huang, sospechosa de espiar para China. Donald Trump contó a la cadena CNBC que habló con el consejo... y lo convenció. Las acciones subieron más de un treinta por ciento. Según el medio Semafor, Estados Unidos incluirá en su lista negra a Megaspeed, la empresa de Singapur que ella dirigió. Se investiga si pasó chips de Nvidia a China. La empresa lo niega. Huang declarará ante el Congreso el uno de diciembre.
+
+Entre el catorce y el dieciséis de noviembre, alguien entró en una plataforma de LaLiga para aficionados. Se llevó datos personales de usuarios de LaLiga y de varios clubes, como el Córdoba. Aún no se sabe cuántos afectados hay ni qué datos faltan. La Policía Nacional investiga. Un aviso: ni LaLiga ni los clubes piden nunca contraseñas, ni por correo ni por mensaje.
+
+¿Anónimas? No tanto. Investigadores de la Universitat Rovira i Virgili han puesto a prueba el método de Bruselas para anonimizar las búsquedas de Google. Con herramientas gratuitas de inteligencia artificial, identificaron a personas con nombre y apellidos. Y encontraron datos de salud, creencias y hasta posibles delitos. La ley europea obliga a Google a compartir esas búsquedas con buscadores rivales, como DuckDuckGo.
+
+Marc Murtra, presidente de Telefónica, quiere una Europa con tecnología propia. En una entrevista con la publicación estadounidense Barron's, pide inteligencia artificial, ciberseguridad y nube europeas. Avisa de que el continente no puede depender de multimillonarios astutos. Su ejemplo: sería ingenuo creer que Estados Unidos dará a Airbus la misma inteligencia artificial que a Boeing.
+
+Ya tiene nombre la herramienta del ciberataque a la Comisión Europea: Artex. La identificó el servicio de ciberseguridad europeo, según Politico. Es un programa gratuito en el que la inteligencia artificial busca sola los fallos de una red y se cuela por ellos. El FBI alertó de que ya la usan delincuentes y gobiernos extranjeros. Su autor la retiró en octubre... pero siguen circulando copias.
+
+Cincuenta y dos horas seguidas jugando a GTA seis... y un botón equivocado. El creador de contenido iShowSpeed retransmitía la partida en directo, sin ducharse ni mirar el móvil. Llevaba el noventa y ocho por ciento de la historia. Entonces guardó encima de la partida buena y volvió al cincuenta y siete. ¡Aun así, el directo sumó más de veinte millones de visitas!
+
+Gracias por escuchar Tres minutos de tecnología. Buen martes.

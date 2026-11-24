@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 03:55:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:55:14 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 24 de noviembre: Jensen Huang vuelve a dirigir Nvidia once días después</title>
+      <description>Abrió con la readmisión de Jensen Huang como consejero delegado de Nvidia el lunes 23, por unanimidad y once días después de su salida por su relación con Alice Huang; Trump dijo a CNBC que convenció al consejo, las acciones subieron más del 30 por ciento, Semafor adelanta que Comercio incluirá a Megaspeed en su lista negra (lo niega) y Huang declarará ante el Congreso el 1 de diciembre. Siguieron el ciberataque a una plataforma de aficionados de LaLiga del 14 al 16 de noviembre (datos de usuarios y clubes como el Córdoba, alcance aún desconocido, investiga la Policía Nacional), el estudio de la Universitat Rovira i Virgili que reidentifica usuarios en las búsquedas de Google anonimizadas con el método de Bruselas para la Ley de Mercados Digitales, la entrevista de Marc Murtra (Telefónica) en Barron's pidiendo IA, ciberseguridad y nube europeas, y el seguimiento del ciberataque a la Comisión Europea, atribuido por Politico a la herramienta Artex, sobre la que alertó el FBI. Cierre ligero: iShowSpeed sobrescribió su partida de GTA VI al 98 por ciento tras 52 horas de directo, que sumó más de 20 millones de visitas.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 03:52:53 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-24.mp3" length="3658022" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-24.mp3</link>
+      <itunes:duration>229</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-24.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-24.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 23 de noviembre: los apagones informáticos apuntan a fallos, no a un ciberataque</title>
       <description>Abrió con la cadena de apagones del 12 al 17 de noviembre (Microsoft, FAA, JPMorgan, Apple, NSA): un router recién instalado en El Dorado, Arkansas, paró los vuelos; Microsoft cayó por un error latente desde julio; la NSA atribuyó al Congreso su fallo a parches rápidos en sistemas marcados por IA, y PeakMetrics calcula que el 30 por ciento de los mensajes sobre los apagones venía de bots. Siguieron la propuesta de Jakub Pachocki (OpenAI) de usar la perplejidad como límite común al desarrollo de la IA (umbral por debajo de 0,8), la alerta de la Guardia Civil por el robo de cuentas de WhatsApp vía buzón de voz para pedir Bizum, la cifra oficial de Rockstar para GTA VI (3.790 millones de dólares el primer día; 56 de usuarios frente a 99 de la crítica en Metacritic) y el acuerdo de Google con Blue Origin para lanzar en 2029 satélites de Project Suncatcher en un New Glenn. Cierre ligero: el móvil Android que pasó más de 100.000 horas encendido como música de espera de una centralita.
