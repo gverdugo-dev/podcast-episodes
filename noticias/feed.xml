@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 03:50:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:50:19 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Martes 24 de noviembre: el Supremo amnistía a Puigdemont</title>
+      <description>El Tribunal Supremo (ponente Manuel Marchena) archiva el lunes 23 la causa penal contra Carles Puigdemont, Antoni Comín y Lluís Puig al aplicar la amnistía, rechaza la cuestión prejudicial que pedía Vox y deja abierta la vía contable en el Tribunal de Cuentas; Puigdemont lo celebra con un poema de Jaume C. Pons y da rueda de prensa el miércoles 25 (no contados Jové y Salvadó en el TSJC). Último CIS antes del 29-N (lunes 23): PSOE 34,4% frente a PP 24,7% y Vox 15,6% (baja 2,8), contra casi todos los sondeos, y el PP anuncia que Feijóo cesará a Tezanos (no contados el contra-CIS de Ateneo del Dato ni la queja a la Junta Electoral); siete drones navales ucranianos hunden el domingo 22 la corbeta rusa Merkury en Bengasi (Libia), Zelenski lo reivindica el lunes y la ONU pide investigación (no contados el Ka-27, el carguero Angara ni el Sparta II en el Báltico); el último Consejo de Ministros, hoy martes 24, amplía a diez días laborables el permiso por duelo de familiares directos (antes dos o cuatro), con un día para acompañar una eutanasia, a cargo de las empresas. Cierre con la prueba de la hipótesis de Riemann de Levent Alpöge (Anthropic) hecha con Claude, 17 millones de líneas validadas por Lean. No contados: debate a ocho de RTVE, entrevista de Feijóo en Telecinco, impuesto a los ultrarricos, manifiesto de la cultura por Frente Amplio, prórroga del impuesto a la banca.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 03:48:13 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-24.mp3" length="2848853" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-24.mp3</link>
+      <itunes:duration>178</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-24.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-24.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Lunes 23 de noviembre: la cumbre del clima fracasa</title>
       <description>La COP31 de Antalya fracasa el domingo 22 sin declaración final tras 48 horas de prórroga: el texto no nombraba los combustibles fósiles por el veto de Arabia Saudí, y lo tumbaron la UE, Reino Unido, Noruega, Panamá y países insulares; primera vez desde París (no contados el rechazo de Sara Aagesen, Chris Bowen ni Guterres). Pedro Sánchez en Salvados (La Sexta) el domingo: Zapatero, imputado en la Audiencia Nacional, le asesora en la campaña y lo llama un activo, se da ganador del cara a cara y habla de una movilización nunca vista (no contados joyas, pisos alquilados, Begoña Gómez ni el gasto en defensa); seis cayucos con unas 360 personas llegan a La Restinga el fin de semana y El Hierro suma cerca de 10.000 migrantes en noviembre (no contados hospital de campaña, Clavijo y Frontex, mitin de Colau); agentes del ICE detienen el sábado a dos personas en la pasarela de un vuelo de Alaska Airlines en Seattle, buscando a Ricardo Larrondo Mendoza, y el gobernador Bob Ferguson pide abolir la agencia. Cierre con las ofrendas de leche, vino y un biberón en la cueva 45 de Cales Coves (Menorca), 34 vasijas analizadas. No contados: muerte en Villarrobledo investigada como posible violencia machista, explosión en Rudilla (Teruel), avería del tren de la T4 de Barajas.
