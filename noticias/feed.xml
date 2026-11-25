@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 03:50:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:51:43 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 25 de noviembre: el último Consejo antes de las urnas</title>
+      <description>Último Consejo de Ministros antes del 29-N (martes 24): permiso por nacimiento a 20 semanas por progenitor (la nueva semana, flexible hasta los 8 años; monoparentales 34), prórroga del abono de transporte a 60 euros y recurso al Constitucional contra la ley madrileña del concebido no nacido, por decreto a convalidar con el Gobierno en funciones (no contados autónomos, ultrarricos, vapeadores; duelo e impuesto a la banca ya contados). El Supremo avala el martes la app MiDNI para votar (rechaza a Iustitia Europa, 61.603 lectores) y no frena las urnas aparte en consulados para los más de 163.000 nacionalizados por la ley de nietos con el voto suspendido (no contados los 208 apoderados de Vox); filtración verificada por Meduza y Mediazona: cerca de 490.000 soldados rusos muertos y 230.000 desaparecidos en Ucrania; Cintia Rocho se ratifica ante Pedraz en que el exjuez Sáenz de Tejada le propuso eliminar a la jueza Beatriz Biedma (caso David Sánchez), vinculado a Leire Díez (no contados los pagos de Okdiario a la abogada de Koldo). Cierre con el inventario de la herencia de Antoni Gaudí (unas 3.000 pesetas y su casa del Park Güell para la Sagrada Familia, certificado de Manuel Azaña). No contados: rehenes en un supermercado de Cartagena (Colombia) sin desenlace y coche bomba de Villavicencio, debate a ocho, rueda de prensa de Puigdemont del miércoles 25.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 03:49:30 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-25.mp3" length="2987198" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-25.mp3</link>
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-25.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-25.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 24 de noviembre: el Supremo amnistía a Puigdemont</title>
       <description>El Tribunal Supremo (ponente Manuel Marchena) archiva el lunes 23 la causa penal contra Carles Puigdemont, Antoni Comín y Lluís Puig al aplicar la amnistía, rechaza la cuestión prejudicial que pedía Vox y deja abierta la vía contable en el Tribunal de Cuentas; Puigdemont lo celebra con un poema de Jaume C. Pons y da rueda de prensa el miércoles 25 (no contados Jové y Salvadó en el TSJC). Último CIS antes del 29-N (lunes 23): PSOE 34,4% frente a PP 24,7% y Vox 15,6% (baja 2,8), contra casi todos los sondeos, y el PP anuncia que Feijóo cesará a Tezanos (no contados el contra-CIS de Ateneo del Dato ni la queja a la Junta Electoral); siete drones navales ucranianos hunden el domingo 22 la corbeta rusa Merkury en Bengasi (Libia), Zelenski lo reivindica el lunes y la ONU pide investigación (no contados el Ka-27, el carguero Angara ni el Sparta II en el Báltico); el último Consejo de Ministros, hoy martes 24, amplía a diez días laborables el permiso por duelo de familiares directos (antes dos o cuatro), con un día para acompañar una eutanasia, a cargo de las empresas. Cierre con la prueba de la hipótesis de Riemann de Levent Alpöge (Anthropic) hecha con Claude, 17 millones de líneas validadas por Lean. No contados: debate a ocho de RTVE, entrevista de Feijóo en Telecinco, impuesto a los ultrarricos, manifiesto de la cultura por Frente Amplio, prórroga del impuesto a la banca.
