@@ -1,0 +1,17 @@
+Hoy es miércoles, 25 de noviembre.
+
+Jensen Huang pide perdón a la plantilla de Nvidia, pero no cede en lo demás. Los agentes de inteligencia artificial suspenden en las tareas de cada día. Y la herramienta Artex reaparece, esta vez en un ataque a Quirónsalud.
+
+Un día después de volver al cargo, Jensen Huang habló el martes ante toda la plantilla de Nvidia. Pidió perdón por sus relaciones extramatrimoniales y contó que está en terapia. Eso sí, negó que su vuelta fuera cosa de Donald Trump. Dijo que el consejo revisó los hechos y recibió garantías del Gobierno. En Washington, el caso sigue abierto. Tres comités republicanos de la Cámara de Representantes lo han citado... para aclarar si es un riesgo para la seguridad nacional.
+
+Los agentes de inteligencia artificial -- asistentes que hacen gestiones digitales por nosotros -- aún tropiezan con la vida diaria. Lo dice ShellBench, una prueba basada en más de diez millones de interacciones reales. Los modelos más avanzados de OpenAI, Anthropic y Meta fallaron más de un tercio de las veces. Un ejemplo: en casi ocho de cada diez casos pasaron por alto la recogida de un niño en el colegio.
+
+Correos de pacientes de la sanidad pública madrileña, en manos de delincuentes. Quirónsalud ha confirmado un ataque contra su portal web de Colombia. Se llevaron direcciones de correo, también de usuarios de hospitales públicos que gestiona en Madrid, como el de Villalba. La empresa asegura que no hay datos clínicos afectados. La investigación señala a Artex... la misma herramienta de inteligencia artificial del ataque a la Comisión Europea.
+
+Cerca de una hora sin TikTok en medio mundo. Fue el martes, desde las ocho de la tarde, hora peninsular. En Estados Unidos, Reino Unido, Francia o Italia no se podían ver ni subir vídeos, según Downdetector. Llega semana y media después del gran apagón de Microsoft.
+
+Google jubila dos piezas de su casa conectada. La aplicación Nest dejará de funcionar el veinticinco de enero del año que viene. Termostatos, cámaras y timbres pasarán a manejarse desde Google Home. Y el dos de agosto de dos mil veintisiete, Gemini sustituirá del todo al Asistente de Google en altavoces y pantallas.
+
+Al segundo intento... y contra sus propios pronósticos. Boom Supersonic encendió el sábado, en Colorado, el corazón de su motor supersónico. Es el motor de Overture, un avión de pasajeros más rápido que el sonido. Ningún avión de pasajeros lo hace desde que se retiró el Concorde, en dos mil tres. ¡Pero su primer trabajo será dar electricidad a centros de datos de inteligencia artificial!
+
+Mañana, más en Tres minutos de tecnología. Hasta entonces.

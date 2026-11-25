@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 03:55:14 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:56:39 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Miércoles 25 de noviembre: Jensen Huang pide perdón a la plantilla de Nvidia</title>
+      <description>Abrió con el seguimiento de Nvidia: el martes 24 Jensen Huang pidió perdón a la plantilla por sus relaciones extramatrimoniales, dijo estar en terapia y negó que su vuelta se debiera a Trump (el consejo revisó los hechos y recibió garantías del Gobierno); tres comités republicanos de la Cámara lo han citado sobre si es un riesgo para la seguridad nacional. Siguieron el benchmark ShellBench (más de 10 millones de interacciones; los mejores agentes de OpenAI, Anthropic y Meta fallan más de un tercio de las veces y casi ocho de cada diez ignoran la recogida de un niño), el ciberataque a Quirónsalud desde su portal de Colombia que robó correos de pacientes de hospitales públicos madrileños como Villalba, sin datos clínicos y atribuido a Artex, la caída global de TikTok de cerca de una hora el martes desde las ocho de la tarde, y el cierre de la app Nest el 25 de enero de 2027 con el paso a Google Home y la sustitución del Asistente por Gemini el 2 de agosto de 2027. Cierre ligero: Boom Supersonic encendió el sábado 21 en Colorado el núcleo del motor del Overture, que antes alimentará centros de datos de IA.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 03:54:24 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-25.mp3" length="3398888" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-25.mp3</link>
+      <itunes:duration>212</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-25.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-25.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Martes 24 de noviembre: Jensen Huang vuelve a dirigir Nvidia once días después</title>
       <description>Abrió con la readmisión de Jensen Huang como consejero delegado de Nvidia el lunes 23, por unanimidad y once días después de su salida por su relación con Alice Huang; Trump dijo a CNBC que convenció al consejo, las acciones subieron más del 30 por ciento, Semafor adelanta que Comercio incluirá a Megaspeed en su lista negra (lo niega) y Huang declarará ante el Congreso el 1 de diciembre. Siguieron el ciberataque a una plataforma de aficionados de LaLiga del 14 al 16 de noviembre (datos de usuarios y clubes como el Córdoba, alcance aún desconocido, investiga la Policía Nacional), el estudio de la Universitat Rovira i Virgili que reidentifica usuarios en las búsquedas de Google anonimizadas con el método de Bruselas para la Ley de Mercados Digitales, la entrevista de Marc Murtra (Telefónica) en Barron's pidiendo IA, ciberseguridad y nube europeas, y el seguimiento del ciberataque a la Comisión Europea, atribuido por Politico a la herramienta Artex, sobre la que alertó el FBI. Cierre ligero: iShowSpeed sobrescribió su partida de GTA VI al 98 por ciento tras 52 horas de directo, que sumó más de 20 millones de visitas.
