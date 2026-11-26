@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 04:01:32 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:02:21 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 26 de noviembre: el Barça golea en Bakú y España debuta en la Davis</title>
+      <description>El Barça ganó 1-4 al Sabah en Bakú con rotaciones (doblete de Anthony Gordon, goles de Adeyemi y Gabriel Jesus, Raphinha suplente y Lamine Yamal reservado), debutó Álex Campos, de 18 años, y Fermín López fue sancionado con dos partidos (se pierde Deportivo y Atlético en Liga); el Atlético ganó 2-0 al Viking (Sorloth y falta directa de Julián Álvarez) y sube al 18.º, y el Villarreal ganó 0-1 en Praga al Slavia con gol de Tajon Buchanan, cortando siete derrotas seguidas fuera en Champions. España debuta hoy en la Copa Davis ante Austria (no antes de las 17.00) con Ferrer sin decidir si juega Alcaraz, que entrenó el miércoles, e Italia pasó 2-1 a Corea del Sur gracias al dobles Berrettini-Vavassori; en la Euroliga, el Real Madrid ganó 108-93 al Zalgiris (20 de Andrés Feliz, 16 de Tavares) y vuelve al playoff, y el Olympiacos (11-3) es nuevo líder por delante del Valencia Basket; Pecco Bagnaia no correrá en Cheste su despedida de Ducati por las fracturas del pie derecho y le sustituye Iker Lecuona. Cierre: Jurij Rodionov, líder de Austria, tiene un 1-0 ante Alcaraz, al que ganó en 2019 en Mallorca cuando el español tenía 16 años.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 04:00:11 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-26.mp3" length="3434414" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-26.mp3</link>
+      <itunes:duration>215</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-26.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-26.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 25 de noviembre: el Madrid remonta al PSV y Senegal recupera su Copa África</title>
       <description>El Real Madrid remontó 5-1 al PSV en el Bernabéu (penalti de Perisic; tras los tres cambios de Mourinho al descanso marcaron Valverde, Bellingham de volea, Mbappé por partida doble y Vinícius, su primer gol desde agosto), décima victoria seguida y 15 puntos en Champions; el TAS anuló la decisión de la CAF que en marzo dio a Marruecos la Copa África por 3-0 y devolvió el título a Senegal (0-1 en la prórroga en Rabat, con abandono temporal del campo tras un penalti), y la federación marroquí anuncia acciones legales. En la Euroliga, un triple de Hayes-Davis sobre la bocina dio al Panathinaikos el 83-86 en el Roig Arena y quitó el liderato al Valencia Basket, y el Barça perdió 77-83 ante el Fenerbahçe tras ir doce arriba (26 de Shields con siete triples); Alcaraz vuelve hoy a entrenar en Bolonia y, según Marca, no jugaría los individuales del jueves ante Austria (Jódar y Mérida), solo el dobles si hay 1-1; el Betis ganó 0-2 al Slovan con dos goles de cabeza de Cucho Hernández, suma 12 puntos y tiene casi asegurado el top 24. Cierre: Dani Mérida, que viajó más de un año solo en furgoneta y ha pasado del 164 al 42 del ranking, puede jugar mañana la Copa Davis.
