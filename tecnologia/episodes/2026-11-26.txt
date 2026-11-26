@@ -1,0 +1,17 @@
+Hoy es jueves, 26 de noviembre.
+
+1Password, el gestor de contraseñas, sufre una intrusión. Microsoft declara el código rojo tras su peor caída. Y Nvidia sigue en el punto de mira pese a la vuelta de Huang.
+
+El diecinueve de noviembre, 1Password detectó a un intruso en sus sistemas internos. El gestor de contraseñas lo hizo público el miércoles. Entró por la cuenta de GitHub de un empleado -- el servicio donde la empresa guarda su código. Se llevó nombres y correos de una parte de sus clientes, sin cifra todavía. Pero las bóvedas, donde están las contraseñas... nunca estuvieron a su alcance. No hace falta cambiarlas. Sí conviene desconfiar de correos o llamadas inesperadas.
+
+Más de once mil mensajes en once chats... y nadie tenía claro qué pasaba. Así vivió Microsoft su caída del doce de noviembre, casi un día sin Outlook ni Teams. Lo revelan memorandos internos que ha visto la agencia Reuters. Para Jason Henderson, responsable de Microsoft 365, es la de mayor impacto en la historia de su correo en la nube. La empresa ha activado un código rojo. Su meta: resolver cualquier gran avería en UNA hora.
+
+Seguimos con Nvidia, porque la vuelta de Jensen Huang no cierra el caso. Desde el lunes, Megaspeed -- la empresa de Singapur ligada a Alice Huang -- está en la lista estadounidense de empresas restringidas. Se sospecha que desvió chips de Nvidia a China, y Megaspeed lo niega. La fiscalía de California y, según varios medios, el regulador de la Bolsa investigan a Nvidia. Donald Trump ya ha dicho que indultar a Huang es una opción. Huang comparecerá ante la Cámara el uno de diciembre y ante el Senado, el tres.
+
+Doce mil millones de euros en dos mil treinta: el doble de lo previsto. Es lo que quiere facturar Indra según su nuevo plan, presentado el miércoles, a cuatro días de las elecciones generales. Lo empujan la defensa e IndraMind, su división de inteligencia artificial. Abrirá catorce plantas y aspira a veinte mil millones en dos mil treinta y cinco.
+
+WhatsApp ya deja programar mensajes. Se mantiene pulsado el botón de enviar y se elige fecha y hora, de diez minutos a catorce días vista. Vale para textos, fotos y vídeos, también en grupos. Y el mensaje sale aunque el móvil esté apagado. Telegram y Signal lo tenían hace tiempo. Llegará a todos en las próximas semanas.
+
+A Gemini cuatro Neon, una inteligencia artificial de Google, le pidieron que eligiera una canción para cantarla. Escogió Daisy Bell. Es la que canta HAL 9000 en Dos mil uno: una odisea del espacio... mientras lo desconectan. Stanley Kubrick la eligió porque fue la primera canción cantada por un ordenador, un IBM setenta noventa y cuatro, en mil novecientos sesenta y uno. ¡Hay elecciones que dicen mucho!
+
+Esto ha sido Tres minutos de tecnología. Buen jueves, y hasta mañana.

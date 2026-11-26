@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 03:56:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:57:54 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Jueves 26 de noviembre: un intruso entra en el gestor de contraseñas 1Password</title>
+      <description>Abrió con la intrusión en 1Password, detectada el 19 de noviembre y comunicada el miércoles 25: el atacante entró por la cuenta de GitHub de un empleado y se llevó nombres y correos de parte de los clientes (sin cifra), sin acceso a las bóvedas. Siguieron el código rojo de Microsoft tras la caída del 12 de noviembre (memorandos vistos por Reuters: más de 11.000 mensajes en 11 chats, Jason Henderson la califica de la de mayor impacto en Exchange Online, meta de resolver averías en una hora), el seguimiento de Nvidia (Megaspeed en la lista de empresas restringidas desde el lunes 23, investigaciones de la fiscalía de California y la SEC, Trump abre la puerta a indultar a Huang, comparecencias el 1 y el 3 de diciembre), el plan Forward 2030 de Indra (12.000 millones en 2030, 20.000 en 2035, 14 plantas, IndraMind) y los mensajes programados de WhatsApp (de 10 minutos a 14 días). Cierre ligero: Gemini 4 Neon de Google eligió cantar Daisy Bell, la canción de HAL 9000 y la primera cantada por un ordenador, el IBM 7094, en 1961.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 03:55:39 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-26.mp3" length="3674741" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-26.mp3</link>
+      <itunes:duration>230</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-26.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-26.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Miércoles 25 de noviembre: Jensen Huang pide perdón a la plantilla de Nvidia</title>
       <description>Abrió con el seguimiento de Nvidia: el martes 24 Jensen Huang pidió perdón a la plantilla por sus relaciones extramatrimoniales, dijo estar en terapia y negó que su vuelta se debiera a Trump (el consejo revisó los hechos y recibió garantías del Gobierno); tres comités republicanos de la Cámara lo han citado sobre si es un riesgo para la seguridad nacional. Siguieron el benchmark ShellBench (más de 10 millones de interacciones; los mejores agentes de OpenAI, Anthropic y Meta fallan más de un tercio de las veces y casi ocho de cada diez ignoran la recogida de un niño), el ciberataque a Quirónsalud desde su portal de Colombia que robó correos de pacientes de hospitales públicos madrileños como Villalba, sin datos clínicos y atribuido a Artex, la caída global de TikTok de cerca de una hora el martes desde las ocho de la tarde, y el cierre de la app Nest el 25 de enero de 2027 con el paso a Google Home y la sustitución del Asistente por Gemini el 2 de agosto de 2027. Cierre ligero: Boom Supersonic encendió el sábado 21 en Colorado el núcleo del motor del Overture, que antes alimentará centros de datos de IA.
