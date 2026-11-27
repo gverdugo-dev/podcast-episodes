@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 03:53:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:26:00 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 27 de noviembre: vuelca un buque de gasóleo frente a Ibiza</title>
+      <description>El quimiquero Med Emre (bandera de Malta, naviera turca YMN) vuelca la noche del miércoles 25 a unas 25 millas de Ibiza por la entrada de agua en los tanques de lastre: 17 tripulantes rescatados, un marinero turco de 46 años muerto; el jueves la mancha de 2,6 millas desaparece, tanques con 7.000 toneladas de gasóleo intactos, buque estabilizado y remolque a puerto pendiente de la Marina Mercante (no contados Moeve, cetáceos ni Socib). Debate a cuatro del jueves 26 (Sánchez, Feijóo, Abascal, Colau): reproches por los 115 muertos de Urda y Adamuz, Sánchez admite que la vida está cara por la guerra de Irán, y él y Colau piden a Feijóo la dimisión de Ayuso por el ático; elecciones el domingo 29. El Consejo Europeo elige el jueves a Pablo Hernández de Cos para el BCE frente a Klaas Knot, relevo de Lagarde el 7 de febrero, el más joven con 55 años (no contados el Ibex +2,3%, el nombramiento formal de diciembre ni el presupuesto UE); el Tribunal de Apelación de París envía a juicio a Gérard Depardieu por la violación de Charlotte Arnould en 2018 (hasta 20 años). Cierre con el falso embajador otomano Ahmed Agá en la corte de Felipe IV (1649), destapado por la carta en oro de Mehmed IV del Archivo Histórico Nacional (estudio del CSIC). Pendiente: jornada de reflexión y elecciones del 29-N, remolque del Med Emre.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 04:23:57 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-27.mp3" length="2769859" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-27.mp3</link>
+      <itunes:duration>173</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-27.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-27.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 26 de noviembre: récord de cayucos en El Hierro</title>
       <description>El Hierro recibe el martes 24 unas 2.100 personas en 14 cayucos, récord diario histórico (más de cien menores, una niña nacida en la travesía, al menos un muerto, migrantes al raso en La Restinga); el miércoles 25 Fernando Clavijo declara la emergencia y el Gobierno desplegará la UME con un hospital de campaña; noviembre suma unas 15.500 llegadas a Canarias (no contados Frontex, Sira Rego en El Hierro ni la queja de la UFP). Estados Unidos propone el miércoles aranceles a 14 socios por exceso de capacidad: 15% a la UE, 20% a China sumado al 25% vigente, no antes de enero; el Ibex cae un 2% a mínimos desde junio (no contados Nvidia, Anthropic ni el PCE). Puigdemont anuncia en Bruselas su regreso el sábado 12 de diciembre en avión a El Prat y directo al Parlament (no contada la conferencia del 17 de diciembre). Marchas del 25N en toda España: 47 asesinadas este año, 1.388 desde que hay registros, y una mujer de 32 años muerta en Bullas presuntamente a manos de su expareja, buscada por la Guardia Civil (no contados Gloria Vallejo en Chiclana ni las marchas divididas). Cierre con la sonda Hera de la ESA, que encuentra en Dimorphos un cráter del tamaño de un estadio tras el impacto de DART. Pendiente: debate a cuatro del jueves 26 a las 22:00, Henri Parot y el tercer grado, elecciones del 29-N.
