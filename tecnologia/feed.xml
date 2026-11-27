@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 03:57:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:31:31 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 27 de noviembre: la FIFA confirma un ciberataque</title>
+      <description>Abrió con el ciberataque a la FIFA, confirmado el jueves 26: los atacantes suplantaron a personal del organismo de Gianni Infantino; el grupo Handsome Boy Hacking Club dice haberse llevado más de 12 GB de documentos internos (incluidas copias de documentos de identidad), que la FIFA cifra en un 0,1 por ciento de sus datos, y asegura que pidió rescate y los publicó en un foro. Siguieron la aprobación por la FCC, el miércoles 25, de Starmind, el millón de satélites de SpaceX para centros de datos en órbita (despliegue antes de noviembre de 2033, críticas de Amazon y astrónomos), el freno de Nvidia a los envíos de servidores de Dell y Supermicro a Malasia, Singapur, Tailandia e Indonesia por la nueva norma de exportación (filial de Singapur: 104.000 millones de dólares en 2025, según el Financial Times), el aviso de Brad Smith (Microsoft) en la CBS de más caídas por los parches urgentes que provoca la IA, y la compra de Softonic por Newborn Town por 40 a 50 millones de euros, con sede en Barcelona. Cierre ligero: No Speaker, el proyecto de Cody Collier que convierte el trackpad del MacBook en altavoz.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 04:29:03 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-27.mp3" length="3562310" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-27.mp3</link>
+      <itunes:duration>223</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-27.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-27.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 26 de noviembre: un intruso entra en el gestor de contraseñas 1Password</title>
       <description>Abrió con la intrusión en 1Password, detectada el 19 de noviembre y comunicada el miércoles 25: el atacante entró por la cuenta de GitHub de un empleado y se llevó nombres y correos de parte de los clientes (sin cifra), sin acceso a las bóvedas. Siguieron el código rojo de Microsoft tras la caída del 12 de noviembre (memorandos vistos por Reuters: más de 11.000 mensajes en 11 chats, Jason Henderson la califica de la de mayor impacto en Exchange Online, meta de resolver averías en una hora), el seguimiento de Nvidia (Megaspeed en la lista de empresas restringidas desde el lunes 23, investigaciones de la fiscalía de California y la SEC, Trump abre la puerta a indultar a Huang, comparecencias el 1 y el 3 de diciembre), el plan Forward 2030 de Indra (12.000 millones en 2030, 20.000 en 2035, 14 plantas, IndraMind) y los mensajes programados de WhatsApp (de 10 minutos a 14 días). Cierre ligero: Gemini 4 Neon de Google eligió cantar Daisy Bell, la canción de HAL 9000 y la primera cantada por un ordenador, el IBM 7094, en 1961.

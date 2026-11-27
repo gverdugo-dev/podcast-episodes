@@ -1,0 +1,17 @@
+Hoy es viernes, 27 de noviembre.
+
+La FIFA admite que unos piratas informáticos entraron en sus archivos. SpaceX tiene luz verde para lanzar un millón de satélites. Y Nvidia corta los envíos a cuatro países del sudeste asiático.
+
+Nadie forzó los sistemas de la FIFA: los atacantes se hicieron pasar por su propio personal. El organismo de Gianni Infantino reconoció el jueves un ataque criminal, con acceso a información personal y empresarial limitada. Ya trabaja con la policía. El grupo Handsome Boy Hacking Club se atribuye el golpe. Dice haberse llevado... más de doce gigas de documentos internos, incluidas copias de documentos de identidad. Para la FIFA, es apenas el cero coma uno por ciento de sus datos. Los piratas cuentan que pidieron un rescate y, sin respuesta, lo publicaron en un foro.
+
+Un millón de satélites para llevar los centros de datos al espacio. Es Starmind, el proyecto de SpaceX que el regulador estadounidense de las comunicaciones aprobó el miércoles, el primero de su tipo. Procesarán datos de inteligencia artificial con energía solar. El despliegue debe empezar antes de noviembre de dos mil treinta y tres. Amazon lo ve más ambición que plan. Y los astrónomos temen por el cielo nocturno.
+
+Seguimos con Nvidia, esta vez por sus chips. Según el Financial Times, ha pedido a Dell y Supermicro que dejen de enviar servidores a Malasia, Singapur, Tailandia e Indonesia. Allí acudían empresas chinas en busca de chips vetados por Washington. La razón: una nueva norma de exportación de Estados Unidos. Y la región pesa: su filial de Singapur ingresó 104.000 millones de dólares en dos mil veinticinco.
+
+Más caídas en los próximos meses: es el aviso de Brad Smith, presidente de Microsoft. Lo dijo el domingo en la cadena CBS. La inteligencia artificial encuentra fallos de seguridad más rápido de lo que se pueden arreglar. Y parchear con prisa rompe cosas, sobre todo en sistemas antiguos. Su consejo, aun así: instalar siempre las actualizaciones.
+
+Softonic, la veterana web española de descargas, cambia de manos. La compra Newborn Town, un grupo de aplicaciones que cotiza en Hong Kong, por entre cuarenta y cincuenta millones de euros. Softonic nació en mil novecientos noventa y siete y suma cien millones de usuarios al mes. Conservará su marca, su plantilla y su sede en Barcelona.
+
+Con los altavoces apagados... el portátil habla. El programador Cody Collier ha convertido el trackpad de su MacBook en un altavoz. Usa el pequeño motor que vibra al hacer clic, y lo controla hasta cuatro mil veces por segundo. Así reproduce música y una voz bastante robótica. Un consejo: mejor sobre la mesa. ¡En las rodillas suena mucho más bajo!
+
+Feliz viernes, y gracias por escuchar Tres minutos de tecnología.
