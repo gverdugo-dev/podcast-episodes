@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 04:02:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:36:26 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Viernes 27 de noviembre: Mérida y Jódar meten a España en semifinales de la Davis</title>
+      <description>España eliminó 2-0 a Austria en los cuartos de la Copa Davis en Bolonia sin que jugara Alcaraz (Dani Mérida, sustituto del lesionado Davidovich, ganó 6-4 6-4 a Schwaerzler y Rafa Jódar remontó a Rodionov 2-6 6-0 6-1) y juega el sábado a las 12.00 la semifinal ante Gran Bretaña, con Ferrer asegurando que Alcaraz estará listo; jueves negro en Europa: el Celta perdió 1-2 con el Bournemouth pese al gol de Aspas y a jugar con uno más desde el 22, la Real Sociedad cayó 2-1 ante el Crystal Palace tras el 0-1 de Mamadou Sarr y el Getafe perdió 1-0 en Tiflis ante el Iberia 1999 en la Conference, y España baja al séptimo puesto del ranking de rendimiento UEFA. La selección de baloncesto ganó 62-93 en Montenegro (16 puntos de Pierre Oriola, anotaron 11 de 12) tras tres derrotas, comparte liderato y recibe a Grecia el domingo en Santiago; en Ferrari, Hamilton y Leclerc hablaron en Catar del choque de Las Vegas, que Vasseur llamó inaceptable y del que Leclerc asumió la culpa (GP el domingo a las 17.00, Antonelli ya campeón); la sub-17 de Cubillo ganó 2-0 a Marruecos (Tunkara y Trujillano) y cierra el grupo con 22 goles a favor y ninguno en contra. Cierre: Baba Miller anotó nueve puntos en cuatro minutos con los Clippers ante Memphis.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 04:34:10 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-27.mp3" length="3502124" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-27.mp3</link>
+      <itunes:duration>219</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-27.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-27.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Jueves 26 de noviembre: el Barça golea en Bakú y España debuta en la Davis</title>
       <description>El Barça ganó 1-4 al Sabah en Bakú con rotaciones (doblete de Anthony Gordon, goles de Adeyemi y Gabriel Jesus, Raphinha suplente y Lamine Yamal reservado), debutó Álex Campos, de 18 años, y Fermín López fue sancionado con dos partidos (se pierde Deportivo y Atlético en Liga); el Atlético ganó 2-0 al Viking (Sorloth y falta directa de Julián Álvarez) y sube al 18.º, y el Villarreal ganó 0-1 en Praga al Slavia con gol de Tajon Buchanan, cortando siete derrotas seguidas fuera en Champions. España debuta hoy en la Copa Davis ante Austria (no antes de las 17.00) con Ferrer sin decidir si juega Alcaraz, que entrenó el miércoles, e Italia pasó 2-1 a Corea del Sur gracias al dobles Berrettini-Vavassori; en la Euroliga, el Real Madrid ganó 108-93 al Zalgiris (20 de Andrés Feliz, 16 de Tavares) y vuelve al playoff, y el Olympiacos (11-3) es nuevo líder por delante del Valencia Basket; Pecco Bagnaia no correrá en Cheste su despedida de Ducati por las fracturas del pie derecho y le sustituye Iker Lecuona. Cierre: Jurij Rodionov, líder de Austria, tiene un 1-0 ante Alcaraz, al que ganó en 2019 en Mallorca cuando el español tenía 16 años.
