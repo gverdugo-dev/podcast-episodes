@@ -1,0 +1,17 @@
+Hoy es sábado, 28 de noviembre.
+
+SAP prepara un gran recorte de empleo por la inteligencia artificial. Unos piratas informáticos entran en la nube de la Fuerza Aérea estadounidense. Y aparecen chips vetados de Nvidia en un centro de datos de Shanghái.
+
+Al menos diez mil empleos. Es el recorte que prepara SAP, la empresa de software más valiosa de Europa, según Bloomberg y el Financial Times. Sería el nueve por ciento de su plantilla. El motivo: rehacer su negocio para la era de la inteligencia artificial. Busca recortes sobre todo en producto, ingeniería y ventas. Y esta semana SAP admitió actividad sospechosa en GitHub, el servicio donde guarda su código. Por ahora, sin indicios de acceso a datos de clientes.
+
+La Fuerza Aérea de Estados Unidos tiene intrusos en su nube. Según Reuters, alguien entró en Cloud One, su gran plataforma informática. Se descubrió hace un mes. Desde ahí se gestionan nóminas y logística, y se siguen bombas y misiles en más de doscientas bases. Los atacantes aprovecharon un fallo de software para llegar... al mando central de la nube. Nadie sabe aún quién fue ni si se llevó datos.
+
+Un servidor de Nvidia de dos metros de alto... como garantía de un préstamo en Shanghái. Lo revelan documentos vistos por Bloomberg. Dos empresas chinas declararon allí equipos Blackwell, unos chips que Washington no deja exportar sin licencia. Uno respaldaba un crédito de catorce millones de dólares. El recinto está ligado a Alice Huang, la exdirectiva de Megaspeed.
+
+Llegar a otro país y tener datos sin buscar wifi. WhatsApp venderá eSIM -- la tarjeta virtual del móvil -- dentro de su aplicación. Se comprará en pocos toques y se mantendrá el mismo número. Trabaja con operadoras como Verizon o Jio. Llegará poco a poco, y en España aún no tiene fecha ni precio.
+
+Una demanda de un accionista destapa cómo el Gobierno de Donald Trump se quedó con el diez por ciento de Intel. Un abogado de Comercio avisó en agosto de dos mil veinticinco: aquello no era una negociación. A cambio, Washington liberaría 8.900 millones de dólares en ayudas ya concedidas. El consejo vio el trato poco atractivo... y lo aceptó. Los abogados de Intel sostienen que sí hubo negociación.
+
+Mil trescientos campos de fútbol bajo un mismo techo. Es la meta de Terafab, la fábrica de chips de Tesla y SpaceX. Elon Musk empezó a levantarla en octubre en Texas. Ocuparía más de nueve millones de metros cuadrados: más de cinco veces el mayor edificio del mundo, en Chengdu, China. Y todo, para fabricar algo que cabe en un bolsillo.
+
+Hasta aquí Tres minutos de tecnología. Buen fin de semana.

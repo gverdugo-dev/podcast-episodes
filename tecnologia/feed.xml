@@ -7,7 +7,7 @@
     <description>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 04:31:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:54:29 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Lo que se mueve en la tecnología, contado en tres minutos cada mañana: inteligencia artificial, startups y sus rondas, grandes tecnológicas, ciberseguridad y los lanzamientos que importan. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa tecnológica española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 28 de noviembre: SAP prepara diez mil despidos por la inteligencia artificial</title>
+      <description>Abrió con el plan de SAP, adelantado el viernes 27 por Bloomberg y el Financial Times, de suprimir al menos 10.000 empleos (el 9 por ciento de la plantilla) para reorientarse a la IA, sobre todo en producto, ingeniería y ventas, más el incidente de actividad sospechosa en GitHub que admitió esa semana, sin indicios de acceso a datos de clientes. Siguieron la intrusión en Cloud One, la nube de la Fuerza Aérea de EEUU (Reuters: descubierta hace un mes, acceso al plano de control por un fallo de software, más de 200 bases con control de munición, autor y robo desconocidos), los servidores Nvidia Blackwell declarados por dos empresas chinas como garantía de préstamos en un centro de datos de Shanghái ligado a Alice Huang (Bloomberg; uno respaldaba 14 millones de dólares), la venta de eSIM dentro de WhatsApp con Verizon y Jio, sin fecha para España, y la demanda del accionista Richard Paisner que muestra cómo el Gobierno de Trump obtuvo el 10 por ciento de Intel a cambio de liberar 8.900 millones en ayudas. Cierre ligero: Terafab, la fábrica de chips de Tesla y SpaceX en Texas, con más de nueve millones de metros cuadrados como objetivo.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 03:52:23 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-28.mp3" length="3477464" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-28.mp3</link>
+      <itunes:duration>217</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-28.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/tecnologia/episodes/2026-11-28.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 27 de noviembre: la FIFA confirma un ciberataque</title>
       <description>Abrió con el ciberataque a la FIFA, confirmado el jueves 26: los atacantes suplantaron a personal del organismo de Gianni Infantino; el grupo Handsome Boy Hacking Club dice haberse llevado más de 12 GB de documentos internos (incluidas copias de documentos de identidad), que la FIFA cifra en un 0,1 por ciento de sus datos, y asegura que pidió rescate y los publicó en un foro. Siguieron la aprobación por la FCC, el miércoles 25, de Starmind, el millón de satélites de SpaceX para centros de datos en órbita (despliegue antes de noviembre de 2033, críticas de Amazon y astrónomos), el freno de Nvidia a los envíos de servidores de Dell y Supermicro a Malasia, Singapur, Tailandia e Indonesia por la nueva norma de exportación (filial de Singapur: 104.000 millones de dólares en 2025, según el Financial Times), el aviso de Brad Smith (Microsoft) en la CBS de más caídas por los parches urgentes que provoca la IA, y la compra de Softonic por Newborn Town por 40 a 50 millones de euros, con sede en Barcelona. Cierre ligero: No Speaker, el proyecto de Cody Collier que convierte el trackpad del MacBook en altavoz.
