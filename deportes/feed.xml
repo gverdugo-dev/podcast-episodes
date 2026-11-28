@@ -7,7 +7,7 @@
     <description>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 04:36:26 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:59:01 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>El deporte del día contado en tres minutos cada mañana: resultados, fichajes y protagonistas en España y en el mundo. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa deportiva española e internacional: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Sports News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 28 de noviembre: Márquez anuncia su retirada y bate el récord de Cheste</title>
+      <description>Marc Márquez, de 33 años y recién campeón por décima vez, anunció el viernes en Cheste con unos carteles que el GP de Valencia será su última carrera en MotoGP (tenía contrato con Ducati hasta 2028); lo atribuye al miedo por la diplopía tras Indonesia y Le Mans, solo lo sabía su hermano Álex, y horas después batió el récord absoluto de MotoGP en Cheste (1:28.483); corre el domingo a las 14.00. En la Copa Davis, Italia ganó 2-1 a Chequia (Musetti y Vavassori en el dobles, 7-6 en el tercer set) y busca su cuarta Ensaladera seguida el domingo a las 15.00; España juega hoy a las 12.00 la semifinal ante Gran Bretaña, abriendo Jódar ante Norrie. El Real Madrid, con diez victorias seguidas, recibe al Alavés hoy a las 21.00 con Mendy de vuelta tras casi siete meses y sin Trent (enfermo), y el Barça, líder y sin empatar desde el 10 de marzo, visita el domingo Riazor; en Catar, Antonelli dominó los libres por 0,127 sobre Russell, Ferrari a un segundo, Sainz 16.º y Alonso 19.º (clasificación hoy a las 19.00); la selección femenina juega hoy a las 18.00 ante Chile en León, primer duelo entre ambas, con el regreso de Aitana Bonmatí. Cierre: Abde Rebbach, del Alavés, llegó a Vitoria desde Blida con 12 años de vacaciones y se quedó, y a los 28 acaba de debutar con Argelia.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 03:56:53 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-28.mp3" length="3436922" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-28.mp3</link>
+      <itunes:duration>215</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-28.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/deportes/episodes/2026-11-28.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 27 de noviembre: Mérida y Jódar meten a España en semifinales de la Davis</title>
       <description>España eliminó 2-0 a Austria en los cuartos de la Copa Davis en Bolonia sin que jugara Alcaraz (Dani Mérida, sustituto del lesionado Davidovich, ganó 6-4 6-4 a Schwaerzler y Rafa Jódar remontó a Rodionov 2-6 6-0 6-1) y juega el sábado a las 12.00 la semifinal ante Gran Bretaña, con Ferrer asegurando que Alcaraz estará listo; jueves negro en Europa: el Celta perdió 1-2 con el Bournemouth pese al gol de Aspas y a jugar con uno más desde el 22, la Real Sociedad cayó 2-1 ante el Crystal Palace tras el 0-1 de Mamadou Sarr y el Getafe perdió 1-0 en Tiflis ante el Iberia 1999 en la Conference, y España baja al séptimo puesto del ranking de rendimiento UEFA. La selección de baloncesto ganó 62-93 en Montenegro (16 puntos de Pierre Oriola, anotaron 11 de 12) tras tres derrotas, comparte liderato y recibe a Grecia el domingo en Santiago; en Ferrari, Hamilton y Leclerc hablaron en Catar del choque de Las Vegas, que Vasseur llamó inaceptable y del que Leclerc asumió la culpa (GP el domingo a las 17.00, Antonelli ya campeón); la sub-17 de Cubillo ganó 2-0 a Marruecos (Tunkara y Trujillano) y cierra el grupo con 22 goles a favor y ninguno en contra. Cierre: Baba Miller anotó nueve puntos en cuatro minutos con los Clippers ante Memphis.
