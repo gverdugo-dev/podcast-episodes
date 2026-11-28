@@ -7,7 +7,7 @@
     <description>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</description>
     <language>es</language>
     <copyright>Gonzalo Verdugo</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 04:26:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:49:44 +0100</lastBuildDate>
     <generator>feed.py (news-aggregator plugin)</generator>
     <itunes:author>Gonzalo Verdugo</itunes:author>
     <itunes:summary>Las noticias del día en España y el mundo, contadas en tres minutos cada mañana. Un boletín diario escrito y locutado con inteligencia artificial a partir de la prensa española: guion generado por un modelo de lenguaje y voz sintética de ElevenLabs.</itunes:summary>
@@ -27,6 +27,21 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title>Sábado 28 de noviembre: los partidos cierran la campaña</title>
+      <description>Cierres de campaña del viernes 27 antes del 29-N: Sánchez en la Caja Mágica (unas 12.000 personas, lema todo al rojo), Feijóo en Sevilla pidiendo el voto a votantes de izquierda, Abascal en la plaza de toros de Valencia (unas 14.000 según Vox) y Colau en Villaverde (unas 5.000) (no contados Bono, la mili de Sánchez, el calladita, Begoña Gómez, Almodóvar). IPC adelantado de noviembre: 4,1%, ocho décimas menos por los carburantes; pensiones contributivas +3,5% en 2027 y las más bajas hasta un 14% (no contados subyacente 2,6% ni cifras por pensionista). Seguimiento del Med Emre: remolque boca abajo a Escombreras (Cartagena), llegada prevista el lunes, oposición de López Miras, posible causa en tapas de los tanques de lastre abiertas según la capitana marítima Elena Delgado; Zelenski en la BBC compara llamar amigo a Putin con llamar amigo a Hitler y acusa a EE UU de retrasar los Patriot por Oriente Medio (no contados los nueve niños devueltos por mediación de Melania Trump). Cierre con el primer pingüino saltarrocas norteño nacido por inseminación artificial en el zoo Adventure World (Wakayama, Japón), debut en marzo. Pendiente: resultados del 29-N, llegada del Med Emre a Cartagena.
+
+Guion y voz generados con inteligencia artificial.</description>
+      <guid isPermaLink="false">2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 03:47:42 +0100</pubDate>
+      <enclosure url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-28.mp3" length="2839658" type="audio/mpeg" />
+      <link>https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-28.mp3</link>
+      <itunes:duration>177</itunes:duration>
+      <itunes:image href="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-28.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://gverdugo-dev.github.io/podcast-episodes/noticias/episodes/2026-11-28.txt" type="text/plain" language="es" />
+    </item>
     <item>
       <title>Viernes 27 de noviembre: vuelca un buque de gasóleo frente a Ibiza</title>
       <description>El quimiquero Med Emre (bandera de Malta, naviera turca YMN) vuelca la noche del miércoles 25 a unas 25 millas de Ibiza por la entrada de agua en los tanques de lastre: 17 tripulantes rescatados, un marinero turco de 46 años muerto; el jueves la mancha de 2,6 millas desaparece, tanques con 7.000 toneladas de gasóleo intactos, buque estabilizado y remolque a puerto pendiente de la Marina Mercante (no contados Moeve, cetáceos ni Socib). Debate a cuatro del jueves 26 (Sánchez, Feijóo, Abascal, Colau): reproches por los 115 muertos de Urda y Adamuz, Sánchez admite que la vida está cara por la guerra de Irán, y él y Colau piden a Feijóo la dimisión de Ayuso por el ático; elecciones el domingo 29. El Consejo Europeo elige el jueves a Pablo Hernández de Cos para el BCE frente a Klaas Knot, relevo de Lagarde el 7 de febrero, el más joven con 55 años (no contados el Ibex +2,3%, el nombramiento formal de diciembre ni el presupuesto UE); el Tribunal de Apelación de París envía a juicio a Gérard Depardieu por la violación de Charlotte Arnould en 2018 (hasta 20 años). Cierre con el falso embajador otomano Ahmed Agá en la corte de Felipe IV (1649), destapado por la carta en oro de Mehmed IV del Archivo Histórico Nacional (estudio del CSIC). Pendiente: jornada de reflexión y elecciones del 29-N, remolque del Med Emre.
